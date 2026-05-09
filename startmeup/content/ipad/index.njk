@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+pageName: ipad
+eleventyNavigation: 
+  key: ipad
+  parent: Blog +
+  order: 2
+pagination:
+  data: collections.ipad
+  size: 20
+  alias: ipad
+  permalink: "ipad/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html"
+---
+
+<h1 class="toph">iPad</h1>
+<br><br>
+{% for post in collections.ipad %}
+
+
+    {% if post.data.cover %}
+<article>
+      <img src="/img/covers/{{ post.data.cover }}" width="150" class="post-image" alt="{{ alt.data.title }}" eleventy:ignore>
+    {% endif %}
+    <div class="post-content">
+        <span class="post-date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span>
+        <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        {% if post.data.writer %}
+          <p><em>
+            {% set writerList = post.data.writer.split(',') %}
+            {% for writerName in writerList %}
+              <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </em></p>
+        {% endif %}
+        {% if post.data.artist %}
+          <p><em>
+            {% set artistList = post.data.artist.split(',') %}
+            {% for artistName in artistList %}
+              <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </em></p>
+        {% endif %}
+        <p class="excerpt">{{ post.data.excerpt }}</p>
+    </div>
+</article>
+  {% if not loop.last %}
+  <div class="post-separator"></div>
+  {% endif %}
+{% endfor %}
+
+{# Pagination navigation #}
+{% if pagination.links.length > 0 %}
+  <nav class="page-pagination" aria-label="Blog page navigation">
+    <div class="page-pagination-links">
+      {% if pagination.previousPageLink %}
+        <a href="{{ pagination.previousPageLink }}" class="page-pagination-previous">Newer Posts &rarr; </a>
+      {% endif %}
+      
+      {% if pagination.nextPageLink %}
+        <a href="{{ pagination.nextPageLink }}" class="page-pagination-next">&larr; Older Posts</a>
+      {% endif %}
+    </div>
+  </nav>
+{% endif %}

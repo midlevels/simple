@@ -1,0 +1,156 @@
+/**
+ * Font-Face Declarations
+ * All @font-face rules for custom fonts used throughout the site
+ */
+/*
+@font-face {
+font-family: heliotrope;
+font-style: normal;
+font-weight: 400;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_3_book.woff2') format('woff2');
+}
+*/
+
+@font-face {
+font-family: heliotrope-italic;
+font-style: italic;
+font-weight: 400;
+font-stretch: normal;
+font-style: italic;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_3_book_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_ot_4_medium;
+font-style: normal;
+font-weight: 500;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_4_medium.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_ot_4_medium_italic;
+font-style: normal;
+font-weight: 500;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_4_medium_italic.woff2') format('woff2');
+}
+/*
+@font-face {
+font-family: heliotrope_ot_6_semibold;
+font-style: normal;
+font-weight: 600;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_6_semibold.woff2') format('woff2');
+}
+*/
+
+@font-face {
+font-family: heliotrope_ot_6_semibold_italic;
+font-style: normal;
+font-weight: 600;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_6_semibold_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_ot_8_black;
+font-style: normal;
+font-weight: 800;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_8_black.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_ot_8_black;
+font-style: italic;
+font-weight: 800;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_8_black_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_ot_8_black_italic;
+font-style: normal;
+font-weight: 800;
+font-stretch: normal;
+font-display: swap;
+src: url('/public/assets/fonts/heliotrope/heliotrope_ot_8_black_italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: ibm-plex-mono-bold;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono-bold-ital;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono-ital;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display:swap;
+}
+
+@font-face {
+font-family: heliotrope_4_caps;
+font-style: normal;
+font-weight: 600;
+font-stretch: normal;
+font-display: small-caps;
+src: url('/public/assets/fonts/heliotrope/heliotrope_4_caps_regular.woff2') format('woff2');
+}
+
+@font-face {
+font-family: heliotrope_4_caps_bold;
+font-style: normal;
+font-weight: 800;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/assets/fonts/heliotrope/heliotrope_4_caps_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: duospace;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/assets/fonts/duospace/duospace.woff2') format('woff2');
+}
+
+@font-face {
+font-family: duospace-ital;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/assets/fonts/duospace/duospace-ital.woff2') format('woff2');
+}

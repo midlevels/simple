@@ -1,0 +1,20 @@
+---
+title: Tags
+layout: layouts/base.njk
+---
+
+
+<h1 class="tag-head toph">All Tags</h1>
+
+<ul class="">
+ 
+{% for posts in collections.postsSorted  %}
+
+
+        <li>
+            <a href="/tags/{{ tag }}/">{{ tag }}</a>
+            {% set tagCount = collections[tag].length %}
+            <span class="tag-count">({{ tagCount }} post{% if tagCount != 1 %}s{% endif %})</span>
+        </li>
+    {% endfor %}
+</ul>
