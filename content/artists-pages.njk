@@ -1,0 +1,23 @@
+---js
+const pagination = {
+	data: "collections.artists",
+	size: 1,
+	alias: "artist",
+	layout: "layouts/base.njk"
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+	title: data => data.artist,
+	permalink: function(data) {
+		return `/artists/${this.slugify(data.artist)}/`;
+	}
+};
+---
+
+<h1 class="tag-head toph">{{ artist }}</h1>
+{% set bio = collections.all | getArtistBio(artist) %}
+{% if bio %}<div class="artist-bio">{{ bio | renderMarkdown | safe }}</div>{% endif %}
+{% set postslist = collections.all | getArtistPosts(artist) %}
+{% include "postslist.njk" %}

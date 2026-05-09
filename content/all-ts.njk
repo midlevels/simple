@@ -1,0 +1,16 @@
+---
+title: Tags
+permalink: /all-ts/
+layout: layouts/base.njk
+pageName: All Tags
+---
+
+
+<h1 class="tag-head toph">All tags</h1>
+<p class="tags-list twocol">
+{% for tag in collections.all | getAllTags | filterTagList %}
+    {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+    <a href="{{ tagUrl }}" class="post-tag">{{ tag | title }}</a> <br>
+{% endfor %}
+</p>
+

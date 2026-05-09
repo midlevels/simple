@@ -1,0 +1,149 @@
+/**
+ * Tag Components
+ * Tag styling for post metadata, tag lists, and tag pages
+ */
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    margin:var(--space-s) 0
+}
+
+.tag {
+    display: inline-flex;
+    align-items: center;
+    padding: .25rem .65rem;
+    background: 0 0;
+    color: var(--color-highlight);
+    text-decoration: none;
+    border-radius: var(--border-radius-sm);
+    font-size: .8125rem;
+    font-weight: 500;
+    font-family: var(--font-base);
+    border: 1px solid var(--color-border);
+    transition:all var(--transition-base)
+}
+
+.tag-head {
+    padding-bottom: 2rem;
+}
+
+.tag-head:child {
+    margin-bottom: 1.5rem;
+    font-family: heliotrope_ot_4_medium, sans-serif;
+}
+
+.tag:hover {
+    background: var(--color-highlight-subtle);
+    color: var(--color-highlight-hover);
+    border-color: var(--color-highlight);
+    text-decoration: none;
+    transform:translateY(-1px)
+}
+
+.tag:active {
+    transform:translateY(0)
+}
+
+.tag:focus-visible {
+    outline: 2px solid var(--color-highlight);
+    outline-offset:2px
+}
+
+.all-tags {
+    font-family: var();
+}
+
+.tags-list {
+    font-family: var(--font-base);
+    font-size: 1rem;
+}
+
+ul.tags {
+    column-count: 2;
+    list-style-position: inside;
+}
+
+/* Post Tags */
+.post-tag {
+    color: var(--color-text-subtle);
+    font-family: heliotrope_ot_4_medium, georgia, serif;
+    font-size: 1.2rem;
+    font-variant-numeric: tabular-nums;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: normal;
+}
+
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+.tag-page-item {
+    font-family: heliotrope_ot_4_medium;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    color: var(--color-text);
+}
+
+/* Tags list */
+ul.post-metadata {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: .5em;
+	list-style: none;
+    list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul.post-metadata li {
+    display:  contents;
+}
+
+.post-metadata time {
+	margin-right: 1em;
+    list-style-type: none;
+}
+
+/* Post Meta Information */
+.post-meta {
+    margin-bottom: var(--space-m);
+}
+
+.cite {
+    float: right;
+}
+
+.meta-row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: var(--color-accent);
+    line-height: 1.6;
+}
+
+.meta-row + .meta-row {
+    margin-top: 0.5rem;
+}
+
+.post-date, .reading-time {
+    color: var(--color-text-subtle);
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    font-variant-numeric: tabular-nums;
+}
+
+.meta-separator {
+    color: var(--color-border);
+    user-select: none;
+    font-weight: 300;
+}
+
+.tags-row {
+    padding-top: 0.25rem;
+}

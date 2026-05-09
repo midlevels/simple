@@ -1,0 +1,55 @@
+/**
+ * Quotation Post Styling
+ * Special styling for Quotation post type with large italic quotation and attribution
+ */
+
+/* Quotation post styling */
+.quotation-post {
+    padding: 1.5rem 0;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    display: block;
+}
+
+/* Large quotation text with curly quotes */
+.quotation-post .quotation-text {
+    font-family: heliotrope-italic, serif;
+    font-size: 4rem;
+    font-style: italic;
+    line-height: 1.2;
+    margin: .5rem 0 1.5rem 0;
+    color: var(--color-text);
+}
+
+/* Add curly quotes around the quotation */
+.quotation-post .quotation-text::before {
+    content: '\201C'; /* Left double curly quote */
+}
+
+.quotation-post .quotation-text::after {
+    content: '\201D'; /* Right double curly quote */
+}
+
+/* Attribution styling */
+.quotation-post .attribution {
+    font-family: heliotrope_4_caps_bold, sans-serif;
+    color: #111111;
+    margin: 0;
+    text-align: right;
+}
+
+/* Add mdash before attribution */
+.quotation-post .attribution::before {
+    content: '\2014\00A0'; /* Em dash followed by non-breaking space */
+}
+
+/* Dark mode override for attribution color */
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme=light]) .quotation-post .attribution {
+        color: #eeeeee;
+    }
+}
+
+[data-theme=dark] .quotation-post .attribution {
+    color: #eeeeee;
+}

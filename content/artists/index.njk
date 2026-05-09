@@ -1,0 +1,14 @@
+---
+title: Artists noted on this site
+layout: layouts/base.njk
+pageName: Artists
+---
+
+<h1 class="toph">{{ title }}</h1>
+
+{% set internalArtists = collections.all | getAllArtists %}
+<p class="twocol">
+{% for artist in internalArtists %}
+<a href="/artists/{{ artist | slugify }}/">{{ artist }}</a><br>
+{% endfor %}
+</p>
