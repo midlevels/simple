@@ -1,6 +1,0 @@
-<FilesMatch "\.js$">
-    SetEnvIf Referer "^https?://(www\.)?daveross\.name" allow_access
-    Order Deny,Allow
-    Deny from all
-    Allow from env=allow_access
-</FilesMatch>

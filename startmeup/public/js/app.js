@@ -1,1 +1,0 @@
-import '@zachleat/pagefind-search';
