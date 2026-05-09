@@ -1,0 +1,14 @@
+---
+title: Authors noted on this site
+layout: layouts/base.njk
+pageName: Writers
+---
+
+<h1 class="toph">{{ title }}</h1>
+
+{% set internalWriters = collections.all | getAllWriters %}
+<p class="twocol">
+{% for writer in internalWriters %}
+<a href="/writers/{{ writer | slugify }}/">{{ writer }}</a><br>
+{% endfor %}
+</p>

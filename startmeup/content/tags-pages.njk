@@ -1,0 +1,40 @@
+---js
+// <script>
+const pagination = {
+	data: "collections",
+	size: 1,
+	alias: "tag",
+ layout: "layouts/base.njk",
+	filter: ["all", "posts"],
+	// addAllPagesToCollections: true,
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+	title: "Tagged '{{ tag }}'",
+	permalink: function(data) {
+		// If DuplicatePermalinkOutputError occurs, check that no tag occurs
+		// with differing case, e.g. "RSS" and "rss".
+		return `/tags/${this.slugify(data.tag)}/`;
+	}
+};
+---
+
+
+<h1 class="tag-head toph">Tagged “{{ tag }}”</h1>
+{% if tag == "instagrab" %}
+  <p>Rescued from my account on either IG or FB.</p>
+{% endif %}
+{% if tag == "hkbc" %}
+<p>Hong Kong Book Club</p>
+{% endif %}
+{% if tag == "reading" %}
+<p>A not quite comprehensive list</p>
+{% endif %}
+
+{% set postslist = collections[ tag ] | reverse %}
+{% include "postslist.njk" %}
+
+<p class="post-date"><a href="all-ts.njk">All tags</a></p>
+

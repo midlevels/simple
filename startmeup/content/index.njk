@@ -1,0 +1,181 @@
+---
+layout: layouts/base.njk
+pageName: Home
+pagination:
+  data: collections.posts
+  size: 20
+  alias: posts
+  reverse: true
+  permalink: "posts/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html"
+page-description: Home page of Dave Ross, an agreeable contrarian abiding in Hong Kong.
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+<h1 class="toph">&nbsp;</h1>
+
+{% for post in posts %}
+
+  {% if post
+    .data
+    .tags and post
+    .data
+    .tags
+    .includes('quotation') %}
+    {# Quotation post with special styling #}
+    <article class="quotation-post">
+      <p class="quotation-text">{{ post.data.quotation }}</p>
+      {% if post.data.attribution %}
+        <p class="attribution">{{ post.data.attribution }}</p>
+      {% endif %}
+    </article>
+  {% elif post
+    .data
+    .tags and post
+    .data
+    .tags
+    .includes('share') %}
+    {# Share post with special styling #}
+    <article class="share-post">
+      <div class="post-content">
+        <span class="post-date">
+          <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+        </span>
+        <h2>{{ post.data.title }}</h2>
+
+        {{ post.templateContent | safe }}
+        {% if post.data.linkurl and post.data.source %}
+          <p class="via">
+            <strong>Via <a href="{{ post.data.linkurl }}" target="_blank" rel="noopener">{{ post.data.source }}</a>
+            </strong>
+          </p>
+        {% elif post.data.source %}
+          <p>
+            <strong>Via {{ post.data.source }}</strong>
+          </p>
+        {% endif %}
+      </div>
+    </article>
+  {% else %}
+    {# Regular post #}
+    <article>
+      {% if post.data.cover %}
+        <a href="{{ post.url }}" class="post-image-link"><img src="/img/covers/{{ post.data.cover }}" width="150" class="post-image" alt="{{ post.data.title }}" eleventy:ignore></a>
+      {% endif %}
+      <div class="post-content">
+        {% if post.data.linky %}
+        {% else %}
+          <span class="post-date">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          </span>
+        {% endif %}
+        {% if post.data.linky %}
+          <span class="post-date">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          </span>
+          <h2>
+            <a href="{{ post.data.linky }}" target="_new" >{{ post.data.title }}</a> &#128279;</h2>
+          <br>
+          <em>Via: {{ post.data.via }} &rarr;</em>
+        {% else %}
+          <h2>
+            <a href="{{ post.url}}">{{ post.data.title }}</a>
+          </h2>
+        {% endif %}
+        {% if post.data.writer %}
+          <p>
+            <em>
+              {% set writerList = post.data.writer.split(',') %}
+              {% for writerName in writerList %}
+                <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
+        {% if post.data.artist %}
+          <p>
+            <em>
+              {% set artistList = post.data.artist.split(',') %}
+              {% for artistName in artistList %}
+                <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
+
+        <p class="excerpt">{{ post.data.excerpt }}</p>
+
+      </div>
+    </article>
+  {% endif %}
+
+  {% if not loop.last %}
+    <div class="post-separator"></div>
+  {% endif %}
+
+  {# Insert newsletter form between 2nd and 3rd article on home page only #}
+  {% if loop.index === 2 and pagination.pageNumber === 0 %}
+    <div style="margin: 1.5rem 0;">
+      <form
+        action="https://buttondown.com/api/emails/embed-subscribe/daveross"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.com/daveross', 'popupwindow')"
+        class="embeddable-buttondown-form"
+      >
+        <label for="bd-email">Enter your email to receive a monthly digest of post headlines.</label>
+        <input type="email" name="email" id="bd-email" required/>
+        <input type="submit" value="Subscribe"/>
+      </form>
+    </div>
+    <div class="post-separator"></div>
+  {% endif %}
+{% endfor %}
+
+{# Pagination navigation #}
+{% if pagination.href.previous or pagination.href.next %}
+  <nav class="page-pagination page-pagination--home" aria-label="page navigation">
+    <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
+      {% if pagination.href.previous %}
+        <span>
+          <a href="{{ pagination.href.previous }}" class="page-pagination-previous">
+      Newer Posts &rarr;
+    </a>
+        </span>
+      {% endif %}
+
+      {% if pagination.href.next %}
+        <span>
+          <a href="{{ pagination.href.next }}" class="page-pagination-next">
+
+      &larr; Older Posts
+    </a>
+        </span>
+      {% endif %}
+    </div>
+  </nav>
+{% endif %}
+
+<!--
+<h3>Blog</h3>
+{% for post in collections.blogFirst10  %}<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> / <a href="{{ post.url }}">{{ post.data.title }}</a><br>
+{% endfor %}
+<br>
+<a href="/blog">More posts…</a>
+<br>
+<h3>Reading</h3>
+{% for post in collections.readingFirst10  %}
+<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> / <a href="{{ post.url }}">{{ post.data.title }}</a>{% if post.data.writer %} ({{ post.data.writer }}) {% endif %}<br>
+{% endfor %}
+<br>
+<a href="/reading">More posts…</a>
+<br>
+<h3>Photography</h3>
+{% for post in collections.photographyFirst10  %}
+<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time> / <a href="{{ post.url }}">{{ post.data.title }}</a>{% if post.data.artist %} ({{ post.data.artist }}) {% endif %}<br>
+{% endfor %}
+<br>
+<a href="/photography">More posts…</a>
+<br>
+
+-->
