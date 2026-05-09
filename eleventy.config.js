@@ -243,8 +243,7 @@ eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     // Shortcodes
     const escAttr = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
     eleventyConfig.addShortcode('figure', (_src, alt, caption = '') => {
-        const text = caption || alt;
-        return text ? `<p>${escAttr(text)}</p>` : "";
+        return "";
     });
 
     eleventyConfig.addShortcode("youtube", function(_shareUrl) {
@@ -252,7 +251,7 @@ eleventyConfig.addFilter("htmlDateString", (dateObj) => {
     });
 
     eleventyConfig.addShortcode("sizing", function(_fileName, _width, caption = '') {
-        return caption ? `<p>${escAttr(caption)}</p>` : "";
+        return "";
     });
 
     eleventyConfig.addShortcode("callout", words => `<span class="callout">${words}</span>`);
