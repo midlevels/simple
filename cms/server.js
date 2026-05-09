@@ -653,9 +653,6 @@ function layout(title, body) {
       border-bottom:2px solid #1d3557; padding-bottom:.25rem; margin-bottom:1rem;
     }
     /* ── Post list ── */
-    .cover-thumb       { width:48px; height:60px; object-fit:cover; border-radius:4px; }
-    .cover-placeholder { width:48px; height:60px; background:#cce0f0; border-radius:4px;
-                         display:flex; align-items:center; justify-content:center; }
     .actions          { display:flex; gap:.4rem; flex-wrap:wrap; align-items:center; }
     .actions form     { margin:0; }
     .btn-sm           { padding:.3rem .65rem; font-size:.85em; line-height:1.4;
@@ -1408,21 +1405,6 @@ async function postFormPage(slug, post, isNew, flash = '') {
         </div>
       </section>
 
-      <!-- ── Cover Image ───────────────────────────────────── -->
-      <section>
-        <p class="section-title">🖼️ Cover Image</p>
-        ${d.cover && slug && !isNew
-          ? `<p><small>Current cover: <strong>${esc(d.cover)}</strong> — use the Image Management section below to delete it.</small></p>`
-          : ''}
-        <label>Upload cover image
-          <small>(converted to WebP at 75% quality, saved as <code>&lt;original-name-without-extension&gt;-thumb.webp</code> in this post's <code>images/</code> directory)</small>
-          <input type="file" name="cover_upload" accept="image/*">
-        </label>
-        <label>Cover filename <small>(YAML value – auto-filled on upload)</small>
-          <input type="text" name="cover" value="${esc(d.cover || '')}" placeholder="cover.webp">
-        </label>
-      </section>
-
       <!-- ── Extra Images ──────────────────────────────────── -->
       <section>
         <p class="section-title">📁 Post Images</p>
@@ -1431,7 +1413,7 @@ async function postFormPage(slug, post, isNew, flash = '') {
           <input type="file" name="extra_images" accept="image/*" multiple>
         </label>
         ${images.length
-          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded — use the Image Management section below to delete any.</small></p>`
+          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded.</small></p>`
           : ''}
       </section>
 
@@ -1463,29 +1445,6 @@ async function postFormPage(slug, post, isNew, flash = '') {
       </section>
 
     </form>
-
-    <!-- ── Image Management ──────────────────────────────────
-         These forms are intentionally placed OUTSIDE the main edit <form>
-         above. HTML does not allow nested <form> elements; nesting causes
-         browsers to prematurely close the outer form, which means the
-         content <textarea> and Save button would be excluded from the
-         submission. Image deletion is a separate operation from saving
-         post data, so keeping it in standalone forms here is correct.
-    ─────────────────────────────────────────────────────────── -->
-    ${(slug && !isNew) ? `
-    <section style="margin-top:1.5rem">
-      <p class="section-title">🗂️ Image Management</p>
-      ${d.cover
-        ? `<div style="margin-bottom:1rem">
-             <strong>Cover image</strong>
-             ${coverPreview}
-           </div>`
-        : ''}
-      <div>
-         <strong>Images available for this post</strong>
-         ${imgGallery}
-       </div>
-     </section>` : ''}
 
     ${(slug && !isNew && pdfs.length) ? `
     <section style="margin-top:1.5rem">
@@ -1622,7 +1581,7 @@ async function shareFormPage(slug, post, isNew, flash = '') {
           <input type="file" name="extra_images" accept="image/*" multiple>
         </label>
         ${images.length
-          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded — use the Image Management section below to copy figure shortcode or delete images.</small></p>`
+          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded.</small></p>`
           : ''}
       </section>
 
@@ -1633,16 +1592,6 @@ async function shareFormPage(slug, post, isNew, flash = '') {
       </section>
 
     </form>
-
-    <!-- ── Image Management ──────────────────────────────────-->
-    ${(slug && !isNew) ? `
-    <section style="margin-top:1.5rem">
-      <p class="section-title">🗂️ Image Management</p>
-      <div>
-         <strong>Images available for this Share</strong>
-         ${imgGallery}
-       </div>
-     </section>` : ''}
 
     <!-- ── Actions ──────────────────────────────────────── -->
     <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center;margin-top:1.5rem">
@@ -1801,7 +1750,6 @@ function postListPage(posts, page, year = '', tag = '') {
         </div>`;
 
       return /* html */ `<tr>
-        <td>${coverCell}</td>
         <td>
           <a href="/post/${esc(p.slug)}/edit">${esc(p.title)}</a>${draftBadge}
           <br><small class="col-slug" style="color:#888">${esc(p.slug)}</small>
@@ -1869,7 +1817,6 @@ function postListPage(posts, page, year = '', tag = '') {
       <div style="display:flex;gap:0.75rem;align-items:center">
         ${yearDropdown}
         <a href="/post/new" role="button">＋ New Post</a>
-        <a href="/share/new" role="button" style="background:#6c757d;border-color:#6c757d">＋ Add Share</a>
         <a href="/quotation/new" role="button" style="background:#6c757d;border-color:#6c757d">＋ Add Quotation</a>
       </div>
     </div>`;
@@ -1886,7 +1833,6 @@ function postListPage(posts, page, year = '', tag = '') {
       <table>
         <thead>
           <tr>
-            <th>Cover</th>
             <th>Title</th>
             <th>Date</th>
             <th class="col-writer">Writer</th>
