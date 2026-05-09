@@ -1,0 +1,131 @@
+/**
+ * Post List / Archive Styling
+ * Homepage and archive page post listings
+ */
+
+.post-list {
+    margin-bottom: var(--space-l);
+    max-width: var(--content-width);
+    font-family: heliotrope_ot_6_semibold;
+}
+
+.post-list h2 {
+    color: var(--color-primary);
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: var(--space-s);
+    padding-bottom: .3rem;
+}
+
+.post-list h1 {
+    font-weight: 600;
+    font-size: clamp(2rem, 1.5rem + 2vw, 2.5rem);
+    line-height: 1.15;
+    letter-spacing: -.025em;
+    margin-bottom: var(--space-m);
+    color: var(--color-primary);
+    font-family: heliotrope_ot_6_semibold;
+    width:var(--content-width)
+}
+
+.post-list ul {
+    list-style: none;
+    font-family: heliotrope_ot_4_medium;
+    padding: 0;
+    margin:0
+}
+
+.date {
+    color: var(--color-accent);
+    font-size: var(--text-sm);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    flex-shrink: 0;
+    font-family: var(--font-mono);
+    transition:color var(--transition-base)
+}
+
+.post-list li:hover .date {
+    color:var(--color-text-subtle)
+}
+
+.view-all {
+    margin-top: 1rem;
+    text-align: right;
+    font-size:.9em
+}
+
+.view-all a {
+    color: var(--color-highlight);
+    text-decoration: none;
+    font-weight: 500;
+    transition:color .2s ease
+}
+
+.view-all a:hover {
+    color: var(--color-highlight-hover);
+    text-decoration:underline
+}
+
+.headertext {
+    padding-bottom: 4rem;
+}
+
+/* Posts list */
+.postlist {
+	counter-reset: start-from var(--postlist-index);
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+
+.postlist-date {
+	word-spacing: -0.5px;
+}
+
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+#everything, #photography, #reading, #blog, #listening, #hong-kong-book-club {
+    padding-bottom: 3rem;
+}
+
+li.myname {
+	display: block;
+    text-decoration: none !important;
+}

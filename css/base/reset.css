@@ -1,0 +1,81 @@
+/**
+ * Global Resets and Base Styles
+ * Box-sizing, basic element defaults, and accessibility features
+ */
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--font-base);
+    color: var(--color-text);
+    background-color: var(--color-bg);
+    font-size: clamp(1rem, .95rem + .25vw, 1.125rem);
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+    text-wrap: balance;
+    text-wrap: pretty;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+    -webkit-text-size-adjust: 100%;
+    hanging-punctuation:first last;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.skip-link {
+    position: absolute;
+    left: -9999px; /* Hide off-screen */
+}
+
+.skip-link:focus {
+    left: 10px; /* Bring into view when focused */
+    top: 10px;
+    background: #000;
+    color: #fff;
+    padding: 5px;
+    z-index: 1000; /* Ensure it is above other elements */
+}
+
+#skip-link {
+	text-decoration: none;
+	background: var(--background-color);
+	color: var(--text-color);
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--color-gray-90);
+	border-radius: 2px;
+}
+
+#skip-link a {
+    display: block;
+    position: absolute;
+    left: -999px;
+    top: -999px;
+}
+
+#skip-link a:focus {
+    left: 0;
+    top: 0;
+    padding: 3px;
+    background: #ffc;
+    border:1px solid #990000;
+}
+
+/* Prevent visually-hidden skip link from pushing content around when focused */
+#skip-link.visually-hidden:focus {
+	position: absolute;
+	top: 1rem;
+	left: 1rem;
+	/* Ensure it is positioned on top of everything else when it is shown */
+	z-index: 999;
+}

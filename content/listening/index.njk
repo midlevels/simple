@@ -1,0 +1,62 @@
+---
+layout: layouts/base.njk
+pageName: Listening
+pagination:
+  data: collections.listening
+  size: 20
+  alias: listening
+  reverse: true
+  permalink: "listening/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html"
+---
+
+<h1 class="toph">Listening</h1>
+
+{% for post in listening %}
+<article>
+    <div class="post-content">
+        <span class="post-date"><time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span>
+        <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        {% if post.data.writer %}
+          <p><em>
+            {% set writerList = post.data.writer.split(',') %}
+            {% for writerName in writerList %}
+              <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </em></p>
+        {% endif %}
+        {% if post.data.artist %}
+          <p><em>
+            {% set artistList = post.data.artist.split(',') %}
+            {% for artistName in artistList %}
+              <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+          </em></p>
+        {% endif %}
+        <p class="excerpt">{{ post.data.excerpt }}</p>
+    </div>
+</article>
+  {% if not loop.last %}
+  <div class="post-separator"></div>
+  {% endif %}
+{% endfor %}
+
+
+{# Pagination navigation #}
+{% if pagination.links.length > 0 %}
+<nav class="page-pagination" aria-label="page navigation">
+     <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
+      {% if pagination.href.previous %}
+        <span><a href="{{ pagination.href.previous }}" class="page-pagination-previous">
+      Newer Posts &rarr;
+    </a></span>
+      {% endif %}
+      
+      {% if pagination.href.next %}
+   <span><a href="{{ pagination.href.next }}" class="page-pagination-next">
+
+      &larr; Older Posts
+    </a></span>
+      {% endif %}
+    </div>
+  </nav>
+{% endif %}
