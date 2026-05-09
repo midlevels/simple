@@ -1413,7 +1413,7 @@ async function postFormPage(slug, post, isNew, flash = '') {
           <input type="file" name="extra_images" accept="image/*" multiple>
         </label>
         ${images.length
-          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded — use the Image Management section below to delete any.</small></p>`
+          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded.</small></p>`
           : ''}
       </section>
 
@@ -1445,15 +1445,6 @@ async function postFormPage(slug, post, isNew, flash = '') {
       </section>
 
     </form>
-
-    <!-- ── Image Management ──────────────────────────────────
-         These forms are intentionally placed OUTSIDE the main edit <form>
-         above. HTML does not allow nested <form> elements; nesting causes
-         browsers to prematurely close the outer form, which means the
-         content <textarea> and Save button would be excluded from the
-         submission. Image deletion is a separate operation from saving
-         post data, so keeping it in standalone forms here is correct.
-    ─────────────────────────────────────────────────────────── -->
 
     ${(slug && !isNew && pdfs.length) ? `
     <section style="margin-top:1.5rem">
@@ -1590,7 +1581,7 @@ async function shareFormPage(slug, post, isNew, flash = '') {
           <input type="file" name="extra_images" accept="image/*" multiple>
         </label>
         ${images.length
-          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded — use the Image Management section below to copy figure shortcode or delete images.</small></p>`
+          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded.</small></p>`
           : ''}
       </section>
 
@@ -1601,16 +1592,6 @@ async function shareFormPage(slug, post, isNew, flash = '') {
       </section>
 
     </form>
-
-    <!-- ── Image Management ──────────────────────────────────-->
-    ${(slug && !isNew) ? `
-    <section style="margin-top:1.5rem">
-      <p class="section-title">🗂️ Image Management</p>
-      <div>
-         <strong>Images available for this Share</strong>
-         ${imgGallery}
-       </div>
-     </section>` : ''}
 
     <!-- ── Actions ──────────────────────────────────────── -->
     <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center;margin-top:1.5rem">
