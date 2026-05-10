@@ -118,23 +118,6 @@ eleventyNavigation:
     <div class="post-separator"></div>
   {% endif %}
 
-  {# Insert newsletter form between 2nd and 3rd article on home page only #}
-  {% if loop.index === 10 and pagination.pageNumber === 0 %}
-    <div style="margin: 1.5rem 0;">
-      <form
-        action="https://buttondown.com/api/emails/embed-subscribe/daveross"
-        method="post"
-        target="popupwindow"
-        onsubmit="window.open('https://buttondown.com/daveross', 'popupwindow')"
-        class="embeddable-buttondown-form"
-      >
-        <label for="bd-email">Enter your email to receive a monthly digest of post headlines.</label>
-        <input type="email" name="email" id="bd-email" required/>
-        <input type="submit" value="Subscribe"/>
-      </form>
-    </div>
-    <div class="post-separator"></div>
-  {% endif %}
 {% endfor %}
 
 {# Pagination navigation #}
