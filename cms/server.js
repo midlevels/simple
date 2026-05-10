@@ -46,11 +46,9 @@ const storage = multer.diskStorage({
 const upload = multer({
   storage,
   fileFilter: (_req, file, cb) => {
-    const isImageField = ['cover_upload'].includes(file.fieldname);
     const isPdfField = file.fieldname === 'extra_pdfs';
-    const isImage = /\.(jpe?g|png|gif|webp|avif|svg|tiff?)$/i.test(file.originalname);
     const isPdf = /\.pdf$/i.test(file.originalname);
-    cb(null, (isImageField && isImage) || (isPdfField && isPdf));
+    cb(null, isPdfField && isPdf);
   },
   limits: { fileSize: 50 * 1024 * 1024 }, // 50 MB
 });
@@ -320,30 +318,6 @@ function getSafeTmpUploadPath(tmpPath) {
     throw new Error('Invalid temporary upload path');
   }
   return resolved;
-}
-
-/**
- * Process an uploaded cover image:
- *  – convert to WebP at 75% quality
- *  – save to the post's own images/ directory as <stem>-thumb.webp
- * Returns the final filename.
- */
-async function saveCoverImage(tmpPath, slug, origName) {
-  const destDir = getPostAssetDir(slug, 'images');
-  fs.mkdirSync(destDir, { recursive: true });
-  const stem    = path.basename(makeSafeUploadName(origName), path.extname(origName));
-  const outName = `${stem}-thumb.webp`;
-  const outPath = path.join(destDir, outName);
-  // Guard against path traversal in the output filename.
-  const relToDestDir = path.relative(destDir, outPath);
-  if (!relToDestDir || relToDestDir.startsWith('..') || path.isAbsolute(relToDestDir)) {
-    throw new Error('Invalid cover filename');
-  }
-  await sharp(tmpPath)
-    .webp({ quality: 85 })
-    .toFile(outPath);
-  fs.rmSync(tmpPath, { force: true });
-  return outName;
 }
 
 /**
@@ -1541,7 +1515,7 @@ function postListPage(posts, page, year = '', tag = '') {
 
 /** Serialize a parsed form body as hidden <input> elements for re-submission. */
 function hiddenInputsFromBody(body) {
-  const skip = new Set(['cover_upload', 'extra_pdfs']);
+  const skip = new Set(['extra_pdfs']);
   return Object.entries(body)
     .filter(([k]) => !skip.has(k) && !k.startsWith('bio-'))
     .flatMap(([k, v]) => {
@@ -1832,12 +1806,6 @@ app.post('/post/create', uploadFields, async (req, res) => {
 
     const slug = makeSlug(data.title, req.body.date || data.date);
 
-    // Handle cover upload
-    const coverFile = req.files?.find(f => f.fieldname === 'cover_upload');
-    if (coverFile) {
-      data.cover = await saveCoverImage(coverFile.path, slug, coverFile.originalname);
-    }
-
     // Handle extra PDFs
     const extraPdfFiles = req.files?.filter(f => f.fieldname === 'extra_pdfs') || [];
     for (const f of extraPdfFiles) {
@@ -1928,12 +1896,6 @@ app.post('/post/:slug/update', uploadFields, async (req, res) => {
             `<div class="alert alert-error">Cannot rename: a post with slug <strong>${esc(newSlug)}</strong> already exists.</div>`),
         );
       }
-    }
-
-    // Handle cover upload
-    const coverFile = req.files?.find(f => f.fieldname === 'cover_upload');
-    if (coverFile) {
-      data.cover = await saveCoverImage(coverFile.path, slug, coverFile.originalname);
     }
 
     // Handle extra PDFs
