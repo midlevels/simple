@@ -4,7 +4,6 @@ date: 2023-11-26
 og_image: og_image.jpg
 tags:
   - history
-  - blog
 excerpt: The entire contents of The New Yorker issue containing John Hersey's Hiroshima essay had an unfortunate cover illustration.
 ---
 

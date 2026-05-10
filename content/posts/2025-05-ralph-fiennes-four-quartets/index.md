@@ -2,7 +2,6 @@
 date: 2025-05-06T00:00:00.000Z
 title: Ralph Fiennes' Four Quartets
 tags:
-  - blog
   - poetry
   - reading
 excerpt: >-
@@ -19,7 +18,7 @@ Twenty-odd years later, a series of four larger poems (each a quartet) emerged s
 3. The Dry Salvages (1940)
 4. Little Gidding (1942)
 
-[Four Quartets↗](https://en.wikiquote.org/wiki/Four_Quartets)
+[Four Quartets](https://en.wikiquote.org/wiki/Four_Quartets)
 
 *Four Quartets* was central to my M.A. thesis in English Lit. in the early '90s. I had it fairly well memorised then, and after watching Fiennes' production, much of it immediately came back to me. However, this take on it brought new meaning somehow, which Eliot slyly points out inevitably happens in the act of interpretation (what in grad schools and seminaries is known as hermeneutics):
 
