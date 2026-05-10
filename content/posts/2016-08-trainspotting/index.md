@@ -22,7 +22,6 @@ tags:
 cover: trainspotting-thumb.webp
 og_image: og_image.jpg
 ---
-{% figure "images/trainspotting-3d-900x900-1.jpeg", "Trainspotting" %}
 
 The narrative of the novel _Trainspotting_ by Irvine Welsh is presented through a series of interconnected short stories, each focusing on different characters within the group. The central character is Mark Renton, a young man caught in the grip of heroin addiction. The novel delves into Renton's experiences, his attempts at quitting drugs, and the cyclical nature of addiction and relapse.
 

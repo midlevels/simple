@@ -10,7 +10,6 @@ tags:
   - reading
 cover: oh-william-thumb.webp
 ---
-{% figure "images/oh-william.webp", "Oh, William!" %}
 
 In _Oh, William!_ Lucy Barton is a writer, but her ex-husband, William, remains a hard man to read. _William_, she confesses, _has always been a mystery to me_. Another mystery is why the two have remained connected after all these years. They just are. 
 

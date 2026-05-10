@@ -22,7 +22,6 @@ tags:
 cover: verses-thumb.webp
 portrait: salman-rushdie.webp
 ---
-{% figure "images/satanic-verses.webp","The Satanic Verses" %}
 
 _The Satanic Verses_ is a novel written by Salman Rushdie and published in 1988. The story revolves around two main characters, Gibreel Farishta and Saladin Chamcha, whose lives become intertwined in a series of surreal and fantastical events.
 

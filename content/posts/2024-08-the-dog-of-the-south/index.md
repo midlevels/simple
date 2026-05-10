@@ -22,7 +22,6 @@ cover: dog-of-the-south.webp
 og_image: og_image.jpg
 portrait: charles-portis.webp
 ---
-{% figure "./images/dog-of-the-south.webp", "Dog of the South" %}
 
 I can read a Portis novel, come to the end, turn back to page one, and start right over. Two reasons: he often has ambiguous endings, and his writing is magnetic. Also, there are characters I want to revisit before bidding them farewell. 
 

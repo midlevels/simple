@@ -23,7 +23,6 @@ tags:
 cover: life-and-death-thumb.jpeg
 portrait: mo-yan.webp
 ---
-{% figure "images/life-and-death.webp","Life and Death are Wearing Me Out" %}
 
 _Life and Death Are Wearing Me Out_ is a novel by Mo Yan published in 2006. The story spans several decades of Chinese history, following the protagonist, Ximen Nao, through his various lives and reincarnations.
 

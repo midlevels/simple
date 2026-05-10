@@ -25,10 +25,8 @@ tags:
 cover: left-thumb.jpeg
 portrait: ursula-k-le-guin.webp
 ---
-{% sizing "left-hand-of-darkness.jpeg", "60%", "The Left Hand of Darkness" %}
 
 Published in 1969, _The Left Hand of Darkness_ became immensely popular and established Le Guin's status as a major author of science fiction. The novel is part of the [Hainish Cycle](https://en.wikipedia.org/wiki/Hainish_Cycle), a series of novels and short stories by Le Guin set in the eponymous fictional universe, which she introduced in 1964 with 'The Dowry of the Angyar'. The _Left Hand of Darkness_ is part of Le Guin's Hainish novels. _City of Illusions_ precedes it and _The Word for World Is Forest_ follows it.
 
 Genly Ai visits the planet of Gethen as an envoy of the Ekumen, a loose confederation of planets. Ai's mission is to persuade the nations of Gethen to join the Ekumen, but he is stymied by his lack of understanding of Gethenian culture. Individuals on Gethen are ambisexual, with no fixed sex. This fact has a strong influence on the culture of the planet and creates a barrier of understanding for Ai.
-
 

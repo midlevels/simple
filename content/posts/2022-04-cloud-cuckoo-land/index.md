@@ -14,7 +14,6 @@ tags:
   - reading
 cover: cloud-thumb.webp
 ---
-{% figure "images/cloud-cuckoo-land.webp", "" %}
 
 _Cloud Cuckoo Land_ is the story of five characters spanning eight centuries. Anna is a young seamstress living in Constantinople in the 15th century. The Ottoman army conscripts village boy Omeir is they prepare to take the city. Zeno, in the present, a Korean War veteran, works in a library in Idaho translating Ancient Greek texts. At the same time, Seymour, a disturbed autistic youngster, becomes caught up with a group of eco-terrorists. Konstance, in the 22nd century, is a young girl aboard the Argos, a generation starship heading for a planet called Beta Oph2.
 

@@ -12,7 +12,6 @@ tags:
 cover: siege-thumb.jpeg
 og_image: og_image.jpg
 ---
-{% figure "images/krishnapur.webp","The Siege of Krishnapur" %}
 
 J.G. Farrell wrote and published _The Siege of Krishnapur_ in 1973. Set during the Indian Rebellion of 1857, aka the Sepoy Mutiny, the story depicts the harrowing experiences of British residents. They find themselves trapped in the fictional town of Krishnapur, located in British India.
 

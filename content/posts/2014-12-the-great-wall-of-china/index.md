@@ -24,7 +24,6 @@ tags:
   - fiction
 cover: wall-thumb.webp
 ---
-{% figure "images/great-wall.webp","The Great Wall of China" %}
 
 "The Great Wall of China" is a short story written by Franz Kafka. It is a fictional account that explores the construction and purpose of the Great Wall, employing allegory and philosophical themes.
 

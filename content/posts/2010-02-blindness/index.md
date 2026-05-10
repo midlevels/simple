@@ -23,7 +23,6 @@ tags:
   - reading
 cover: blindness-thumb.jpeg
 ---
-{% sizing "blindness.webp", "60%", "Blindness" %}
 
 José Saramago wrote and published _Blindness_ in 1995. It is a thought-provoking and allegorical story that explores the fragility of humanity and the breakdown of society in the face of an epidemic of sudden blindness.
 

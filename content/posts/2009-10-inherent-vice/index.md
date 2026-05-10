@@ -19,7 +19,6 @@ cover: inherent-thumb.jpeg
 og_image: og_image.jpg
 portrait: thomas-pynchon.webp
 ---
-{% figure "images/inherent-vice.webp","Inherent Vice" %}
 
 Thomas Pynchon published _Inherent Vice_ in 2009. Set in 1970s California, the story follows private detective Larry "Doc" Sportello as he becomes caught up in a complex and psychedelic web of mystery, conspiracy, and counter cultural chaos.
 

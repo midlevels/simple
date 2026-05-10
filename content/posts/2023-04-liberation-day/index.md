@@ -12,14 +12,11 @@ tags:
 excerpt: A collection of prismatic, resonant stories that encompass joy and despair, oppression and revolution…
 ---
 
-{% figure "images/liberation-day.webp","Liberation Day" %}
-
 Saunders continues to challenge and surprise in his latest book of stories: _Liberation Day_. A collection of prismatic, resonant stories that encompass joy and despair, oppression and revolution, bizarre fantasy and brutal reality.
 
 ### Love Letter
 
 “Love Letter” is a tender missive from grandfather to grandson. Amid a dystopian political future that reminds us of our obligations to our ideals, ourselves, and one another. 
-
 
 &#x2B50; [Read this story - 87k PDF](/public/files/love-letter.pdf)
 

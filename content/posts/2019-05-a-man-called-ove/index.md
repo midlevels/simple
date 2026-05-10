@@ -19,7 +19,6 @@ tags:
   - reading
 cover: man-called-ove-t-thumb.webp
 ---
-{% sizing "mancalledove.webp", "60%", "A Man Called Ove" %}
 
 Fredrik Backman wrote _A Man Called Ove_ in 2012. It tells the story of Ove, a grumpy and solitary old man who finds unexpected connections and purpose in life.
 

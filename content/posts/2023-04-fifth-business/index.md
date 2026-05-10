@@ -18,7 +18,6 @@ tags:
 cover: fifth-business-thumb.jpeg
 portrait: robertson-davies.webp
 ---
-{% figure "images/fifth-business-669x1024-1.jpeg", "Fifth Business" %}
 
 Published in 1970, _Fifth Business_ is Canadian author [Robertson Davies](https://en.wikipedia.org/wiki/Robertson_Davies)' first part of the Deptford Trilogy.
 

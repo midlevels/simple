@@ -24,7 +24,6 @@ tags:
 cover: motherless-brooklyn-thumb.webp
 portrait: jonathan-letham.webp
 ---
-{% sizing "motherless-brooklyn-664x1024-1-large.webp", "60%", "Motherless Brooklyn" %}
 
 Jonathan Letham wrote _Motherless Brooklyn_, which was published in 1999. The novel tells the story of Lionel Essrog, a private detective with Tourette's syndrome.
 

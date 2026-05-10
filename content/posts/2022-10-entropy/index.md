@@ -13,7 +13,6 @@ tags:
   - reading
 cover: slow-learner-thumb.jpeg
 ---
-{% figure "images/pynchon-slow-learner.jpeg", "Entropy - short story" %}
 
 Thomas Pynchon wrote _Slow Learner,_ a collection of stories, which was published in 1984, which includes the story Entropy. The collection includes five stories written during his formative years as a writer, spanning the period from 1958 to 1964. Our book group focused on the one story in particular: Entropy.
 

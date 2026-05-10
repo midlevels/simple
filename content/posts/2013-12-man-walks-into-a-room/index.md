@@ -23,7 +23,6 @@ tags:
 cover: man-walks-thumb.webp
 portrait: nicole-krauss.webp
 ---
-{% sizing "man-walks-into-a-room.webp", "60%", "Man Walks Into A Room" %}
 
 _Man Walks Into a Room_ is a novel written by Nicole Krauss and published in 2002. The story centers around Samson Greene. Greene is a professor of cognitive science who discovers that he has lost all memory. All memories of the first 24 years of his life–due to a brain tumor.
 

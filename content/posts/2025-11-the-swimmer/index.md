@@ -28,8 +28,6 @@ portrait: john-cheever.webp
 ---
 *The Swimmer* is John Cheever's best known story, and probably as anthologized as Fitzgerald's *The Diamond as Big as the Ritz* or Updike's *A &amp; P*. 
 
-{% sizing "cheever-the-swimmer.webp", "60%", "The Swimmer" %}
-
 Ned Merrill is at a party and suddenly envisions himself as a great man about to embark on a swim across the county by way of backyard pools in a tony suburban New York State community. He thinks of all of the family pools he'd have to navigate, and without any announcement, he, perhaps already a gin and tonic or two into his day, sets off.
 
 Along the way he is noticing time has not passed quite as he perceived. Some yellow leaves are blowing off trees in what he takes to be midsummer. A storm comes and passes and he experiences an unusual chill. He passes through some homes where the pool is completely dry and he notes a for-sale sign nailed to an oak tree. 

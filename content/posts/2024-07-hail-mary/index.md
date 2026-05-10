@@ -11,8 +11,6 @@ excerpt: Hard sci-fi from the author of The Martian.
 cover: hail-mary-thumb.webp
 ---
 
-{% figure "images/andy-weir-hail-mary.webp", "Hail Mary" %}
-
 Saying too much here would definitely introduce spoilers, so I'll limit my comments to the following bullet points:
 
 -  A few more characters than in *The Martian*
@@ -22,7 +20,5 @@ Saying too much here would definitely introduce spoilers, so I'll limit my comme
 -  A woman is put in charge of coördinating the entire project with support from all governments
 -  A unique propulsion system is discovered and deployed for the Hail Mary
 -  Final destination for the Hail Mary lies beyond our solar system
-
-{% figure "images/author.webp", "Andy Weir" %}
 
 I enjoyed it more than *The Martian* for the simple reason of how Ryland Grace (the junior high science teacher) "sciences" his way out of much more intricate problems, but, on top of that, uses his teaching know-how to sync-up empathically with a non-human lifeform. 

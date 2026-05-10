@@ -13,16 +13,11 @@ tags:
 excerpt: _Breakfast of Champions_ is set in the fictional town of Midland City…
 ---
 
-{% figure "images/breakfast.webp","Breakfast of Champions" %}
-
 What would any of our high school educations be without Mr. Vonnegut, a ubiquitous favorite among our English teachers.
 
 _Breakfast of Champions_ is set in the fictional town of Midland City. It's where Dwayne Hoover's life begins to unravel as he becomes increasingly unstable and delusional. Kilgore Trout, unaware of his importance to Dwayne's situation, arrives in the same city. He's there for an arts festival.
 
 Vonnegut explores a wide range of themes, including free will, mental illness, capitalism, and the nature of human existence. Satire and dark humor are hallmarks of this novel. Vonnegut uses the characters and events to critique various aspects of American society.
-
-{% figure "images/fairyland-300x219.png","Fairy Land" %}
-
 
 One of the distinctive features of _Breakfast of Champions_ is Vonnegut's use of metafiction. The author inserts himself into the story as a character, interacting with the fictional characters. Trout / Vonnegut incorporates illustrations into his narrative. This metafictional approach adds layers of complexity and self-reflection to the novel.
 

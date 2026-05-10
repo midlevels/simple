@@ -21,7 +21,6 @@ tags:
 cover: sula-thumb.webp
 portrait: toni-morrison.webp
 ---
-{% sizing "sula-705x1024.jpeg.webp", "60%", "Sula" %}
 
 "Sula" is a novel written by Toni Morrison, published in 1973. Set in the fictional town of Medallion, Ohio, the story spans several decades and explores the complex relationship between two Black-American women, Sula Peace and Nel Wright.
 

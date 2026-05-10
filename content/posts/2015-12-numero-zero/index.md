@@ -11,8 +11,6 @@ tags:
 excerpt:  a satirical work that explores themes of media manipulation, conspiracy theories, and the blurred line between truth and fiction.
 ---
 
-{% figure "images/numero-zero.webp","Numero Zero" %}
-
 _Numero Zero_ is a novel written by Umberto Eco and published in 2015. It is a satirical work that explores themes of media manipulation, conspiracy theories, and the blurred line between truth and fiction.
 
 The story is set in Milan in 1992 and follows Colonna, a freelance writer who is hired to work for a mysterious publishing project called "Domani" ("Tomorrow"). "Domani" aims to create a nonexistent newspaper, which would be used to manipulate public opinion and serve the interests of powerful individuals.

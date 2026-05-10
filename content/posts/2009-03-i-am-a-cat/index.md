@@ -20,7 +20,6 @@ tags:
 cover: i-am-a-cat-sm-thumb.webp
 portrait: natsume-s-seki.webp
 ---
-{% sizing "i-am-a-cat.webp", "60%", "I am a Cat" %}
 
 Natsume Sōseki wrote and published his first novel, *I am a Cat*, in 1905. A professor's nameless house cat narrates the novel. The feline observes and comments on the eccentricities and foibles of the human characters that surround it.
 

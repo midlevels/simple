@@ -14,7 +14,6 @@ tags:
   - reading
 cover: ragtime-thumb.webp
 ---
-{% figure "images/ragtime-md-jaG7CKQVSbVw.webp", "Ragtime" %}
 
 E.L. Doctorow authored Ragtime, a historical novel, and it was published in 1975 . Set in the early 20th century, the story weaves together the lives of fictional and historical figures, capturing the spirit of an era marked by rapid social and cultural changes.The narrative follows three primary storylines that converge throughout the novel.
 

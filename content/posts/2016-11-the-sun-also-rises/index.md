@@ -20,7 +20,6 @@ tags:
   - reading
 cover: sun-thumb.jpeg
 ---
-{% figure "images/sun-rises.webp","The Sun Also Rises (1926)" %}
 
 Jake Barnes, a journalist and World War I veteran narrates _The Sun Also Rises_. He is impotent due to a war injury. Jake is in love with Lady Brett Ashley, a beautiful and independent woman. Ashley and Robert Cohn (writer and former amateur boxer) are in a tumultuous relationship. The characters are part of a circle of expats living in Paris. They seek to escape the emptiness and disillusionment of post-war society.
 

@@ -18,7 +18,7 @@ tags:
 cover: in-xanadu-thumb.webp
 portrait: william-dalrymple.webp
 ---
-{% figure "./images/in-xanadu-thumb.webp", "In Xanadu" %}
+
 A travel adventure to commemorate Marco Polo's journey along the Silk Road, Scottish historian (Cambridge student at the time he took this journey), William Dalrymple, uses older historic narratives and maps to help guide him and fellow travelers from the Holy Land to Xanadu (Shan-tu, just north of Beijing). 
 
 William's companion traveler for the first half of his journey (until Lahore) is Laura. She is determined to stay on a tight schedule to ensure she meets her obligations and arrives in Delhi by a certain date, so she propels William in her wake. William tries to take as many side trips as possible to view remains of cities, living mosques, or simply enjoys views from certain mountains, always hurrying down just before sunset. 
@@ -32,7 +32,7 @@ The book is eminently readable, though some passages could be phrased, for lack 
 
 Many wonderful photographs accompany the text. Here is one, taken in Syria.
 
-{% figure "./images/citadel-in-aleppo.webp", "Citadel in Aleppo" %}<br>
+<br>
 
 Dalrymple finally does make it to Xanadu in the end with the help of a military escort and a few yuan for their effort. At the end of a dreary day in a downpour, he and Louisa find the ruins of Kublai Khan's great summer palace near the river Alph with evidence of parts of its wall. And William notes the occasion by reading Coleridge's poem aloud while pouring a small vial of oil from the eternal flame of the Holy Sepulcher onto the ground. 
 

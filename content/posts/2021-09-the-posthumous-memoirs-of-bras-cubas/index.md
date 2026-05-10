@@ -20,7 +20,6 @@ tags:
   - reading
 cover: bras-cubas-thumb.webp
 ---
-{% sizing "bras-cubas-669x1024-1.jpeg", "60%", "The Posthumous Memoirs of Bras Cubas" %}
 
 _Bras Cubas_ is one of the weirdest books I've read in a while and it doesn't feel like it was written in the 19th century. Published in 1881, the novel has a unique style of short, erratic chapters shifting in tone and style. Instead of the clear and logical construction of a normal nineteenth-century realist novel, _The Posthumous Memoirs of Bras Cubas_ (full title) makes use of surreal devices of metaphor and playful narrative construction. It is considered the first romance of the realist movement in Brazil.
 

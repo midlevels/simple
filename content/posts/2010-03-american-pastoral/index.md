@@ -12,8 +12,6 @@ tags:
 excerpt: The disintegration of the American Dream through the lens of one family.
 ---
 
-{% figure "images/american-pastoral.webp","American Pastoral" %}
-
 Philip Roth wrote _American Pastoral_ in 1997. Set against the backdrop of post-World War II America, the story explores the disintegration of the American Dream through the lens of one family.
 
 _American Pastoral_ centers around Seymour "Swede" Levov, a successful Jewish-American businessman and former star athlete. Swede seemingly embodies the American Dream, with a beautiful wife named Dawn and a daughter named Merry. However, the tranquil façade of Swede's life is shattered when Merry becomes involved in radical political activities during the 1960s.

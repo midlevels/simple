@@ -13,7 +13,6 @@ tags:
   - reading
 cover: my-struggle-book-thumb.webp
 ---
-{% sizing "my-struggle-book-thumb.webp", "60%", "My Struggle, Book 2" %}
 
 The narrative of _My Struggle Book 2_ unfolds through a series of interconnected vignettes, alternating between past and present. Knausgaard reflects on his strained relationship with his father, who is depicted as a distant and mysterious figure. He delves into his insecurities and the challenges he faces as he tries to find his place in the world.
 

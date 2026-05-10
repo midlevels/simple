@@ -11,8 +11,6 @@ tags:
 excerpt: The book serves as a sequel to Richard Ford's previous novels, The Sportswriter, Independence Day, and The Lay of the Land.
 ---
 
-{% figure "images/let-me-be-frank.webp","Let Me Be Frank With You" %}
-
 _Let Me Be Frank with You_ (_LMBFWY_) is a novel by American author Richard Ford and published in 2014. _LMBFWY_ is a collection of interconnected stories featuring Frank Bascombe. Bascombe is a middle-aged retired sportswriter and real estate agent living in New Jersey.
 
 The book serves as a sequel to Richard Ford's previous novels: _The Sportswriter_, _Independence Day_, and _The Lay of the Land_. Following Hurricane Sandy, _Let Me Be Frank with You_ explores Frank's reflections on aging and a changing America.

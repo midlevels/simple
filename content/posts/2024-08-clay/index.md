@@ -11,7 +11,7 @@ tags:
 excerpt: Multi-levels of meaning and potential interpretation exist in this, one of Joyce's shortest stories.
 ---
 
-  {% figure "images/joyce-thumb.webp", "James Joyce" %}
+  
 	
 "Clay" is one of the short stories found in Joyce's collection *The Dubliners*. In "Clay" Joyce captures multiple levels of class and religious stratification along with alcoholism and hidden cruelties enmeshed in the culture in a handful of pages with incredible economy.
 

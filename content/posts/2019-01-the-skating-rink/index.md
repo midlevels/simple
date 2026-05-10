@@ -12,7 +12,6 @@ tags:
   - reading
 cover: skating-thumb.webp
 ---
-{% sizing "the-skating-rink.webp", "60%", "The Skating Rink" %}
 
 With a murder at its heart, Roberto Bolano’s _The Skating Rink_ is, among other things, a crime novel. Murder seems to have exerted a fascination for the endlessly talented Bolano, who in his last interview, according to The Observer, “declared, in all apparent seriousness, that what he would most like to have been was a homicide detective.”
 

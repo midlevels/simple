@@ -19,7 +19,6 @@ tags:
   - american
 cover: lincoln-thumb.webp
 ---
-{% sizing "lincoln-in-the-bardo.webp", "60%", "Lincoln in the Bardo" %}
 
 _**Lincoln in the Bardo**_ is a 2017 experimental novel by American writer George Saunders. It is Saunders' first full-length novel. It was on _The New York Times_ hardcover fiction bestseller for the week of March 5, 2017.
 

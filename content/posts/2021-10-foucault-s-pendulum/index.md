@@ -19,7 +19,6 @@ tags:
 cover: foucaults-pendulum-thumb.jpeg
 portrait: umberto-eco.webp
 ---
-{% sizing "foucaults-pendulum.jpeg", "60%", "Foucault's Pendulum" %}
 
 _Foucault's Pendulum_ is Umberto Eco's novel of a few Milanese book editors who are bored with their work. To pass the time they cook up an elaborate hoax that connects the medieval Knights Templar with occult groups across the centuries. Becoming obsessed with their creation, they produce a map. The map indicates the geographical point from which all the powers of the earth can be controlled. It's a point located in Paris, France, at Foucault’s Pendulum.
  

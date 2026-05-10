@@ -35,7 +35,7 @@ Open **http://localhost:3000** in your browser.
 | **Portrait image** | When writer or artist is set, a portrait upload appears under the bio field and saves as a **240 px wide WebP** named from the writer/artist |
 | **Extra images** | Multiple images can be uploaded; stored in `{slug}/images/` |
 | **PDF uploads** | Multiple PDFs can be uploaded; stored in `{slug}/files/` |
-| **Copy shortcode** | Click "Copy" on any uploaded image to copy `{% sizing "image-name.webp", "120%", "post title" %}` |
+| **Copy filename** | Click "Copy" on any uploaded image to copy the filename |
 | **Custom YAML** | Add / remove arbitrary front-matter key-value pairs |
 
 ## Supported YAML front-matter fields

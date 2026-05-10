@@ -12,22 +12,11 @@ cover: ts-sq300.webp
 excerpt: Yasaburō Kuwayama's (桑山弥三郎), work has stood out since the early 1970s as a visual reference for designers of logos, trademarks, and symbols. 
 ---
 
-
-{% figure "images/YasaburoKuwayama.webp", "Interior pages","full" %}
-
 While there is scant biographical information I can locate in English on Yasaburō Kuwayama (桑山弥三郎), his work has stood out since the early 1970s as a visual reference for designers of logos, trademarks, and symbols. The photo above is from my copy of volume I in his series, published by Dover in 1973, still available used on some sites for about $80 (note the free e-pub link below).
 
 I would often flip through my copy before starting a project to get a little direction on what's been done and to procrastinate — to thoughtfully, artfully procrastinate. There is nothing new under the sun, but sometimes avoiding well-known and likely trademarked symbols was a good starting place. From there, I'd freehand sketch ideas and sometimes fax (yeah, back then we had those) them to clients to get early feedback on what worked and what didn't. I'd then take the top five and work them out in Illustrator without fine-tuning too much or using colours, and send those in PDF form. By process of elimination and tweaking, we'd eventually hit on their organisation's new or updated identity. 
 
-{% figure "images/trademarks-a.webp","More A's" %}
-
-{% figure "images/trademarks-b.webp","Some B's" %}
-
-
 Early pages in the book delve into the history of Western and Japanese symbology. For Japan, that includes pottery maker marks, family crests, sake brewer marks, and match-box labels.  
-
-
-{% figure "images/early-and-modern-japan-symbology.webp","Early and modern symbology in Japan" %}
 
 Yasaburō Kuwayama was associated with Musashino Art University and passed away in 2017. I did manage to find (and have my browser translate the following from the publisher, Kodansha):
 

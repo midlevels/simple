@@ -21,7 +21,6 @@ tags:
   - reading
 cover: johnson-thumb.webp
 ---
-{% sizing "the-life-of-samuel-johnson.webp", "60%", "Boswell's Life of Samuel Johnson" %}
 
 _The Life of Samuel Johnson_ is a biography written by James Boswell and published in 1791. It is a comprehensive and influential account of the life of one of the most prominent figures in 18th-century English literature, Samuel Johnson.
 

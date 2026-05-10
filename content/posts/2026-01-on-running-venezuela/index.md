@@ -8,8 +8,6 @@ excerpt: Black gold and a distraction for Trump
 cover: venezuela-flag.webp
 ---
 
-{% sizing "venezuela-flag.webp", "30%" %}
-
 OK, so the US grabbed another nation's leader in the early morning hours on Saturday, the 3rd of January. Certainly sounds like a declaration of war, but no involvement of Congress, which alone has that authority. Congress has for this past year been a vestigal organ of government, leaving the courts as the only bulwark against the "unitary executive" philosophy in practice. 
 
 <!-- snip -->

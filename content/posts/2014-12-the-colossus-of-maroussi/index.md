@@ -26,7 +26,6 @@ tags:
 cover: colossus-thumb.webp
 og_image: og_image.jpg
 ---
-{% sizing "colossus.webp", "60%", "The Colossus of Maroussi" %}
 
 *The Colossus of Maroussi* is a travel memoir written by American author Henry Miller and published in 1941. The book chronicles Miller's experiences traveling through Greece in the late 1930s and his encounters with various people.
 
@@ -43,7 +42,6 @@ The overall tone of the memoir is morose. That tone is likely due to the impendi
 > For as I stood there daydreaming I had the impression that everything was at a standstill, that I was not a man living in the twentieth century but a visitor from no century seeing what he had seen before and would see again and again, and the thought that that might be possible was utterly depressing.
 
 _The Colossus of Maroussi_ is known for its lyrical and poetic prose. Often, it is quite visceral:
-
 
 > …as long as human beings can sit and watch with hands folded while their fellow men are tortured and butchered so long will civilization be a hollow mockery, a wordy phantom suspended like a mirage above a swelling sea of murdered carcasses.
 

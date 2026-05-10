@@ -18,7 +18,6 @@ tags:
   - short stories
 cover: ivan-thumb.webp
 ---
-{% sizing "ivan.webp", "60%", "The Death of Ivan Ilyich" %}
 
 Leo Tolstoy wrote and published the novella _The Death of Ivan Ilyich_ in 1886. It tells the story of Ivan Ilyich, a high-ranking Russian bureaucrat, and his gradual realization of his own mortality as he faces a terminal illness.
 

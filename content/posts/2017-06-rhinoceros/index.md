@@ -25,7 +25,6 @@ tags:
   - fiction
 cover: rhino-thumb.webp
 ---
-{% figure "images/rhinoceros.webp","Rhinoceros" %}
 
 Rhinoceros is a play by Eugène Ionesco, written in 1959. Throughout three acts, the inhabitants of a provincial French town turn into rhinoceroses. Ultimately the only human who does not succumb to this mass metamorphosis is the central character, Bérenger. Bérenger is a flustered everyman figure.
 

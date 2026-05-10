@@ -21,7 +21,6 @@ tags:
 cover: shadow-ticket-thumb.webp
 portrait: thomas-pynchon.webp
 ---
-{% figure "images/shadow-ticket.webp", "Shadow Ticket" %}
 
 Pynchon’s *Shadow Ticket* arrives like a cipher slipped under the door of contemporary America.
 

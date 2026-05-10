@@ -20,7 +20,6 @@ tags:
   - reading
 cover: homage-to-catalonia-655x1024-1-sm-thumb.webp
 ---
-{% sizing "homage-to-catalonia-655x1024-1.jpeg", "60%", "Homage to Catalonia" %}
 
 The book provides a firsthand account of Orwell's experiences during the Spanish Civil War, where he served as a soldier in the Republican militia fighting against the Nationalist forces led by General Francisco Franco.
 

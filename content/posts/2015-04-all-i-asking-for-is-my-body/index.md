@@ -20,8 +20,6 @@ tags:
 cover: asking-thumb.webp
 portrait: milton-murayama.webp
 ---
-{% figure "images/all-i-asking-for.webp","All I Asking for is My Body" %}
-
 
 _All I Asking for Is My Body_ is a novel written by Milton Murayama and published in 1975. Set in early 20th-century Hawaii, the novel follows the life of Kiyoshi. Kiyoshi is a young Japanese-American boy growing up in a plantation community.
 

@@ -11,8 +11,6 @@ portrait: j-m-coetzee.webp
 excerpt: A Polish pianist with an unpronounceable last name (let's call him W) comes to give a recital in Barcelona.
 ---
 
-{% figure "images/the-pole.webp","The Pole" %}
-
 A Polish pianist with an unpronounceable last name (let's call him W) comes to give a recital in Barcelona. The usual well-heeled arts volunteers, including one Beatriz, arranged the recital. Beatriz, whose name immediately resonates with Dante's muse, Beatrice, will find herself in similar circumstances but will turn the tables before all is said.
 
 We soon learn W is in his 70s and Beatriz is in her early 50s. They are to meet with another couple following the recital but the older couple is feeling unwell so it's up to Beatriz to entertain W after the concert. She asks herself what he would expect of her: a meal, drinks, more? The "more" will not happen, she affirms to herself—she had the ideal excuse to get out of any uncomfortable situations, after all. Beatriz continues to wonder at dinner if W has a spouse and he is coy about the question. She is somewhat charmed by this fool (her thoughts). Attention, after all, is flattery.

@@ -10,9 +10,6 @@ excerpt: Preview of an upcoming US postage stamp. The Bruce Lee commemorative ki
 cover: bruce-lee-thumb.webp
 ---
 
-{% figure "./images/bruce-lee.webp", "Bruce Lee stamp" %}
-
-
 New US Postal Service commemorative stamp: Bruce Lee, Hong Kong star of action movies. 
 
 <!-- snip -->

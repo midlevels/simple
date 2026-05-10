@@ -13,8 +13,6 @@ excerpt: This very short story is part of The New Yorker's flash fiction series.
 cover: new-yorker-cover.webp
 ---
 
-{% figure "images/my-cheesecake-poverty.webp","My Cheesecake Shaped Poverty" %}
-
 "My Cheesecake Shaped Poverty" is a Murakami short story that first appeared in The New Yorker ([download it here](/public/files/My-Cheesecake-Shaped-Poverty.pdf)). 
 
 This very short story is part of *The New Yorker's* flash fiction series, so it's unlikely it is more than 1000 words. The time is 1973.  A young newlywed couple desires to move  into their first home. They don't have much money, so the estate agent looks them up and down and hesitantly takes them to the "Triangle Zone" property. It is called such because it is hemmed in by three train tracks that, improbably, form a triangle around it. The agent really tries to talk them out of it, telling them that the trains run incessantly and are extremely loud. Eventually the couple insists they can take the noise and the agent agrees that it's
@@ -26,7 +24,5 @@ The agent asks them if they're certain they want it and they decide to take it a
 
 When winter comes the temperature drops so much that they cower under the futon and hold each other for warmth through the night. At daylight they find the water taps in the kitchen are frozen. 
 Then Spring arrives and with it, for a little while a railroad strike. Pure silent bliss and walks with their cat along the tracks. Years later the couple long moved out, the narrator wonders whenever he hears the word "poor" who is living in the Triangle Zone. 
-
-{% figure "images/cheesecake.webp", "Cheesecake" %}
 
 No doubt there is an obvious opposition in the "Triangle Zone" and "Cheesecake Shaped Poverty". When one thinks of cheesecake poverty is not what first comes to mind. And though poor when they lived there, the moments of happiness when Spring arrived and the trains went on strike gave them perhaps a glimpse into the future. At least the narrator appears to hold that view. 

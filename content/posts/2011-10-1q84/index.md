@@ -23,7 +23,6 @@ tags:
 cover: 1Q84-thumb.jpeg
 portrait: haruki-murakami.webp
 ---
-{% figure "images/1Q84.webp","1Q84" %}
 
 Haruki Murakami, a renowned Japanese author, wrote 1Q84 in bunko editions from 2009 to 2010. Set in Tokyo during the year 1984, the story follows two main protagonists, Aomame and Tengo, whose paths become intertwined as they navigate a peculiar and mysterious alternate reality.
 

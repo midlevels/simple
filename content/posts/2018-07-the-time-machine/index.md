@@ -20,7 +20,6 @@ tags:
   - reading
 cover: the-time-machine-624x1024-1-thumb.webp
 ---
-{% sizing "the-time-machine-624x1024-1-thumb.webp", "60%", "The Time Machine" %}
 
 _The Time Machine_ is a classic science fiction novel by H.G. Wells and published in 1895. It tells the story of an unnamed Time Traveller who invents a machine capable of traveling through time. The novel explores themes of social class, evolution, and the possible future of humanity.
 

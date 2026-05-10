@@ -15,8 +15,6 @@ excerpt: >-
   conspiracies. Then a stamp auction.
 ---
 
-{% figure "images/the-crying-of-lot-49-672x1024-1.jpeg", "Crying of Lot 49" %}
-
 Thomas Pynchon wrote _The Crying of Lot 49_ in 1966. The story follows Oedipa Maas, a California housewife, as she becomes entangled in a complex and bewildering conspiracy.
 
 Invararity's estate names Oedipa the executor of his estate. As she delves into her role, she discovers a series of puzzling and interconnected clues that lead her on a surreal and convoluted journey.

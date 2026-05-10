@@ -16,7 +16,6 @@ tags:
   - reading
 cover: queen-thumb.webp
 ---
-{% sizing "desert-queen.webp", "60%", "Desert Queen" %}
 
 _Desert Queen: The Extraordinary Life of Gertrude Bell_ is a biography written by Janet Wallach that explores the remarkable life of Gertrude Bell. She was an influential British traveler, writer, archaeologist, and political figure of the early 20th century.
 

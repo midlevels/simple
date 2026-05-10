@@ -15,8 +15,6 @@ excerpt: >-
   relationships through a series of interconnected narratives.
 ---
 
-{% figure "images/the-lemon-table.webp", "the lemon table" %}
-
 _The Lemon Table_ is a collection of short stories written by Julian Barnes and published in 2004. The book explores themes of aging, mortality, and the complexities of human relationships through a series of interconnected narratives.
 
 The stories in _The Lemon Table_ revolve around characters who are either facing the challenges of old age or grappling with the loss of loved ones. Barnes delves into the emotional and psychological aspects of aging, examining the fears, regrets, and reflections that come with time.

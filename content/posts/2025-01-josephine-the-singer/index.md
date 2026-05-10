@@ -12,7 +12,6 @@ excerpt: Narrated by fellow mouse, who reflects on Josephine's (a mouse) signifi
 cover: josephine.webp
 
 ---
-{% figure "./images/josephine.webp", "Josephine the Singer" %}
 
 "Josephine the Singer, or the Mouse Folk" is a poignant short story by Franz Kafka that centers on Josephine, a mouse celebrated for her singing talent. Within the community of the Mouse Folk, her performances are seen as a source of joy and unity, yet they also reveal deeper themes of identity, art, and existential struggle.
 

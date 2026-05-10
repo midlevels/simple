@@ -9,4 +9,3 @@ tags:
 excerpt: A white-hooded babbler in Hong Kong. Taken with a Canon 50D / EF 70-200mm f/4L IS USM lens.
 ---
 
-{% figure "./images/white-hooded-babbler.webp", "white-hooded babbler" %}

@@ -17,6 +17,5 @@ tags:
 cover: night-thumb.webp
 portrait: lionel-davidson.webp
 ---
-{% sizing "night-of-wenceslas.webp", "60%", "Night of Wenceslas" %}
 
 _The Night of Wenceslas_ is the debut novel of British thriller and crime writer Lionel Davidson. This Bildungsroman describes the reluctant adventures of Nicolas Whistler, a dissolute young man of mixed English and Czech parentage who finds himself caught up against his will in Cold War espionage. The novel won the Crime Writers' Association's Gold Dagger Award in 1960 and the Author's Club First Novel Award. It was filmed in 1964 under the title Hot Enough for June. (wikipedia)

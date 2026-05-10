@@ -21,15 +21,10 @@ tags:
 cover: hitch-22-tn.webp
 og_image: og_image.jpg
 ---
-{% figure "./images/hitch-22.webp", "Hitch-22" %}
-
 
 Christopher Hitchens reflects on his upbringing, the influences that shaped him, and the philosophical foundations of his worldview. The memoir serves as both a personal narrative and a broader commentary on culture, politics, and belief.
 
 One of the book's strengths is Hitchens' engaging writing style. His eloquence and command of language draw readers in, making complex ideas accessible. His vivid storytelling, combined with sharp wit and humor, keeps the narrative lively and compelling. We are treated to a rich tapestry of anecdotes that illustrate his experiences, from his childhood in England to his encounters with influential figures in journalism and literature.
-
-
-{% figure "images/hitchens.webp", "Christopher Hitchens" %}
 
 Another notable strength is Hitchens' ability to articulate his political evolution. He candidly recounts how historical events, such as the Vietnam War, shaped his ideological leanings. His reflections on leftist ideologies and the subsequent shifts in his beliefs provide valuable insight into the complexities of political thought. This self-examination encourages readers to reflect on their own beliefs and the factors that influence them.
 

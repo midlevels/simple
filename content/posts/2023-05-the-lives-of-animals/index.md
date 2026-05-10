@@ -10,7 +10,6 @@ tags:
   - reading
 cover: the-lives-thumb.webp
 ---
-{% figure "images/the-lives-of-animals-663x1024.jpeg.webp", "The Lives of Animals" %}
 
 In _The Lives of Animals_, the idea of cruelty to animals consumes novelist Elizabeth Costello. She can no longer look another person in the eye. Humans, especially meat-eating ones, seem to her to be conspirators in a crime of stupefying magnitude. And it's taking place on farms and in slaughterhouses, factories, and laboratories across the world.
 

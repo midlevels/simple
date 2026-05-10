@@ -22,7 +22,6 @@ tags:
   - autobiography
 cover: a-walker-in-the-city-thumb.webp
 ---
-{% figure "images/a-walker-in-the-city-large.webp", "" %}
 
 Alfred Kazin's classic portrait of immigrant life in the early decades of the twentieth century, _A Walker in the City_ is a tour of tenements, subways, and synagogues—but also a universal story of the desires and fears we experience as we try to leave our small, familiar neighborhoods for something new.
 

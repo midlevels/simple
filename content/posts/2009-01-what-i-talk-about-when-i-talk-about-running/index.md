@@ -10,8 +10,6 @@ tags:
 excerpt: Murakami's experiences as a writer and a long-distance runner.
 ---
 
-{% figure "images/running.webp","What I Talk About when I Talk About Running" %}
-
 Haruki Murakami wrote _What I Talk About When I Talk About Running_ in 2007. Combining reflections on running with personal anecdotes, the book provides insights into Murakami's experiences as a writer and a long-distance runner.
 
 Throughout the memoir, Murakami shares how running has been an integral part of his life and creative process. He discusses his motivations for running, the discipline it requires, and the meditative aspects that allow him to find solace and inspiration.

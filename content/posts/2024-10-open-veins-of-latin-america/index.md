@@ -17,7 +17,6 @@ tags:
 cover: open-veins-thumb.webp
 og_image: og_image.jpg
 ---
-{% figure "images/open-veins.webp", "Open Veins of Latin America" %}
 
 *The Open Veins of Latin America: Five Centuries of the Pillage of a Continent* by Eduardo Galeano is a seminal work that examines the historical and socio-economic exploitation of Latin America. First published in 1971, it combines history, economics, and personal narrative to provide a critical perspective on the continent's colonial and post-colonial experiences.
 

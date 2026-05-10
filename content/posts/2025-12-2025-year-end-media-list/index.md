@@ -10,8 +10,6 @@ cover: reading-list-flight-thumb.webp
 
 ---
 
-{% figure "images/reading-list-flight-thumb.webp", "Year-end media list" %}
-
 Another year, and a look back at some of my favorite movies and books of the year. The worst-of list might be a bit longer. The books listed in italics are in progress.
 
 MOVIES

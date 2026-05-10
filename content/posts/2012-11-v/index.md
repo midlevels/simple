@@ -11,8 +11,6 @@ tags:
 excerpt: A dizzying and complex novel with two interwoven narratives that take us through numerous adventures of a particular era in European history.
 ---
 
-{% figure "images/v.webp","V." %}
-
 Thomas Pynchon wrote *V.* in 1963. The narrative follows two interconnected storylines that unfold across time and continents.
 
 The first storyline of Pynchon's *V.* centers around Benny Profane, a disenchanted sailor. Benny becomes entangled in the lives of a group of eccentric individuals known as the Whole Sick Crew. Profane navigates a chaotic and absurd world filled with bizarre characters and strange occurrences. He often finds himself in peculiar and humorous situations.

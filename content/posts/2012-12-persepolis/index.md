@@ -20,7 +20,6 @@ tags:
   - reading
 cover: persepolis-thumb.jpeg
 ---
-{% sizing "persepolis.webp", "60%", "Persepolis" %}
 
 _Persepolis_ is an autobiographical graphic novel written by Marjane Satrapi and published in 2000. It's about the author's childhood and adolescence in Iran during the Islamic Revolution and the subsequent Iran-Iraq War.
 

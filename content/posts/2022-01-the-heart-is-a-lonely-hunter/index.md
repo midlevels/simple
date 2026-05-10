@@ -19,7 +19,6 @@ tags:
   - reading
 cover: lonely-hunter-thumb.webp
 ---
-{% figure "images/the-heart-is-a-lonely-hunter.webp", "" %}
 
 The _Heart Is a Lonely Hunter_ (1940) is the debut novel by the American author Carson McCullers. She was 23 at the time of publication. The novel is about a deaf man, John Singer, and the people he encounters in a depression-era town in Georgia.
 

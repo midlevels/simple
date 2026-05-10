@@ -23,7 +23,6 @@ tags:
 cover: exhalation-thumb.webp
 portrait: ted-chiang.webp
 ---
-{% sizing "exhalation.webp", "60%", "Exhalation - Stories" %}
 
 Named one of the top ten books of 2019, Chiang's collection tackles some of humanity’s oldest questions along with new quandaries only he could imagine, these stories will change the way you think, feel, and see the world. Profound, sympathetic, and revelatory, these are works of Chiang at his finest. 
 

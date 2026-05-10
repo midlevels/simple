@@ -12,8 +12,6 @@ excerpt: A young man falls for a dancer and in promoting her falls into debt, an
 cover: the-guide-tn.webp
 ---
 
-{% figure "./images/the-guide.webp", "The Guide" %}
-
 The Guide follows the life of Raju, a charming and ambitious young man who starts as a tour guide in the fictional town of Malgudi (Narayan has written many stories set in Malgudi). Raju's life takes a turn when he meets Rosie, a talented dancer married to the wealthy but neglectful archaeologist, whom Raju gives the name Marco after a well-known adventurer. Captivated by her passion and beauty, Raju becomes romantically involved with Rosie, leading to her decision to leave Marco. Together, they pursue her dancing career, with Raju managing her performances and helping her gain recognition.
 
 As Rosie's fame grows, Raju becomes increasingly consumed by jealousy and ambition. The couple's relationship begins to deteriorate, exacerbated by Marco's return and the complexities of their shared past. Raju's desire for success leads him to make questionable choices, including manipulating Rosie's career for his benefit. This culminates in a series of events that alienate them from each other, forcing Raju to confront the consequences of his actions.

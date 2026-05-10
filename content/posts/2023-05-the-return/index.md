@@ -19,7 +19,6 @@ tags:
   - reading
 cover: the-return-thumb.webp
 ---
-{% sizing "the-return.webp", "60%", "The Return" %}
 
 When Hisham Matar was a nineteen-year-old university student in England, his father went missing under mysterious circumstances. Hisham would never see him again, but he never gave up hope that his father might still be alive.
 

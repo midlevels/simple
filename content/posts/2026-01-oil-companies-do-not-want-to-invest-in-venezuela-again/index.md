@@ -31,10 +31,6 @@ There have been three waves of interesting times for those seeking profits in Ve
 2. **2004-06:** Under Hugo Chávez, operating agreements and associations were converted into state‑majority joint ventures.
 3. **2007–10:** Expropriations & seizures - Chávez ordered outright expropriation of companies that refused new terms.
 
-
-{% sizing "regime-change.webp", "80%","From January 1976" %}
-
-
 Who wouldn't be hesitant? Trump's a lame duck and lies about everything. On top of it all, Congress has already voted "no" to further actions in Venezuela ([CNBC story](https://www.cnbc.com/2026/01/08/venezuela-senate-voting-on-halting-military-action-after-maduro-capture.html)). No insurance against a fourth round of losses. 
 
 Meanwhile the EU and South America have formed a free trade zone of 700 million people as the US becomes more and more isolated, ruled by a felon. 

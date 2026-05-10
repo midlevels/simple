@@ -21,7 +21,6 @@ tags:
 cover: the-martian-thumb.webp
 og_image: og_image.jpg
 ---
-{% figure "images/the-martian.webp", "The Martian" %}
 
 Andy Weir wrote the sci-fi novel _The Martian_ in 2011. It is a gripping and realistic tale of survival set on Mars.
 

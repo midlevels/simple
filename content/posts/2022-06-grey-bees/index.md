@@ -18,5 +18,4 @@ tags:
 cover: gray-bees-thumb.jpeg
 ---
 
-
 Andrey Kurkov's _Grey Bees_ has elements of both the fable and the epic and it dramatizes the conflict in Ukraine through the adventures of a beekeeper and his frenemy in what seems to be in the Donetsk Oblast of Ukraine.

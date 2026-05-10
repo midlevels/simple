@@ -18,7 +18,6 @@ tags:
   - reading
 cover: traveler-thumb.webp
 ---
-{% figure "images/traveler.webp", "Traveler of the Century" %}
 
 Set in the early 19th century, _Traveler of the Century_ follows the travels of Hans, a young German traveler and translator who arrives in the fictional city of Wandernburg. Hans becomes acquainted with a diverse cast of characters, including intellectuals, revolutionaries, and aristocrats, each representing different facets of society.
 

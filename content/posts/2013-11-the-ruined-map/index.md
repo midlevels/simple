@@ -14,7 +14,6 @@ excerpt: >-
   Set in Tokyo, the story follows a private detective named Mr. Nemuro.
   Takahashi seeks Nemuro's help in finding his missing brother-in-law, Katsumi…
 ---
-{% figure "images/the-ruined-map.webp", "The Ruined Map" %}
 
 Kobo Abe wrote and published _The Ruined Map_ in 1967. Set in Tokyo, the story follows a private detective named Mr. Nemuro. Takahashi seeks Nemuro's help in finding his missing brother-in-law, Katsumi, who disappeared after his wife's murder. Takahashi is desperate to uncover the truth behind the events and wants Nemuro to unravel the mystery surrounding Katsumi's disappearance.
 

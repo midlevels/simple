@@ -16,7 +16,6 @@ tags:
 cover: we-thumb.jpeg
 portrait: yevgeny-zamyatin.webp
 ---
-{% sizing "we-cover.webp", "60%", "We (1921)" %}
 
 Zamyatin's little-known dystopian novel _We_ influenced Ayn Rand, [George Orwell](https://daveross.name/posts/2017-10-homage-to-catalonia-george-orwell/), and Aldous Huxley, and unlike them, he had no model. Zamyatin wrote _We_ in 1921. The Benefactor, the one ruler, assigns numbers to citizens. Society uses pure mathematics as a religion. So the novel has the influence of the Logical Positivism of the day. The novel refers to groups and individuals as "ciphers" or "unifs."
 

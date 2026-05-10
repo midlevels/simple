@@ -19,15 +19,12 @@ cover: report-thumb.webp
 og_image: og_image.jpg
 portrait: paul-auster.webp
 ---
-{% sizing "report.webp", "60%", "Report from the Interior" %}
 
 _Report from the Interior_ is Paul Auster's memoir and it's divided into four distinct sections.
 
 The first section focuses on Auster's childhood and early adolescence, recounting his experiences growing up in post-World War II America. He reflects on his move at the age of four into his first house. He recounts his fascination with comic books, movies, and literature, discussing how these cultural artifacts shaped his understanding of the world and influenced his development as a writer.
 
-
 > Grass and trees, insects and birds, small animals, and the sounds of those animals as their invisible bodies thrashed through the surrounding bushes. You were five and a half when your family left the cramped garden apartment in Union and installed itself in the old white house on Irving Avenue in South Orange. Not a big house, but the first house your parents had ever lived in, which made it your first house as well, and even though the interior was not spacious, the yard behind the house seemed vast to you, for in fact it was two yards, the first one a small grassy area directly behind the house, bordered by your mother’s crescent-shaped flower garden, and then, because a white wooden garage stood just beyond the flowers, bisecting the property into independent terrains, there was a second yard behind it, the back backyard…
-
 
 The second section delves into Auster's experiences as a young adult in the 1960s. He recounts his time as a student at Columbia University, his involvement in political protests, and his travels in Europe. Auster reflects on the social and political climate of the time and its impact on his own identity formation.
 

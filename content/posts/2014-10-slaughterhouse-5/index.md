@@ -19,7 +19,6 @@ tags:
   - reading
 cover: slaughterhouse-5-thumb.webp
 ---
-{% sizing "slaughterhouse-5.webp", "60%", "Slaughterhouse 5" %}
 
 Kurt Vonnegut wrote _Slaughterhouse 5_ from his own experiences serving in the armed forces. It tells the story of Billy Pilgrim, an optometrist and World War II veteran. Billy becomes "unstuck in time," experiencing moments of his life out of chronological order.
 

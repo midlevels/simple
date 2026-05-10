@@ -14,8 +14,6 @@ excerpt: >-
   who joins a band of ruthless scalp hunters.
 ---
 
-{% figure "images/blood-meridian.webp","Blood Meridian" %}
-
 Cormac McCarthy published _Blood Meridian_ in 1985. Set in the mid-19th century, the story follows a runaway known as "the Kid" who joins a band of ruthless scalp hunters.
 
 The narrative centers around the Kid's experiences with the gang, led by the enigmatic and brutal Judge Holden. As they venture into the lawless violent frontier they take part in relentless acts of violence. They engage in massacres, scalping, and other atrocities committed against Native Americans and Mexican settlers.

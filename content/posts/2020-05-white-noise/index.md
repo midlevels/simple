@@ -19,7 +19,6 @@ tags:
   - reading
 cover: white-noise-thumb.webp
 ---
-{% sizing "white-noise.webp", "60%", "White Noise" %}
 
 The novel follows Professor Jack Gladney, who teaches Hitler studies at a small liberal arts college in rural New York. He lives there with his fourth wife Babette and their blended family. Jack is obsessed with avoiding death and stockpiles iodine tablets in case of a chemical spill from a nearby plant.
 

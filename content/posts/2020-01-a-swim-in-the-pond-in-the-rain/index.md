@@ -12,7 +12,6 @@ tags:
   - reading
 cover: swim-pond-thumb.webp
 ---
-{% sizing "swim-pond.webp", "60%", "A Swim in the Pond in the Rain" %}
 
 In _A Swim in a Pond in the Rain,_ Saunders shares a version of his writing class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times.
 

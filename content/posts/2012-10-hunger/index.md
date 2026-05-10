@@ -20,7 +20,6 @@ tags:
   - norwegian
 cover: hunger-thumb.jpeg
 ---
-{% sizing "hunger.webp", "60%", "Hunger" %}
 
 _Hunger_ is a novel written by Norwegian author Knut Hamsun and published in 1890. It follows the story of an unnamed protagonist, a struggling writer living in the city of Kristiania (now Oslo). He is the epitome of the starving artist.
 

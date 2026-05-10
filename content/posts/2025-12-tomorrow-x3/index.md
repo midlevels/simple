@@ -15,8 +15,6 @@ tags:
   - american
 cover: tomorrow-x3-thumb.webp
 ---
-{% sizing "tomorrow-x3-thumb.webp", "100%", "Tomorrow x3" %}
-
 
 A friend's daughter was assigned this book in class (high school) and she recommended it highly, so I figured, ok, I know she's a bright young woman with a dad with good taste in friends, so I read the first free chapters and was hooked.
 

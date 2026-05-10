@@ -19,7 +19,6 @@ tags:
   - reading
 cover: heart-thumb.webp
 ---
-{% sizing "heart.webp", "60%", "Heart of Darkness" %}
 
 _Heart of Darkness_ is a novella written by Joseph Conrad and published in 1899. The story follows Charles Marlow, a sailor and narrator, as he recounts his journey into the heart of Africa to find the enigmatic ivory trader Kurtz.
 

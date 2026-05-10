@@ -20,7 +20,6 @@ tags:
 cover: mans-search-thumb.jpeg
 portrait: viktor-e-frankl.webp
 ---
-{% sizing "mans-search-for-meaning.webp", "60%", "Man's Search for Meaning" %}
 
 Viktor Frankl, an Austrian psychiatrist and Holocaust survivor wrote _Man's Search for Meaning_ in 1946. Frankl divides the book into two parts and explores his experiences in Nazi concentration camps. It also goes into his development of logotherapy, a form of psychotherapy focused on finding meaning in life.
 

@@ -22,7 +22,6 @@ tags:
   - reading
 cover: memories-t-thumb.webp
 ---
-{% sizing "memories-melancholy-whores.webp", "60%", "Memories of My Melancholy Whores" %}
 
 _Memories of My Melancholy Whores_ (Spanish: Memoria de mis putas tristes) is a novella by Gabriel García Márquez. The book was originally published in Spanish in 2004, with an English translation by Edith Grossman published in October 2005. The proper translation of the title would be 'memory of my sad whores.' 'Melancholy' is a word whose meaning is far more intricate than Spanish triste. And Spanish triste translates best to the English adjective sad.
 

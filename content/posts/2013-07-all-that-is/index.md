@@ -18,7 +18,6 @@ tags:
   - american
 cover: all-that-is-thumb.webp
 ---
-{% sizing "all-that-is.webp", "60%", "All That Is" %}
 
 _All That Is_ is a novel written by James Salter and published in 2013. The story follows Philip Bowman, a book editor, as he navigates the landscape of love and the world of publishing. The novel runs from the end of World War II through the latter half of the 20th century.
 

@@ -21,6 +21,5 @@ tags:
   - reading
 cover: wicked-ways-thumb.webp
 ---
-{% sizing "my-wicked-wicked-ways.webp", "70%", "My Wicked, Wicked Ways" %}
 
 Known to millions as the preeminent swashbuckler of the silver screen, Errol Flynn was a complex man who lived a life far more adventurous than any of his films. In _My Wicked, Wicked Ways_, Flynn reveals himself to be a self-aware and cosmopolitan devotee of excitement and pleasure. With gusto, he recalls his years as a soldier of fortune in the South Seas, his trip to war-torn Spain, his battles in Hollywood with studio honchos (Jack Warner was a particular nemesis) and ex-wives (esp. Lili Damita), and the furor surrounding his trial for rape in 1943. Freely mixing verbal abuse and tall tales with candid confessions, Flynn's autobiography makes for one hell of a read.

@@ -17,7 +17,6 @@ cover: the-conservationist-thumb.webp
 portrait: nadine-gordimer.webp
 og_image: og_image.jpg
 ---
-{% figure "images/the-conservationist.webp", "The Conservationist (1974)" %}
 
 Set in apartheid-era South Africa, the story revolves around a wealthy white businessman named Mehring who acquires a farm in the countryside.
 

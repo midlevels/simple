@@ -11,8 +11,6 @@ tags:
 excerpt: Elizabeth Costello, a fighter for animal rights.
 ---
 
-{% figure "images/costello.webp","Elizabeth Costello" %}
-
 J.M. Coetzee published _Elizabeth Costello_ in 2003. The story revolves around the fictional character of Elizabeth Costello, a renowned and aging Australian writer who travels the world giving lectures and engaging in philosophical debates.
 
 The novel is structured as a series of chapters that depict different moments in Elizabeth's life. These moments include her interactions with family members, encounters with other intellectuals, and public speaking engagements. Through these episodes, Coetzee raises profound questions about literature, ethics, animals, and the nature of human existence.

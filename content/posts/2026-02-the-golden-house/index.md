@@ -16,7 +16,6 @@ tags:
 cover: golden-house-thumb.webp
 og_image: og.png
 ---
-{% figure "images/golden-house.webp", "The Golden House" %}
 
 In the humid, over-ripened air of a post-Obama Manhattan, where the sunlight hits the brownstones of Greenwich Village with a cloying, amber insistence, we find the "Gardens"—a private enclave of old-world quietude suddenly invaded by the operatic. Nero Golden, a man of heavy, sepia-toned secrets and a girth that suggests a kingdom lost or perhaps merely packed into high-end luggage, arrives with his three sons like refugees from a myth that has lost its footing. They have shed their Indian surnames for the Roman weight of "Golden," an American reinvention that smells faintly of mothballs and gunpowder.
 

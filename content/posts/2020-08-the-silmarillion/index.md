@@ -19,13 +19,8 @@ tags:
   - reading
 cover: the-silmarillion-thumb.webp
 ---
-{% sizing "the-silmarillion.webp", "60%", "The Silmarillion" %}
 
 _The Silmarillion_ is the tale of the creation of the world. In the First Age, is the ancient drama to which the characters in _The Lord of the Rings_ look back and in whose events some of them, such as Elrond and Galadriel, took part. The three Silmarils were jewels created by Fëanor, the most gifted of the Elves. Within them was imprisoned the Light of the Two Trees of Valinor before the Trees themselves were destroyed by Morgoth, the first Dark Lord. The Light of Valinor lived on in the Silmarils, but they were seized by Morgoth and set in his crown. The crown was guarded in the impenetrable fortress of Angband in the north of Middle-earth.
 
 _The Silmarillion_ is the history of the rebellion of Fëanor and his kindred against the gods, their exile from Valinor and return to Middle-earth, and their war, hopeless despite all their heroism, against the great Enemy. (Publisher)
-
-
-
-
 

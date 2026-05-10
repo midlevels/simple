@@ -19,7 +19,6 @@ tags:
   - fiction
 cover: the-angels-game-thumb.jpeg
 ---
-{% figure "images/the-angels-game.webp", "The Angel's Game" %}
 
 Carlos Ruiz Zafón published _The Angel's Game_ in 2008. It is set in 1920s Barcelona. It is a prequel to Zafón's earlier work, _The Shadow of the Wind_, but can be read as a standalone story. The novel delves into themes of love, obsession, and the blurred lines between reality and fiction.
 

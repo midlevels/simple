@@ -23,7 +23,6 @@ tags:
   - short stories
 cover: welty-thumb.webp
 ---
-{% figure "images/eudora-welty-why-i-live-at-the-po.webp", "Why I Live at the P.O." %}
 
 Eudora Welty wrote the short story "Why I Live at the PO". It is a first-person narrative that revolves around the character known as Sister. She recounts the events leading up to her decision to leave her family home. She moves to the local post office instead (P.O.).
 

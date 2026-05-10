@@ -8,7 +8,6 @@ tags:
   - blog
 excerpt: The entire contents of The New Yorker issue containing John Hersey's Hiroshima essay had an unfortunate cover illustration.
 ---
-{% figure "images/nyorker-hiroshima.webp", "New Yorker" %}
 
 The entire contents of _The New Yorker_ issue containing John Hersey's _Hiroshima_ essay had an unfortunate cover illustration. The cover depicted a leisurely American community swimming, biking, and playing. It had gone to print and was about to be distributed nationwide. The obvious problem: the cover art would not prepare readers for what they were about to encounter inside. It was too late to delay the issue and change the art. It was too late to slow up putting in the mail the copies that would get to anywhere outside NYC, but it was not too late to print a bellyband to wrap around the issue for the issues that could be dropped a day or two later. So that's exactly what they did.
 

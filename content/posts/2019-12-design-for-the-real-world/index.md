@@ -20,7 +20,6 @@ tags:
 cover: design-thumb.jpeg
 portrait: victor-papanek.webp
 ---
-{% sizing "design-for-the-real-world-663x1024-1.jpeg", "60%", "Design for the Real World" %}
 
 _Design for the Real World_ by Victor Papanek is a classic anyone involved in design can benefit from. In this edition, Victor Papanek examines the attempts by designers to combat the tawdry, the unsafe, and the frivolous. He provides a blueprint for sensible, responsible, eco-friendly design in this world which is deficient in resources and energy.
 

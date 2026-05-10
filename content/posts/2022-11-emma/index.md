@@ -22,7 +22,6 @@ tags:
   - reading
 cover: emma-thumb.webp
 ---
-{% sizing "emma-667x1024.jpeg.webp", "60%", "Emma" %}
 
 Characters in _Emma_ by Jane Austen have many prejudices that Austen challenges the reader to find rather than state them. Set in the fictional country village of Highbury, the novel involves the relationships among people from a small number of families.
 

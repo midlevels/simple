@@ -11,8 +11,6 @@ tags:
 excerpt: The novel begins with William Barton visiting his ex-wife in NYC as the COVID-19 epidemic begins.
 ---
 
-{% figure "images/lucy-by-the-sea.webp","Lucy by the Sea" %}
-
 Elizabeth Strout's novel begins with William Barton visiting his ex-wife in NYC as the COVID-19 epidemic begins. He insists on moving her from her comfortable Manhattan flat to a coastal Maine home to wait things out.
 
 For several months it's just Lucy and William living together by the sea renewing their friendship. They become close again and receive cautious visits from their grown children Lucy makes new friends in their seaside community of Crosby, Maine. William takes on a teaching position at the local university and pays a visit to a long-lost relative he came close to meeting in *Oh, William!* _ There's even a cameo of Olive Kitteridge.
