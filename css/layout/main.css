@@ -4,7 +4,7 @@
  */
 
 main {
-    max-width: 80ch; /* Focused reading experience */
+    max-width: 65ch; /* Focused reading experience */
     margin-inline: auto;
     padding-inline: var(--space-s);
 }
