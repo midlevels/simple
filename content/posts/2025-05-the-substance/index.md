@@ -4,7 +4,6 @@ date: 2025-05-03
 # writer: Name
 # artist: Name
 tags:
-  - movie review
   - blog
 excerpt: Great performances, but someone let the special effects person run wild. 
 # og_image: (600x315)
