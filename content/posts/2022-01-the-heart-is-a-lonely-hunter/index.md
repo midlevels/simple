@@ -2,7 +2,6 @@
 title: The Heart is a Lonely Hunter
 date: 2022-01-08T00:00:00.000Z
 writer: Carson McCullers
-portrait: carson-mccullers.webp
 bio: >-
   Carson McCullers (February 19, 1917 – September 29, 1967) was an American
   novelist, short-story writer, playwright, essayist, and poet. Her first novel,
@@ -17,7 +16,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: lonely-hunter-thumb.webp
 ---
 
 The _Heart Is a Lonely Hunter_ (1940) is the debut novel by the American author Carson McCullers. She was 23 at the time of publication. The novel is about a deaf man, John Singer, and the people he encounters in a depression-era town in Georgia.

@@ -17,8 +17,6 @@ tags:
   - autobiography
   - american
   - reading
-cover: yom-thumb.webp
-portrait: patti-smith.webp
 ---
 
 _Year of the Monkey_ is a collection of reality-blended fictional picaresque essays that only Patti Smith can write. Following a run of New Year’s concerts at San Francisco’s legendary Fillmore, Patti Smith finds herself tramping the coast of Santa Cruz, about to embark on a year of solitary wandering. Unfettered by logic or time, she draws us into her private wonderland, in which she debates intellectual grifters and spars with the likes of a postmodern Cheshire Cat. Then, in February 2016, a surreal lunar year begins, bringing unexpected turns, heightened mischief, and inescapable sorrow. For Smith—inveterately curious, always exploring, always writing—this becomes a year of reckoning with the changes in life’s gyre: with loss, aging, and a dramatic shift in the political landscape of America. 

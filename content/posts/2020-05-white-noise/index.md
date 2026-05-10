@@ -2,7 +2,6 @@
 title: White Noise
 date: 2020-05-26T00:00:00.000Z
 writer: Don DeLillo
-portrait: don-delillo.webp
 bio: >-
   Donald Richard DeLillo (born November 20, 1936) is an American novelist, short
   story writer, playwright, screenwriter and essayist. His works have covered
@@ -17,7 +16,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: white-noise-thumb.webp
 ---
 
 The novel follows Professor Jack Gladney, who teaches Hitler studies at a small liberal arts college in rural New York. He lives there with his fourth wife Babette and their blended family. Jack is obsessed with avoiding death and stockpiles iodine tablets in case of a chemical spill from a nearby plant.

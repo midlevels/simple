@@ -14,9 +14,7 @@ tags:
   - dutch
   - reading
   - china
-cover: judge-thumb.webp
 og_image: og_image.jpg
-portrait: robert-van-gulik.webp
 ---
 
 Robert van Gulik wrote _The Celebrated Cases of Judge Dee_, a collection of detective stories, and published them in 1949. van Gulik sets the stories in ancient China during the Tang Dynasty. The fictional character of Judge Dee may be based on a real person: Di Renjie. Di was known for his wisdom, intelligence, and strict adherence to the law. Robert van Gulik was in a Tokyo bookshop one day when he served as a diplomat from the Netherlands. The 17th-century book contained gong-an stories about Di Renjie. He went on to translate them, became a fan, and went on to write 18 of his own Judge Dee stories.

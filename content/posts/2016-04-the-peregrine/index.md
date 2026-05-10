@@ -13,9 +13,7 @@ tags:
   - reading
   - non-fiction
   - british
-cover: peregrine-thumb.webp
 og_image: og_image.jpg
-portrait: j-a-baker.webp
 ---
 
 _The Peregrine_ is a nature book written by J. A. Baker and published in 1967. It is a deeply immersive account of the author's observations of peregrine falcons in the British countryside.

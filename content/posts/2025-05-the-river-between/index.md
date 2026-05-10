@@ -12,8 +12,6 @@ tags:
   - kenyan
   - hkbc
   - reading
-cover: river-thumb.webp
-portrait: ngugi-wa-thiong-o.webp
 ---
 
 A young man of the Gikuyu tribe named Waiyaki is the focal point in Thiong'o's novel. At an early age, Waiyaki was already considered to have special gifts. He once encountered two boys fighting and attempted to break up the squabble. Although he was the youngest of the three, he was able to put a stop to the violence. Ngugi reveals that the three boys, Waiyaki, Kamau and Kinuthia, are all destined to study at a local mission school nearby and, from there, to become teachers. 

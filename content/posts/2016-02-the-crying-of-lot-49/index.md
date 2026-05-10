@@ -3,8 +3,6 @@ title: The Crying of Lot 49
 date: 2016-02-27T00:00:00.000Z
 og_image: og_image.jpg
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
-cover: crying-thumb.webp
 tags:
   - american
   - fiction

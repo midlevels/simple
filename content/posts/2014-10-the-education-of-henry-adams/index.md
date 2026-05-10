@@ -2,7 +2,6 @@
 title: The Education of Henry Adams
 date: 2014-10-09T00:00:00.000Z
 writer: Henry Adams
-portrait: henry-adams.webp
 bio: >-
   Henry Brooks Adams (February 16, 1838 – March 27, 1918) was an American
   historian and a member of the Adams political family, descended from two U.S.
@@ -19,7 +18,6 @@ tags:
   - autobiography
   - american
   - reading
-cover: adams-thumb.webp
 ---
 
 Henry Adams, journalist, historian, and member of the Adams political family, posthumously published _The Education of Henry Adams_ in 1918. It won a Pulitzer the following year. The book chronicles Adams' personal and intellectual journey throughout his life. He reflects on the changes and challenges he witnessed in the late 19th and early 20th centuries.

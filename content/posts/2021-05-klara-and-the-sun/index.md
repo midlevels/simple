@@ -2,7 +2,6 @@
 title: Klara and the Sun
 date: 2021-05-08T00:00:00.000Z
 writer: Kazuo Ishiguro
-portrait: kazuo-ishiguro.webp
 bio: >-
   Sir Kazuo Ishiguro (born 8 November 1954) is a Japanese-born British novelist,
   screenwriter, musician, and short-story writer. He is one of the most
@@ -27,7 +26,6 @@ tags:
   - hkbc
   - reading
   - science fiction
-cover: klara-thumb.webp
 ---
 
 Kazuo Ishiguro sets _Klara and the Sun_ in a dystopian future when some children are genetically engineered for enhanced academic ability. On-screen tutors provide educations. Society limits socialization so parents who can afford it often buy their children androids as companions. Klara, one such android companion, is the narrator of the book.

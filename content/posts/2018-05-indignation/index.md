@@ -2,8 +2,6 @@
 title: Indignation
 date: 2018-05-25
 writer: Philip Roth
-portrait: philip-roth.webp
-cover: indignation-thumb.jpeg
 tags:
   - fiction
   - american

@@ -2,14 +2,12 @@
 title: Josephine the Singer
 date: 2025-01-14
 writer: Franz Kafka
-portrait: franz-kafka.webp
 tags:
   - fiction
   - short stories
   - hkbc
   - reading
 excerpt: Narrated by fellow mouse, who reflects on Josephine's (a mouse) significance within their society. 
-cover: josephine.webp
 
 ---
 

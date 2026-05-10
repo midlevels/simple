@@ -16,8 +16,6 @@ tags:
   - non-fiction
   - french
   - reading
-cover: capital-thumb.webp
-portrait: thomas-piketty.webp
 ---
 
 _Capital in the Twenty-First Century_ is a comprehensive book written by French economist Thomas Piketty and published in 2013. The book examines the dynamics of wealth and income inequality, exploring their causes, consequences, and potential solutions.

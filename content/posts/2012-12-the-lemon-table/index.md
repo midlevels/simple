@@ -2,8 +2,6 @@
 title: The Lemon Table
 date: 2012-12-20T00:00:00.000Z
 writer: Julian Barnes
-portrait: julian-barnes.webp
-cover: lemon-thumb.jpeg
 tags:
   - british
   - short stories

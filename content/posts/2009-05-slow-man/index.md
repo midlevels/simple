@@ -2,7 +2,6 @@
 title: Slow Man
 date: 2009-05-05T00:00:00.000Z
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
 bio: >-
   John Maxwell Coetzee (born 9 February 1940) is a South African and Australian
   novelist, essayist, linguist, and translator. The recipient of the 2003 Nobel
@@ -16,7 +15,6 @@ tags:
   - fiction
   - south-african
   - reading
-cover: slow-man-thumb.jpeg
 ---
 
 J.M. Coetzee wrote _Slow Man_ in 2005. The story revolves around Paul Rayment, an aging photographer who suffers a debilitating accident that results in the amputation of his leg. The novel explores themes of identity, loss, and human connection.

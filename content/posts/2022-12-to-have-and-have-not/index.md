@@ -2,7 +2,6 @@
 title: To Have and Have Not
 date: 2022-12-10T00:00:00.000Z
 writer: Ernest Hemingway
-portrait: ernest-hemingway.webp
 excerpt: >-
   Hemingway's _To Have and Have Not_ is a commentary on the time of The Great
   Depression told from multiple viewpoints.
@@ -11,7 +10,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: to-have-and-have-not.jpeg
 ---
 
 Hemingway's _To Have and Have Not_ is a commentary on the time of The Great Depression told from multiple viewpoints.

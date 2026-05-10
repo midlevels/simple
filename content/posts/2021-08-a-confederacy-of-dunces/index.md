@@ -24,8 +24,6 @@ tags:
   - humor
   - hkbc
   - reading
-cover: confederacy-of-dunces-thumb.webp
-portrait: john-kennedy-toole.webp
 ---
 
 _A Confederacy of Dunces_ is a picaresque novel by American novelist John Kennedy Toole which reached publication in 1980. It took eleven years after Toole's suicide to find an audience. Toole's mother brought the work to Walker Percy and then he to his publisher. The book became first a cult classic, then a mainstream success. _A Confederacy of Dunces_ earned Toole a posthumous [Pulitzer Prize for Fiction in 1981](https://en.wikipedia.org/wiki/1981_Pulitzer_Prize).

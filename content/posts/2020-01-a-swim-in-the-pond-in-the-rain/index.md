@@ -2,7 +2,6 @@
 title: A Swim in the Pond in the Rain
 date: 2020-01-21T00:00:00.000Z
 writer: George Saunders
-portrait: george-saunders.webp
 excerpt: Close readings of a selection of Russian short stories
 tags:
   - essays
@@ -10,7 +9,6 @@ tags:
   - non-fiction
   - literary criticism
   - reading
-cover: swim-pond-thumb.webp
 ---
 
 In _A Swim in a Pond in the Rain,_ Saunders shares a version of his writing class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times.

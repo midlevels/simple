@@ -2,8 +2,6 @@
 title: Hunter of Stories
 date: 2024-10-05T00:00:00.000Z
 writer: Eduardo Galeano
-portrait: eduardo-galeano.webp
-cover: hunter-of-stories.webp
 tags:
   - hkbc
   - reading

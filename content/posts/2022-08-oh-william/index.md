@@ -2,13 +2,11 @@
 title: 'Oh, William!'
 date: 2022-08-16T00:00:00.000Z
 writer: Elizabeth Strout
-portrait: elizabeth-strout.webp
 excerpt: "On every page of this novel we learn more about the quiet forces that hold us together.\_William uncovers a hitherto unknown relation…"
 tags:
   - fiction
   - american
   - reading
-cover: oh-william-thumb.webp
 ---
 
 In _Oh, William!_ Lucy Barton is a writer, but her ex-husband, William, remains a hard man to read. _William_, she confesses, _has always been a mystery to me_. Another mystery is why the two have remained connected after all these years. They just are. 

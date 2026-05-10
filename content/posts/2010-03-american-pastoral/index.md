@@ -2,8 +2,6 @@
 title: American Pastoral
 date: 2010-03-27T00:00:00.000Z
 writer: Philip Roth
-portrait: philip-roth.webp
-cover: a-pastoral-thumb.jpeg
 tags:
   - american
   - fiction

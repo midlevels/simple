@@ -4,7 +4,6 @@ date: 2026-01-10
 og_image: og_image.jpg
 # writer: Name
 # artist: Name
-cover: regime-change.webp
 tags:
   - blog
 excerpt: Burned once, twice, thrice already. 

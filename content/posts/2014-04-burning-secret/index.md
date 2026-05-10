@@ -2,8 +2,6 @@
 title: Burning Secret
 date: 2014-04-17
 writer: Stefan Zweig
-portrait: stefan-zweig.webp
-cover: burning-thumb.webp
 tags:
   - fiction
   - austrian

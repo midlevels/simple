@@ -2,7 +2,6 @@
 title: The Festival of Insignificance
 date: 2024-11-11T00:00:00.000Z
 writer: Milan Kundera
-portrait: milan-kundera.webp
 bio: >-
   Milan Kundera (1 April 1929 – 11 July 2023) was a Czech and French novelist.
   Kundera went into exile in France in 1975, acquiring citizenship in 1981. His
@@ -17,7 +16,6 @@ tags:
   - fiction
   - czech
   - reading
-cover: festival.webp
 og_image: og_image.jpg
 ---
 

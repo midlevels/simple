@@ -16,9 +16,7 @@ tags:
   - short stories
   - indian
   - reading
-cover: malgudi-tn.webp
 og_image: og_image.jpg
-portrait: r-k-narayan.webp
 ---
 {% sizing "malgudi.webp", "60%", "Malgudi Days" %}
 

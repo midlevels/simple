@@ -2,7 +2,6 @@
 title: Entropy
 date: 2022-10-29T00:00:00.000Z
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
 excerpt: >-
   explores the concept of disorder through a chaotic New Year's Eve party; other
   stories included in the volume
@@ -11,7 +10,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: slow-learner-thumb.jpeg
 ---
 
 Thomas Pynchon wrote _Slow Learner,_ a collection of stories, which was published in 1984, which includes the story Entropy. The collection includes five stories written during his formative years as a writer, spanning the period from 1958 to 1964. Our book group focused on the one story in particular: Entropy.

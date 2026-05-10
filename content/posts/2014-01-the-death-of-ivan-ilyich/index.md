@@ -2,7 +2,6 @@
 title: The Death of Ivan Ilyich
 date: 2014-01-22T00:00:00.000Z
 writer: Leo Tolstoy
-portrait: leo-tolstoy.webp
 bio: >-
   Count Lev Nikolayevich Tolstoy (9 September 1828 – 20 November 1910), usually
   referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as
@@ -16,7 +15,6 @@ tags:
   - hkbc
   - reading
   - short stories
-cover: ivan-thumb.webp
 ---
 
 Leo Tolstoy wrote and published the novella _The Death of Ivan Ilyich_ in 1886. It tells the story of Ivan Ilyich, a high-ranking Russian bureaucrat, and his gradual realization of his own mortality as he faces a terminal illness.

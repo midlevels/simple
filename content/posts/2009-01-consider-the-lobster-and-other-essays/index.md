@@ -2,8 +2,6 @@
 title: Consider the Lobster and Other Essays
 date: 2009-01-03
 writer: David Foster Wallace
-portrait: david-foster-wallace.webp
-cover: lobster-thumb.jpeg
 tags:
   - essays
   - non-fiction

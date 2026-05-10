@@ -2,7 +2,6 @@
 title: The Dharma Bums
 date: 2017-04-05T00:00:00.000Z
 writer: Jack Kerouac
-portrait: jack-kerouac.webp
 bio: >-
   Jean-Louis Lebris de Kérouac (March 12, 1922 – October 21, 1969), known as
   Jack Kerouac, was an American novelist and poet who, alongside William S.
@@ -14,7 +13,6 @@ tags:
   - fiction
   - american
   - reading
-cover: dharma-thumb.webp
 ---
 
 _The Dharma Bums_ follows the character of Ray Smith, a thinly veiled representation of Kerouac himself, as he embarks on a series of adventures and encounters with various individuals. The narrative is set against the backdrop of the Beat Generation's counter-cultural lifestyle and the exploration of Eastern philosophy.

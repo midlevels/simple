@@ -2,8 +2,6 @@
 title: Numero Zero
 date: 2015-12-24
 writer: Umberto Eco
-portrait: umberto-eco.webp
-cover: numero-thumb.webp
 tags:
   - fiction
   - italian

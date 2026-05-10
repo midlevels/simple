@@ -16,8 +16,6 @@ tags:
   - fiction
   - australian
   - reading
-cover: the-plains-lg-thumb.webp
-portrait: gerald-murnane.webp
 ---
 
 In _The Plains,_ Australian novelist Gerald Murnane explores how the landowning families of the plains have preserved a rich and distinctive culture. Obsessed with their habitat and history, they hire artisans, writers, and historians to record in minute detail every aspect of their lives, and the nature of their land. A young filmmaker arrives on the plains, hoping to make his contribution to the elaboration of this history. In a private library, he begins to take notes for a film and chooses the daughter of his patron for a leading role. Twenty years later, he begins to tell his haunting story of life on the plains. 

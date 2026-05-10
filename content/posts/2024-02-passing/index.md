@@ -20,8 +20,6 @@ tags:
   - reading
   - american
   - fiction
-cover: passing.webp
-portrait: nella-larsen.webp
 categories: 'hkbc,reading'
 ---
 

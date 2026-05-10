@@ -2,8 +2,6 @@
 title: Liberation Day
 date: 2023-04-17
 writer: George Saunders
-portrait: george-saunders.webp
-cover: liberation-day-thumb.jpeg
 tags:
   - short stories
   - american

@@ -2,7 +2,6 @@
 title: Cannery Row
 date: 2017-08-08T00:00:00.000Z
 writer: John Steinbeck
-portrait: john-steinbeck.webp
 bio: >-
   John Ernst Steinbeck (February 27, 1902 – December 20, 1968) was an American
   writer and novelist. He won the 1962 Nobel Prize in Literature "for his
@@ -17,7 +16,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: cannery-thumb.webp
 ---
 
 _Cannery Row_ is a novel by American author John Steinbeck, published in 1945. It is set during the Great Depression in Monterey, California. The street is one lined with sardine canneries known as Cannery Row. The story revolves around the people living there, including Lee Chong, the local grocer. Doc, a marine biologist. And Mack, the leader of a group of derelicts.

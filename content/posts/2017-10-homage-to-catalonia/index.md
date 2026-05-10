@@ -2,7 +2,6 @@
 title: Homage to Catalonia
 date: 2017-10-24T00:00:00.000Z
 writer: George Orwell
-portrait: george-orwell.webp
 bio: >-
   Eric Arthur Blair (25 June 1903 – 21 January 1950) was an English novelist,
   poet, essayist, journalist, and critic who wrote under the pen name of George
@@ -18,7 +17,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: homage-to-catalonia-655x1024-1-sm-thumb.webp
 ---
 
 The book provides a firsthand account of Orwell's experiences during the Spanish Civil War, where he served as a soldier in the Republican militia fighting against the Nationalist forces led by General Francisco Franco.

@@ -2,8 +2,6 @@
 title: Both Flesh and Not
 date: 2022-07-04
 writer: David Foster Wallace
-portrait: david-foster-wallace.webp
-cover: both-flesh-and-not.jpeg
 tags:
   - essays
   - non-fiction

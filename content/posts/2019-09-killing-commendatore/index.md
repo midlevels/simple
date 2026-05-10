@@ -2,8 +2,6 @@
 title: Killing Commendatore
 date: 2019-09-22
 writer: Haruki Murakami
-portrait: haruki-murakami.webp
-cover: killing-thumb.jpeg
 tags:
   - japanese
   - fiction

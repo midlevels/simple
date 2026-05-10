@@ -2,7 +2,6 @@
 title: Fear and Loathing in Las Vegas
 date: 2014-06-23T00:00:00.000Z
 writer: Hunter S. Thompson
-portrait: hunter-s-thompson.webp
 bio: >-
   Hunter Stockton Thompson (July 18, 1937 – February 20, 2005) was an American
   journalist and author, regarded as a pioneer of New Journalism along with Gay
@@ -22,7 +21,6 @@ tags:
   - reading
   - fiction
   - american
-cover: fear-loathing-thumb.webp
 ---
 
 Hunter S Thompson wrote _Fear and Loathing in Las Vegas_ in 1971. It is a semi-autobiographical account of a drug-fueled journey through Las Vegas by the narrator, Raoul Duke. His attorney, Dr. Gonzo, joins him for the ride.

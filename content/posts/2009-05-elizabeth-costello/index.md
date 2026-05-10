@@ -2,8 +2,6 @@
 title: Elizabeth Costello
 date: 2009-05-05
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
-cover: elizabeth-thumb.jpeg
 tags:
   - fiction
   - reading

@@ -2,7 +2,6 @@
 title: The Golden House
 date: 2026-02-14T00:00:00.000Z
 writer: Salman Rushdie
-portrait: salman-rushdie.webp
 excerpt: >-
   In the humid, over-ripened air of a post-Obama Manhattan, where the sunlight
   hits the brownstones of Greenwich Village with a cloying, amber insistence, we
@@ -13,7 +12,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: golden-house-thumb.webp
 og_image: og.png
 ---
 

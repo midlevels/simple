@@ -2,7 +2,6 @@
 title: The Narrow Road to the Deep North
 date: 2026-01-27T00:00:00.000Z
 writer: Matsuo Bashō
-portrait: matsuo-bash.webp
 bio: >-
   Matsuo Bashō (松尾 芭蕉; Japanese pronunciation: [ma.tsɯ.o (|) ba.ɕoː], 1644 –
   November 28, 1694); born Matsuo Kinsaku (松尾 金作), later known as Matsuo Chūemon
@@ -17,7 +16,6 @@ tags:
   - reading
   - japan
   - japanese
-cover: basho.jpg
 ---
 
 Matsuo Bashō’s The Narrow Road to the Deep North (Oku no Hosomichi) is a poetic travel narrative recounting his 1689 journey from Edo (modern Tokyo) into Japan’s remote northern interior. Written in a refined blend of prose and haiku known as haibun, the work records not only the physical stages of his journey but also a spiritual pilgrimage shaped by Zen Buddhism, literary memory, and a deep sensitivity to impermanence. Though the narrative is relatively brief, it distills vast emotional and philosophical depth into its spare language.

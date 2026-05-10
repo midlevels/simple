@@ -2,13 +2,11 @@
 title: Never Let Me Go
 date: 2023-03-20T00:00:00.000Z
 writer: Kazuo Ishiguro
-portrait: kazuo-ishiguro.webp
 excerpt: Never Let Me Go is a thought-provoking dystopian novel written…
 tags:
   - british
   - fiction
   - reading
-cover: never-thumb.jpeg
 ---
 
 _Never Let Me Go_ is a thought-provoking dystopian novel written by [Kazuo Ishiguro](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/). The novel is set in an alternate version of late 20th-century England. Three friends, Kathy, Ruth, and Tommy grow up in a secluded boarding school called Hailsham.

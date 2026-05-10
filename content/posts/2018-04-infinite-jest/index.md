@@ -2,7 +2,6 @@
 title: Infinite Jest
 date: 2018-04-10T00:00:00.000Z
 writer: David Foster Wallace
-portrait: david-foster-wallace.webp
 bio: >-
   David Foster Wallace (February 21, 1962 – September 12, 2008) was an American
   writer and professor who published novels, short stories, and essays. He is
@@ -17,7 +16,6 @@ tags:
   - fiction
   - american
   - reading
-cover: infinite-thumb.webp
 ---
 
 Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, _Infinite Jest_ explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are.

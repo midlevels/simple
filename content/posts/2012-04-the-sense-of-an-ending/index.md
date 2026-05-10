@@ -2,7 +2,6 @@
 title: The Sense of an Ending
 date: 2012-04-09T00:00:00.000Z
 writer: Julian Barnes
-portrait: julian-barnes.webp
 bio: >-
   Julian Patrick Barnes (born 19 January 1946) is an English writer. He won the
   Man Booker Prize in 2011 with The Sense of an Ending, having been shortlisted
@@ -20,7 +19,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: the-sense-of-an-ending-thumb.jpeg
 ---
 
 The narrative of _The Sense of an Ending_ unfolds in two parts. The first part focuses on Tony's youth and his friendships with a group of intellectual classmates. His close friend Adrian Finn is of particular interest in the plot. The second part takes place in Tony's later life as he receives an unexpected bequest. It forces him to reevaluate his understanding of the past.

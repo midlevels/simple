@@ -2,7 +2,6 @@
 title: Who Goes There?
 date: 2022-01-04T00:00:00.000Z
 writer: John W. Campbell
-portrait: john-w-campbell.webp
 bio: >-
   John Wood Campbell Jr. (June 8, 1910 – July 11, 1971) was an American science
   fiction writer and editor. He was editor of Astounding Science Fiction (later
@@ -23,7 +22,6 @@ tags:
   - hkbc
   - reading
   - science fiction
-cover: who-goes-there-thumb.webp
 ---
 
 John W. Campbell Jr. wrote _Who Goes There?_ was published in 1938. The story revolves around a group of scientists in Antarctica. They discover an alien life form trapped in the ice and struggle to survive as the alien threatens to infiltrate and take over their bodies.

@@ -2,7 +2,6 @@
 title: Le Grand Meaulnes
 date: 2013-07-03T00:00:00.000Z
 writer: Alain Fournier
-portrait: alain-fournier.webp
 bio: >-
   Alain-Fournier, whose real name was Henri-Alban Fournier, was born on October
   3, 1886, in La Chapelle-d’Angillon, France. He adopted the pen name
@@ -16,7 +15,6 @@ tags:
   - french
   - hkbc
   - reading
-cover: le-grande-thumb.jpeg
 ---
 {% figure "images/le-grand-meaulnes.webp","Le Grand Meaulnes" %}
 

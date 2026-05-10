@@ -2,7 +2,6 @@
 title: Hunger
 date: 2012-10-04T00:00:00.000Z
 writer: Knut Hamsun
-portrait: knut-hamsun.webp
 bio: >-
   Knut Hamsun (4 August 1859 – 19 February 1952) was a Norwegian writer who was
   awarded the Nobel Prize in Literature in 1920. Hamsun's work spans more than
@@ -18,7 +17,6 @@ tags:
   - hkbc
   - reading
   - norwegian
-cover: hunger-thumb.jpeg
 ---
 
 _Hunger_ is a novel written by Norwegian author Knut Hamsun and published in 1890. It follows the story of an unnamed protagonist, a struggling writer living in the city of Kristiania (now Oslo). He is the epitome of the starving artist.

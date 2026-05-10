@@ -16,8 +16,6 @@ tags:
   - hkbc
   - reading
   - american
-cover: the-martian-chronicles-thumb.jpeg
-portrait: ray-bradbury.webp
 ---
 
 *The Martian Chronicles* is a collection of interrelated science fiction short stories written by Ray Bradbury and published in 1950. The book presents a series of loosely connected narratives that depict humanity's colonization and exploration of Mars, as well as the complex interactions between humans and the native Martians.

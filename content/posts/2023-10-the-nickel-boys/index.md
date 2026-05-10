@@ -2,7 +2,6 @@
 title: The Nickel Boys
 date: 2023-10-04T00:00:00.000Z
 writer: Colson Whitehead
-portrait: colson-whitehead.webp
 bio: >-
   Arch Colson Chipp Whitehead (born November 6, 1969) is an American novelist.
   He is the author of nine novels, including his 1999 debut The Intuitionist;
@@ -19,7 +18,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: nickel-boys-thumb.jpeg
 ---
 
 _The Nickel Boys_ is a chilling novel based on a true story, which begins with hope and ends in tragedy. Racial profiling and profiteering on the part of a reform school (Nickel School, based in Florida) and its administrator sets the plot in motion.  Medieval corporal punishments for minor infractions sharpened the cruelty experienced by the students. An unfortunate favor one student tries to do for his friend puts the final period in his sentence.  

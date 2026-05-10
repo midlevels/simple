@@ -18,8 +18,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: brief-history-thumb.webp
-portrait: stephen-hawking.webp
 ---
 
 While _A Brief History of Time_ deals with complex scientific concepts, Stephen Hawking ensures that readers without a scientific background can still grasp the main ideas. He uses vivid examples and analogies, such as comparing the expansion of the universe to the motion of raisins in a rising loaf of bread, to make abstract concepts more relatable.

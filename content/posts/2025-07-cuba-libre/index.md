@@ -2,7 +2,6 @@
 title: Cuba Libre
 date: 2025-07-29T00:00:00.000Z
 writer: Elmore Leonard
-portrait: elmore-leonard.webp
 bio: >-
   Elmore John Leonard Jr. (October 11, 1925 – August 20, 2013) was an American
   novelist, short story author and screenwriter. He was, according to British
@@ -20,7 +19,6 @@ tags:
   - reading
   - fiction
   - american
-cover: cuba-libre.webp
 og_image: og_image.jpg
 ---
 

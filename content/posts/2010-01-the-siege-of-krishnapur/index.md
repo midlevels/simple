@@ -9,7 +9,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: siege-thumb.jpeg
 og_image: og_image.jpg
 ---
 

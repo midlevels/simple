@@ -1,14 +1,12 @@
 ---
 title: Hail Mary
 writer: Andy Weir
-portrait: andy-weir.webp
 date: 2024-07-27
 tags:
   - reading
   - american
   - science fiction
 excerpt: Hard sci-fi from the author of The Martian.
-cover: hail-mary-thumb.webp
 ---
 
 Saying too much here would definitely introduce spoilers, so I'll limit my comments to the following bullet points:

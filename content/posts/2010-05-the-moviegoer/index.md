@@ -13,8 +13,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: the-moviegoer-thumb.jpeg
-portrait: walker-percy.webp
 ---
 
 _The Moviegoer_ is a novel written by Walker Percy and published in 1961. It tells the story of Binx Bolling, a young man living in New Orleans who is grappling with a sense of alienation and a search for meaning in his life.

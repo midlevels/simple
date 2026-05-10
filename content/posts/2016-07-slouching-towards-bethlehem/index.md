@@ -2,7 +2,6 @@
 title: Slouching Towards Bethlehem
 date: 2016-07-24T00:00:00.000Z
 writer: Joan Didion
-portrait: joan-didion.webp
 bio: >-
   Joan Didion (December 5, 1934 – December 23, 2021) was an American writer and
   journalist. She is considered one of the pioneers of New Journalism, along
@@ -17,7 +16,6 @@ tags:
   - non-fiction
   - hkbc
   - reading
-cover: slouching-thumb.webp
 ---
 
 _Slouching Towards Bethlehem_ is a collection of essays divided into two sections: "Life Styles in the Golden Land" and "Personals." In the first section, Joan Didion provides a series of journalistic essays that offer a critical and perceptive look at different aspects of American life. She delves into topics such as the counterculture movement, the Haight-Ashbury district in San Francisco, and the cultural and social dynamics of California.

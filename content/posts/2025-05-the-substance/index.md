@@ -7,7 +7,6 @@ tags:
   - blog
 excerpt: Great performances, but someone let the special effects person run wild. 
 # og_image: (600x315)
-cover: the-substance.webp
 ---
 
 The Substance, when it comes down to it, has very little substance. Sure, it's a body horror film and contains underlying commentary about women ageing out of Hollywood leading roles earlier than their male counterparts. Sure, Demi Moore's Elizabeth Sparkle and Dennis Quaid's "Harvey" Hollywood producer (heh!) characters are caricatures of the ego-driven actor and the sleaziest, most vile movie producer.  Even worse, the movie's end is projected well in advance (at least in my mind).

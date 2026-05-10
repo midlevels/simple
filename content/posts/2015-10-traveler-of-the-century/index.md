@@ -2,7 +2,6 @@
 title: Traveler of the Century
 date: 2015-10-27T00:00:00.000Z
 writer: Andres Neuman
-portrait: andres-neuman.webp
 bio: >-
   Andrés Neuman (born 28 January 1977) is an Argentine writer, poet, translator,
   columnist and blogger. His fourth novel, the award-winning Traveller of the
@@ -16,7 +15,6 @@ tags:
   - argentinian
   - hkbc
   - reading
-cover: traveler-thumb.webp
 ---
 
 Set in the early 19th century, _Traveler of the Century_ follows the travels of Hans, a young German traveler and translator who arrives in the fictional city of Wandernburg. Hans becomes acquainted with a diverse cast of characters, including intellectuals, revolutionaries, and aristocrats, each representing different facets of society.

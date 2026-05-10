@@ -14,9 +14,7 @@ tags:
   - austrian
   - hkbc
   - reading
-cover: chess-thumb.webp
 og_image: og_image.jpg
-portrait: stefan-zweig.webp
 ---
 
 "The Royal Game," also known as "Chess Story," is a novella written by Stefan Zweig. It tells the story of Mirko Czentovic, an uneducated but exceptionally talented chess player. Czentovic becomes the focus of a psychological battle during a transatlantic voyage.

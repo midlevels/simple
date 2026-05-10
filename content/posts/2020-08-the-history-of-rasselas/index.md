@@ -19,8 +19,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: rasselas-thumb.webp
-portrait: samuel-johnson.webp
 ---
 
 Rasselas, the fourth son of the King of Abyssinia (modern-day Ethiopia), is shut up in a beautiful valley called The Happy Valley, "till the order of succession should call him to the throne". Rasselas enlists the help of an artist who is also known as an engineer to help with his escape from the Valley by plunging out through the air, though they are unsuccessful in this attempt. Rasselas grows weary of the factitious entertainments of the place and, after much brooding, escapes with his sister Nekayah, her attendant Pekuah and his poet-friend Imlac by digging under the wall of the valley. They are to see the world and search for happiness in places such as Cairo and Suez. After a sojourn in Egypt, where they encounter various classes of society and undergo a few adventures, they perceive the futility of their search and return to Abyssinia after none of their hopes for happiness are achieved.

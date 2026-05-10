@@ -2,7 +2,6 @@
 title: Persepolis
 date: 2012-12-18T00:00:00.000Z
 writer: Marjane Satrapi
-portrait: marjane-satrapi.webp
 bio: >-
   Marjane Satrapi (born 22 November 1969) is a French-Iranian graphic novelist,
   cartoonist, illustrator, film director, and children's book author. Her
@@ -18,7 +17,6 @@ tags:
   - iranian
   - hkbc
   - reading
-cover: persepolis-thumb.jpeg
 ---
 
 _Persepolis_ is an autobiographical graphic novel written by Marjane Satrapi and published in 2000. It's about the author's childhood and adolescence in Iran during the Islamic Revolution and the subsequent Iran-Iraq War.

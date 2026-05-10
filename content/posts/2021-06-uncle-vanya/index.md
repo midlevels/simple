@@ -2,7 +2,6 @@
 title: Uncle Vanya
 date: 2021-06-05T00:00:00.000Z
 writer: Anton Chekhov
-portrait: anton-chekhov.webp
 bio: >-
   Anton Pavlovich Chekhov (29 January 1860 – 15 July 1904) was a Russian
   playwright and short story writer. Widely considered one of the greatest
@@ -19,7 +18,6 @@ tags:
   - russian
   - hkbc
   - reading
-cover: uncle-vanya-thumb.webp
 ---
 
 19th century Russian writer Anton Chekhov wrote the drama _Uncle Vanya_. Set in rural Russia during the late 19th century, the story revolves around the lives of an extended family & friends. The central character is Uncle Vanya. He is a middle-aged professor who feels disillusioned with his life and bitter about his wasted potential.

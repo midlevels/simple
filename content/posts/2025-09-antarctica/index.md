@@ -13,8 +13,6 @@ tags:
   - fiction
   - short stories
   - irish
-cover: antarctica.webp
-portrait: claire-keegan.webp
 ---
 
 Antarctica is Claire Keegan's first collection of short stories. 

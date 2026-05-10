@@ -2,7 +2,6 @@
 title: The Count of Monte Cristo
 date: 2018-10-02T00:00:00.000Z
 writer: Alexandre Dumas
-portrait: alexandre-dumas.webp
 excerpt: >-
   The story takes place in France, Italy, and islands in the Mediterranean
   during the historical events of 1815–1839 - the era of the Bourbon Restoration
@@ -12,7 +11,6 @@ tags:
   - french
   - hkbc
   - reading
-cover: count-thumb.webp
 ---
 
 _The Count of Monte Cristo_ (French: Le Comte de Monte-Cristo) is an adventure novel by French author Alexandre Dumas (père) completed in 1844. It is one of the author's more popular works, along with _The Three Musketeers_. Like many of his novels, it was expanded from plot outlines suggested by his collaborating ghostwriter Auguste Maquet. Another important work by Dumas, written before his work with Maquet, was the short novel _Georges_. _Georges_ is of interest to scholars because Dumas reused many of the ideas and plot devices later in _Monte Cristo_.

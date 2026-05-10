@@ -2,7 +2,6 @@
 title: Why I Live at the PO
 date: 2021-02-02T00:00:00.000Z
 writer: Eudora Welty
-portrait: eudora-welty.webp
 bio: >-
   Eudora Alice Welty (April 13, 1909 – July 23, 2001) was an American
   short-story writer, novelist, and photographer who wrote about the American
@@ -21,7 +20,6 @@ tags:
   - fiction
   - american
   - short stories
-cover: welty-thumb.webp
 ---
 
 Eudora Welty wrote the short story "Why I Live at the PO". It is a first-person narrative that revolves around the character known as Sister. She recounts the events leading up to her decision to leave her family home. She moves to the local post office instead (P.O.).

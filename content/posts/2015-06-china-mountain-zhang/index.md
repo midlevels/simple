@@ -2,7 +2,6 @@
 title: China Mountain Zhang
 date: 2015-06-30T00:00:00.000Z
 writer: Maureen McHugh
-portrait: maureen-mchugh.webp
 bio: >-
   Maureen F. McHugh (born February 13, 1959) is an American science fiction and
   fantasy writer.
@@ -15,7 +14,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: zhang-thumb.webp
 ---
 
 _China Mountain Zhang_ is a science fiction novel written by Maureen McHugh and published in 1992. Set in a future where China has become the dominant global superpower. The world is one where social and technological advancements have shaped a new society.

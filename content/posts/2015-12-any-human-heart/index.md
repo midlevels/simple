@@ -29,8 +29,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: human-heart.webp
-portrait: william-boyd.webp
 ---
 
 William Boyd wrote and published _Any Human Heart_ in 2002. It is a fictional autobiography that follows the eventful life of the protagonist, Logan Mountstuart, during the 20th century.

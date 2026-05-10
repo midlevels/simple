@@ -8,7 +8,6 @@ tags:
   - fiction
   - italian
 excerpt: August book club selection
-cover: my-brilliant-friend-thumb.webp
 ---
 
 This is Elena Ferrante's first book in the Neapolitan Novels series. It follows the intense friendship between two girls, Elena Greco and Raffaella "Lila" Cerullo, growing up in a poor neighborhood in post-war Naples.

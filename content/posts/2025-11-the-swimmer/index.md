@@ -23,8 +23,6 @@ tags:
   - hkbc
   - reading
   - fiction
-cover: cheever-the-swimmer.webp
-portrait: john-cheever.webp
 ---
 *The Swimmer* is John Cheever's best known story, and probably as anthologized as Fitzgerald's *The Diamond as Big as the Ritz* or Updike's *A &amp; P*. 
 

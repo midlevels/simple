@@ -1,7 +1,6 @@
 ---
 title: What I Talk About when I Talk About Running
 date: 2009-01-23
-cover: running-thumb.jpeg
 tags:
   - autobiography
   - non-fiction

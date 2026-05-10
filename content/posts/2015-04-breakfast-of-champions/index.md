@@ -3,8 +3,6 @@ title: Breakfast of Champions
 date: 2015-04-03T00:00:00.000Z
 og_image: og_image.jpg
 writer: Kurt Vonnegut
-portrait: kurt-vonnegut.webp
-cover: breakfast-thumb.webp
 tags:
   - american
   - fiction

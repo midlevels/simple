@@ -2,8 +2,6 @@
 title: Mason & Dixon
 date: 2013-04-30
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
-cover: mason-thumb.jpeg
 tags:
   - american
   - fiction

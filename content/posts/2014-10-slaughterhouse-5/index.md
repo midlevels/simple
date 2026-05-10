@@ -2,7 +2,6 @@
 title: Slaughterhouse 5
 date: 2014-10-14T00:00:00.000Z
 writer: Kurt Vonnegut
-portrait: kurt-vonnegut.webp
 bio: >-
   Kurt Vonnegut (November 11, 1922 – April 11, 2007) was an American author
   known for his satirical and darkly humorous novels. His published work
@@ -17,7 +16,6 @@ tags:
   - american
   - fiction
   - reading
-cover: slaughterhouse-5-thumb.webp
 ---
 
 Kurt Vonnegut wrote _Slaughterhouse 5_ from his own experiences serving in the armed forces. It tells the story of Billy Pilgrim, an optometrist and World War II veteran. Billy becomes "unstuck in time," experiencing moments of his life out of chronological order.

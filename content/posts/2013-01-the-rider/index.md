@@ -13,8 +13,6 @@ tags:
   - reading
   - non-fiction
   - dutch
-cover: the-rider-thumb.jpeg
-portrait: tim-krabb.webp
 ---
 
 _The Rider_ is a memoir written by Dutch author Tim Krabbé and originally published in 1978. It recounts the author's personal experience of participating in a cycling race called the Tour de Mont Aigoual.

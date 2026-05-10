@@ -2,8 +2,6 @@
 title: The Complete Short Prose of Beckett
 date: 2017-04-23
 writer: Samuel Beckett
-portrait: samuel-beckett.webp
-cover: sb-thumb.webp
 tags:
   - essays
   - non-fiction

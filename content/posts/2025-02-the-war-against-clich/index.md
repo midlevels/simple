@@ -3,13 +3,11 @@ title: The War Against Cliché
 date: 2025-02-12
 og_image: og_image.jpg
 writer: Martin Amis
-portrait: martin-amis.webp
 tags:
   - british
   - fiction
   - reading
 excerpt: Essays on the intricacies of literature, focusing on the importance of originality, and the tremendous lack thereof. 
-cover: war-against-cliche.webp
 ---
 
 *The War Against Cliché* by Martin Amis is a collection of essays that delve into the intricacies of literature, focusing on the importance of originality and the pitfalls of cliché. Amis critiques the tendency of contemporary writers to rely on worn-out phrases and familiar tropes, arguing that such reliance undermines the power and clarity of their work. He advocates for a commitment to fresh expression, emphasizing that true literary artistry demands innovation and a willingness to challenge conventional norms.

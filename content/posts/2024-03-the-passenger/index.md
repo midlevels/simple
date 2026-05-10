@@ -3,8 +3,6 @@ title: The Passenger
 date: 2024-03-09
 og_image: og_image.jpg
 writer: Cormac McCarthy
-portrait: cormac-mccarthy.webp
-cover: the-passenger-t.jpeg
 tags:
   - american
   - fiction

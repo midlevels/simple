@@ -15,9 +15,7 @@ tags:
   - chilean
   - hkbc
   - reading
-cover: 2666-thumb.jpeg
 og_image: og_image.jpg
-portrait: roberto-bola-o.webp
 ---
 
 Chilean author Roberto Bolaño wrote and published _2666_ posthumously in 2004. It is a sprawling and complex work that weaves together multiple storylines and characters. It explores themes of violence, the search for meaning, and the human condition. The novel is divided into five parts, each with its own distinct narrative focus.

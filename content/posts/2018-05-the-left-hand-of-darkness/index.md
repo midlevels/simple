@@ -22,8 +22,6 @@ tags:
   - fiction
   - american
   - reading
-cover: left-thumb.jpeg
-portrait: ursula-k-le-guin.webp
 ---
 
 Published in 1969, _The Left Hand of Darkness_ became immensely popular and established Le Guin's status as a major author of science fiction. The novel is part of the [Hainish Cycle](https://en.wikipedia.org/wiki/Hainish_Cycle), a series of novels and short stories by Le Guin set in the eponymous fictional universe, which she introduced in 1964 with 'The Dowry of the Angyar'. The _Left Hand of Darkness_ is part of Le Guin's Hainish novels. _City of Illusions_ precedes it and _The Word for World Is Forest_ follows it.

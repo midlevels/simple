@@ -2,7 +2,6 @@
 title: Lincoln in the Bardo
 date: 2018-11-29T00:00:00.000Z
 writer: George Saunders
-portrait: george-saunders.webp
 bio: >-
   George Saunders (born December 2, 1958) is an American writer. He is best
   known for his short stories and his novel Lincoln in the Bardo (2017), which
@@ -17,7 +16,6 @@ tags:
   - fiction
   - reading
   - american
-cover: lincoln-thumb.webp
 ---
 
 _**Lincoln in the Bardo**_ is a 2017 experimental novel by American writer George Saunders. It is Saunders' first full-length novel. It was on _The New York Times_ hardcover fiction bestseller for the week of March 5, 2017.

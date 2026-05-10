@@ -14,8 +14,6 @@ tags:
   - italian
   - fiction
   - reading
-cover: honeymoon-thumb.webp
-portrait: patrick-modiano.webp
 ---
 
 In _Honeymoon_ by Patrick Modiano, Jean B., the narrator is submerged in a world where day and night, past and present, have no demarcations. Having spent his adult life making documentary films about lost explorers, Jean suddenly decides to abandon his wife and career. He begins to take what seems to be a journey to nowhere.

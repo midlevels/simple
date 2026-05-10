@@ -22,8 +22,6 @@ tags:
   - fiction
   - japanese
   - reading
-cover: convenience-store-woman.jpeg
-portrait: sayaka-murata.webp
 ---
 
 _Convenience Store Woman_ is a novel written by Sayaka Murata and published in 2016. The story revolves around Keiko Furukura, a socially awkward woman who has worked at the same convenience store for 18 years.

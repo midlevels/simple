@@ -2,7 +2,6 @@
 title: 'My Struggle, Book 1'
 date: 2018-07-01T00:00:00.000Z
 writer: Karl Ove Knausgaard
-portrait: karl-ove-knausgaard.webp
 bio: >-
   Karl Ove Knausgård (born 6 December 1968) is a Norwegian author. He became
   known worldwide for a series of six autobiographical novels titled My Struggle
@@ -19,7 +18,6 @@ tags:
   - autobiography
   - norwegian
   - reading
-cover: my-thumb.webp
 ---
 
 _My Struggle Book 1_ is the first volume of Karl Ove Knausgaard's autobiographical series, originally published in Norwegian in 2009. The book is a deeply introspective and honest exploration of Knausgaard's personal life, relationships, and struggles. It delves into his childhood, his complex relationship with his father, and his journey as a writer.

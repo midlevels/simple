@@ -18,8 +18,6 @@ tags:
   - hkbc
   - reading
   - fiction
-cover: shadow-ticket-thumb.webp
-portrait: thomas-pynchon.webp
 ---
 
 Pynchon’s *Shadow Ticket* arrives like a cipher slipped under the door of contemporary America.

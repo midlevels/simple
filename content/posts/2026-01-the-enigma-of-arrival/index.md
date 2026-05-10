@@ -17,8 +17,6 @@ tags:
   - british
   - reading
   - fiction
-cover: enigma-of-arrival.webp
-portrait: v-s-naipaul.webp
 ---
 
 The story unfolds in the Wiltshire countryside, where the protagonist rents a modest cottage on the grounds of a decaying manor estate owned by a reclusive landlord named Mr. Phillips. This setting becomes a microcosm for broader themes. The narrator, a thinly veiled version of Naipaul, recovering from illness and the exhaustion of his earlier travels, immerses himself in the rhythms of rural life. 

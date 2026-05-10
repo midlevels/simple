@@ -2,7 +2,6 @@
 title: What We Can Know
 date: 2025-11-11T00:00:00.000Z
 writer: Ian McEwan
-portrait: ian-mcewan.webp
 bio: >-
   Ian Russell McEwan (born 21 June 1948) is a British novelist and screenwriter.
   In 2008, The Times featured him at number 35 on its list of "the 50 greatest
@@ -15,7 +14,6 @@ tags:
   - reading
   - fiction
   - science fiction
-cover: what-we-can-know-thumb.webp
 og_image: og_image.jpg
 ---
 

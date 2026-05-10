@@ -2,7 +2,6 @@
 title: The Purloined Letter
 date: 2015-03-24T00:00:00.000Z
 writer: Edgar Allen Poe
-portrait: edgar-allen-poe.webp
 bio: >-
   Edgar Allan Poe (January 19, 1809 – October 7, 1849) was an American writer,
   poet, editor, and literary critic who is best known for his poetry and short
@@ -22,7 +21,6 @@ tags:
   - short stories
   - hkbc
   - reading
-cover: purloined-thumb.webp
 ---
 
 "The Purloined Letter" begins with Dupin's friend, the narrator, visiting him at his home. The Prefect of the Parisian police interrupts the investigation. The Prefect seeks Dupin's assistance in locating a stolen letter. He informs Dupin that the letter contains sensitive information. And potentially has blackmail material against a prominent societal figure.

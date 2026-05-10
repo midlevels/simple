@@ -2,7 +2,6 @@
 title: Quicksand
 date: 2025-03-05T00:00:00.000Z
 writer: Junichiro Tanizaki
-portrait: junichiro-tanizaki.webp
 bio: >-
   Jun'ichirō Tanizaki (谷崎 潤一郎, Tanizaki Jun'ichirō; 24 July 1886 – 30 July 1965)
   was a Japanese author who is considered to be one of the most prominent
@@ -17,7 +16,6 @@ tags:
   - fiction
   - reading
   - japanese
-cover: quicksand-thumb.webp
 og_image: og_image.jpg
 ---
 Quicksand is a silkily nuanced novel of erotic gamesmanship and obsession. Sonoko Kakiuchi, an Osaka lady of a good family, married to a dully respected lawyer, tells a story of temptation and betrayal.

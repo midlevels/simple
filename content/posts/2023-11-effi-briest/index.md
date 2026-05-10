@@ -11,8 +11,6 @@ tags:
   - german
   - hkbc
   - reading
-cover: effi-briest-thumb.jpeg
-portrait: theodore-fontane.webp
 ---
 
  _Effi Briest_ is a novel written by Theodor Fontane and published in 1895. Set in 19th-century Germany, the story follows the life of Effi Briest, a young woman who enters into a socially advantageous but ultimately troubled marriage.

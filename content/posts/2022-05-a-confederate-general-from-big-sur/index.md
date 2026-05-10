@@ -18,8 +18,6 @@ tags:
   - reading
   - fiction
   - american
-cover: confederate-general.jpeg
-portrait: richard-brautigan.webp
 ---
 
 A _Confederate General from Big Sur_ is a diffuse and rambling novel that occasionally sparkles.  Before going their separate ways, narrator Jesse and his pal Lee Mellon converge, drink, and then go their separate ways. They conduct an epistolary correspondence and meet up again. Elaine and Elizabeth are the women in Jesse and Lee's lives. They have lesser though critical roles in bringing this first novel to its anticlimax. 

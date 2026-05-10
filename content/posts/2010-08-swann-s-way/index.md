@@ -15,8 +15,6 @@ tags:
   - reading
   - french
   - fiction
-cover: swanns-way-thumb.jpeg
-portrait: marcel-proust.webp
 ---
 {% sizing "swanns-way-large.webp", "60%", "Swann's Way" %}
 

@@ -12,8 +12,6 @@ tags:
   - non-fiction
   - travel writing
   - reading
-cover: riding-thumb.webp
-portrait: william-t-vollman.webp
 ---
 
 _Riding Toward Everywhere_ delves into the history and culture of train hopping. Train hopping has its roots in the Great Depression era when many people hopped trains in search of work. Vollmann examines the allure of train hopping as a way to escape society's constraints and experience a sense of freedom and adventure. He also explores the dangers and risks inherent in this lifestyle. Risks such as encounters with law enforcement, injuries, and the constant uncertainty of where the next ride will take him.

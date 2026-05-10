@@ -2,7 +2,6 @@
 title: A Man Called Ove
 date: 2019-05-18T00:00:00.000Z
 writer: Fredrik Backman
-portrait: fredrik-backman.webp
 bio: >-
   Fredrik Backman (born 2 June 1981) is a Swedish author, blogger, and
   columnist. He wrote A Man Called Ove (2012), Things My Son Needs to Know about
@@ -17,7 +16,6 @@ tags:
   - fiction
   - swedish
   - reading
-cover: man-called-ove-t-thumb.webp
 ---
 
 Fredrik Backman wrote _A Man Called Ove_ in 2012. It tells the story of Ove, a grumpy and solitary old man who finds unexpected connections and purpose in life.

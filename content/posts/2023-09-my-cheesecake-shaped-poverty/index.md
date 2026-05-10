@@ -2,7 +2,6 @@
 title: My Cheesecake Shaped Poverty
 date: 2023-09-17
 writer: Haruki Murakami
-portrait: haruki-murakami.webp
 # artist: Name
 tags:
   - japanese
@@ -10,7 +9,6 @@ tags:
   - fiction
 excerpt: This very short story is part of The New Yorker's flash fiction series.
 # og_image: (600x315)
-cover: new-yorker-cover.webp
 ---
 
 "My Cheesecake Shaped Poverty" is a Murakami short story that first appeared in The New Yorker ([download it here](/public/files/My-Cheesecake-Shaped-Poverty.pdf)). 
