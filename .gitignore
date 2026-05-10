@@ -9,4 +9,4 @@ _site/
 cms/node_modules
 cms/.tmp
 cms/package-lock.json
-.env.local
+.env.local.DS_Store
