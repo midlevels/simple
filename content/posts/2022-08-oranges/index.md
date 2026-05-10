@@ -24,7 +24,6 @@ tags:
 cover: oranges-thumb.jpeg
 og_image: og_image.jpg
 ---
-{% sizing "mcphee-oranges.jpeg", "60%", "Oranges" %}
 
 John McPhee wrote _Oranges_ in 1967. It delves into the world of Florida's citrus industry, providing a comprehensive exploration of the orange farming and processing business. The book offers a detailed and informative look at the history, science, and economics behind the cultivation, harvesting, and distribution of oranges.
 

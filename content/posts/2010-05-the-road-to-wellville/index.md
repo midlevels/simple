@@ -16,7 +16,6 @@ tags:
 cover: wellville-thumb.jpeg
 portrait: t-c-boyle.webp
 ---
-{% sizing "wellville.webp", "60%", "The Road to Wellville" %}
 
 T.C. Boyle published _The Road to Wellville_ in 1993. Set in the early 20th century, it explores the eccentric and often controversial practices of health enthusiasts in the pursuit of well-being. The story revolves around two main characters. Dr. John Harvey Kellogg, a real-life figure and the inventor of corn flakes and Will Lightbody, a fictional character seeking a cure for his chronic digestive issues.
 

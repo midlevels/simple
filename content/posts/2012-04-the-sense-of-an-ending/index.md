@@ -22,7 +22,6 @@ tags:
   - reading
 cover: the-sense-of-an-ending-thumb.jpeg
 ---
-{% sizing "sense-of-ending.webp", "60%", "The Sense of an Ending" %}
 
 The narrative of _The Sense of an Ending_ unfolds in two parts. The first part focuses on Tony's youth and his friendships with a group of intellectual classmates. His close friend Adrian Finn is of particular interest in the plot. The second part takes place in Tony's later life as he receives an unexpected bequest. It forces him to reevaluate his understanding of the past.
 

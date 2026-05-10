@@ -20,7 +20,6 @@ tags:
 cover: kindred-thumb.webp
 portrait: octavia-butler.webp
 ---
-{% figure "images/kindred.webp","Kindred" %}
 
 _Kindred_ by Octavia Butler begins with Dana, a young Black American, and her white husband, Kevin, moving into their new home. Suddenly, Dana is yanked back in time to a Maryland plantation in the early 19th century. She finds herself in the presence of Rufus Weylin, a white plantation owner's son, who is in danger of drowning.
 

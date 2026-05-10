@@ -12,8 +12,6 @@ tags:
 excerpt:  …the adventure of an unnamed narrator and his eccentric friend, William Legrand, as they search for buried treasure.
 ---
 
-{% figure "images/the-gold-bug.webp","The Gold Bug" %}
-
 "The Gold Bug" is a short story written by Edgar Allan Poe. It follows the adventure of an unnamed narrator and his eccentric friend, William Legrand, as they search for buried treasure.
 
 The story begins with the narrator visiting Legrand on an isolated island in South Carolina. Legrand, who has recently become obsessed with finding buried treasure, shows the narrator a mysterious scarab-like bug (aka "The Gold Bug"). He believes holds the key to discovering the treasure's location.

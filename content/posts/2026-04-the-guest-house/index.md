@@ -16,7 +16,6 @@ tags:
   - blog
 cover: 2026-04-the-guest-house-rumi-thumb.webp
 ---
-{% sizing "og-image.webp", "120%", "Rumi" %}
 
 Translated by Coleman Barks
 

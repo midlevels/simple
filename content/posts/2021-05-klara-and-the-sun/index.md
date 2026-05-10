@@ -29,7 +29,6 @@ tags:
   - science fiction
 cover: klara-thumb.webp
 ---
-{% figure "images/klara.webp","Klara and the Sun" %}
 
 Kazuo Ishiguro sets _Klara and the Sun_ in a dystopian future when some children are genetically engineered for enhanced academic ability. On-screen tutors provide educations. Society limits socialization so parents who can afford it often buy their children androids as companions. Klara, one such android companion, is the narrator of the book.
 

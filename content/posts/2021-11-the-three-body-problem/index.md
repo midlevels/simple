@@ -26,7 +26,6 @@ tags:
   - china
 cover: three-body-problem-thumb.webp
 ---
-{% figure "images/three-body.webp", "The Three Body Problem" %}
 
 Chinese author Liu Cixin wrote _The Three-Body Problem_, which was published in 2008. It is the first book in the "Remembrance of Earth's Past" trilogy. The story weaves together elements of physics, politics, and human nature, taking readers on a journey that spans both time and space.
 

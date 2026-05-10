@@ -24,7 +24,6 @@ tags:
   - reading
 cover: purloined-thumb.webp
 ---
-{% figure "images/the-purloined-letter.webp","The Purloined Letter" %}
 
 "The Purloined Letter" begins with Dupin's friend, the narrator, visiting him at his home. The Prefect of the Parisian police interrupts the investigation. The Prefect seeks Dupin's assistance in locating a stolen letter. He informs Dupin that the letter contains sensitive information. And potentially has blackmail material against a prominent societal figure.
 

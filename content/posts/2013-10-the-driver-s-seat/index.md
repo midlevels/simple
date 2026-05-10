@@ -16,7 +16,6 @@ tags:
   - reading
 cover: the-drivers-seat-thumb.webp
 ---
-{% sizing "the-drivers-seat.webp", "60%", "The Driver's Seat" %}
 
 Lise begins her final journey not with a whimper, but with the jarring visual discord of a dress—a lemon-yellow skirt paired with a bodice of violent, unnatural pink. In the sterile, fluorescent-lit boutiques of her unnamed northern city (could be in Scotland, where Spark is from?), she rejects the tasteful and the subdued, opting instead for a costume that ensures she cannot be missed. There is a brittle, porcelain quality to her composure, an existential restlessness that Muriel Spark renders with a clinical, almost cruel detachment. Lise is a woman tidying the desk of her life, making meticulous arrangements for a void she is about to enter, her eyes gleaming with the terrifying lucidity of those who have finally stopped negotiating with reality.
 

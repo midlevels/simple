@@ -22,8 +22,6 @@ og_image: og_image.jpg
 ---
 Quicksand is a silkily nuanced novel of erotic gamesmanship and obsession. Sonoko Kakiuchi, an Osaka lady of a good family, married to a dully respected lawyer, tells a story of temptation and betrayal.
 
-{% sizing "quicksand.webp", "60%", "Quicksand" %}
-
 Sonoko is infatuated with the beautiful art student and femme fatale Mitsuko, a woman so seductive and heartless she can even turn Sonoko's husband into her own accomplice. Filled with intrigue and treacherous romance, I was entranced by this, Tanizaki’s first novel.
 
 The writing is extremely engaging and it doesn't hurt that there are torrid love affairs that draw us in and one of the characters, eventually, under. 

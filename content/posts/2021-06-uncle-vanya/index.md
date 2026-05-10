@@ -21,7 +21,6 @@ tags:
   - reading
 cover: uncle-vanya-thumb.webp
 ---
-{% figure "images/uncle-vanya.webp", "" %}
 
 19th century Russian writer Anton Chekhov wrote the drama _Uncle Vanya_. Set in rural Russia during the late 19th century, the story revolves around the lives of an extended family & friends. The central character is Uncle Vanya. He is a middle-aged professor who feels disillusioned with his life and bitter about his wasted potential.
 

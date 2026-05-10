@@ -20,7 +20,6 @@ tags:
 cover: festival.webp
 og_image: og_image.jpg
 ---
-{% sizing "festival.webp", "60%", "The Festival of Insignificance" %}
 
 Milan Kundera's The Festival of Insignificance centers around four main characters: Alain, a laid-back and somewhat indifferent man; his friend Ramon, a lively and passionate individual; the enigmatic and beautiful Clara; and the reflective and thoughtful character, the narrator, who reflects on the nature of their lives and relationships. Set against the backdrop of Paris, the characters navigate their day-to-day experiences, grappling with the superficiality and fleeting nature of modern life.
 

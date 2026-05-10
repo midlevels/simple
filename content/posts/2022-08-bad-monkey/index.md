@@ -20,7 +20,6 @@ tags:
 cover: bad-monkey-thumb.webp
 portrait: carl-hiaassen.webp
 ---
-{% figure "images/bad-monkey.webp", "Bad Monkey" %}
 
 _Bad Monkey_ is a wacky romp of a satirical detective story. Andrew Yancy is a disgraced former detective currently working as the city food inspector. This alone brings him into many vile situations. Not quite as vile though as discovering a severed arm on the beach. He does and promptly tosses it into his freezer to preserve evidence.
 

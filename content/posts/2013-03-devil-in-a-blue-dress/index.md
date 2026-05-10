@@ -19,7 +19,6 @@ tags:
 cover: devil-thumb.jpeg
 portrait: walter-mosley.webp
 ---
-{% sizing "devil-in-a-blue-dress.webp", "60%", "Devil in a Blue Dress" %}
 
 Walter Mosley wrote and published _Devil in a Blue Dress_ in 1990. It is the first book in the Easy Rawlins noir detective series. Set in Los Angeles in the 1940s, the story revolves around the protagonist, Ezekiel "Easy" Rawlins, as he becomes entangled in a web of crime and corruption.
 

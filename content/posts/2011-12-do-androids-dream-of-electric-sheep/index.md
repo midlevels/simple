@@ -25,7 +25,6 @@ tags:
 cover: do-androids-thumb.jpeg
 portrait: philip-k-dick.webp
 ---
-{% sizing "androids.webp", "60%", "Do Androids Dream of Electric Sheep?" %}
 
 Philip K. Dick wrote _Do Androids Dream of Electric Sheep?_ in 1968. Set in a post-apocalyptic future where most of Earth's animal species have become extinct, the novel . Humans have emigrated to other planets. The remaining inhabitants on Earth strive to own and care for live animals as a status symbol.
 

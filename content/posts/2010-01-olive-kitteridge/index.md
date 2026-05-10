@@ -16,7 +16,6 @@ tags:
   - reading
 cover: olive-kitteridge-thumb.webp
 ---
-{% figure "images/olive-kitteridge.webp", "Olive Kitteridge" %}
 
 Elizabeth Strout wrote _Olive Kitteridge_ in 2008. It is a collection of interconnected stories that revolve around the complex and often prickly character of Olive Kitteridge. Olive is a retired schoolteacher living in the small coastal town of Crosby, Maine.
 

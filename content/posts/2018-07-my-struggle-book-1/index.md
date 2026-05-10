@@ -21,7 +21,6 @@ tags:
   - reading
 cover: my-thumb.webp
 ---
-{% sizing "my-struggle-book-1.webp", "60%", "My Struggle, Book 1" %}
 
 _My Struggle Book 1_ is the first volume of Karl Ove Knausgaard's autobiographical series, originally published in Norwegian in 2009. The book is a deeply introspective and honest exploration of Knausgaard's personal life, relationships, and struggles. It delves into his childhood, his complex relationship with his father, and his journey as a writer.
 

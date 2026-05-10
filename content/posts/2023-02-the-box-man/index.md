@@ -19,7 +19,6 @@ tags:
   - reading
 cover: the-box-man-655x1024-1-thumb.webp
 ---
-{% sizing "the-box-man-655x1024-1-thumb.webp", "60%", "The Box Man" %}
 
 _The Box Man_ is one of [Kobo Abe](https://en.wikipedia.org/wiki/Kōbō_Abe)'s more abstruse and obscure novels. Best known as the author of *The Woman in the Dunes*, Abe combines wildly imaginative fantasies and naturalistic prose to create narratives reminiscent of the work of Kafka and Beckett.
 

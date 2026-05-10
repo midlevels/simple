@@ -19,7 +19,6 @@ tags:
   - reading
 cover: infinite-thumb.webp
 ---
-{% sizing "infinite-jest.webp", "70%", "Infinite Jest" %}
 
 Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, _Infinite Jest_ explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are.
 

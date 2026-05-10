@@ -19,7 +19,6 @@ tags:
   - reading
 cover: times-arrow-thumb.webp
 ---
-{% sizing "times-arrow-662x1024.jpeg-large.webp", "70%", "Time's Arrow" %}
 
 Doctor Friendly has just died, but he moves “out of blackest sleep” to find himself surrounded by doctors and on the deathbed of a man in whose body he is imprisoned. After weeks of improving in the hospital, he is sent home to his affable, melting-pot, primary-colors existence in suburban America.
 

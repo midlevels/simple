@@ -17,7 +17,6 @@ tags:
   - south-african
 cover: the-promise-thumb.webp
 ---
-{% figure "images/the-promise-654x1024-1.jpeg", "" %}
 
 Damon Galgut wrote _The Promise,_ which was published in 2021. Set in South Africa, the story revolves around a family and their struggles with identity, secrets, and the legacy of apartheid.
 

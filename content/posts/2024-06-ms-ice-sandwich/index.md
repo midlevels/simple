@@ -21,7 +21,6 @@ tags:
 cover: ms-ice-sandwich.webp
 portrait: mieko-kawakami.webp
 ---
-{% sizing "ice-sandwich.webp", "60%", "Ms Ice Sandwich" %}
 
 _Ms Ice Sandwich_ by Mieko Kawakami is a brief but oddly engaging novel narrated by a grammar school student who is enchanted by a woman working at the sandwich counter at a grocery store he passes every day. He is struck dumb by Ms Ice Sandwich’s large eyes and electric blue eyeliner. Every day during the course of a summer he enters the store, waits on a short queue and orders a sandwich, which she nabs with steel tongs and deftly places into a plastic bag.
 
@@ -36,8 +35,6 @@ One day at school the narrator hears three girls making fun of the sandwich lady
 One day Tutti invites the narrator over to watch a movie with her father and her (her mother died when Tutti was very young). The movie they watch is _Heat_ (1995) with De Niro and Pacino playing the leads. During the last gunfight, Tutti rewinds it excitedly, then hits play and re-enacts every part as it plays through a second time never missing a beat. She notes that she’s seen the movie hundreds of times. The narrator says to her that it is a bit violent. Tutti replies, whispering, _no duh, it’s supposed to be_.
 
 Tutti accompanies the narrator part way home after the movie and the narrator says how impressed he is with Tutti’s choreographed gunfight re-enactment. The two strike an accord and have their own quiet re-enactment for fun.
-
-{% sizing "kawakami.webp", "25%", "Mieko Kawakami" %}
 
 Now (continuing their walk) he finally feels safe to broach the subject of what he overheard the girls at school saying about Ms Ice Sandwich with Tutti. Also, that he likes Ms Ice Sandwich as an interesting person whom he obviously perceives as cool. He’s more comfortable revealing his weird or unpopular opinion to Tutti after she has displayed her weird predilection to play act gun fights to him.
 

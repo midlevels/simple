@@ -12,8 +12,6 @@ tags:
 excerpt: Really well done multiple personality disorder character. Also a side mystery plot.
 ---
 
-{% figure "images/passenger.webp","The Passenger" %}
-
 _The Passenger_ by Cormac McCarthy starts out with a mysterious private jet crash. The novel's protagonist, Bobby Western, leads a salvage dive to it that turns up no survivors. The salvage team had to use a torch to get into the jet and things are oddly missing: the black box and the captain's bag. How were they removed?
 
 A day later Bobby is approached by what appear to be two federal agents. What did he find? Did he remove anything? They also comment that a passenger is missing. Ah ha! Here's the title of the novel. We anticipate that the remainder of the book will lead us to some kind of identity—but it's kind of what Hitchcock calls a [MacGuffin](https://en.wikipedia.org/wiki/MacGuffin).

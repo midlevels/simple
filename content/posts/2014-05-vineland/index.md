@@ -11,8 +11,6 @@ tags:
 excerpt: An exploration of the clash between the counterculture ideals of the 1960s and the conservative political climate of the 1980s.
 ---
 
-{% figure "images/vineland.webp", "Vineland" %}
-
 > On California’s fog-hung North Coast, the enchanted redwood groves of Vineland County, a wild assortment of sixties refugees from the “Nixonian Reaction” live on. They're still struggling with the consequences of their past lives. Aging hippie freak Zoyd Wheeler is revving up for his annual act of televised insanity. The latter typically involving self-defenestration to keep government checks flowing. When news reaches that his old nemesis, sinister federal agent Brock Vond, has come storming into Vineland. And with him a heavily armed Justice Department strike force. Zoyd instantly disappears underground. But not before dispatching his teenage daughter Prairie on a dark odyssey into her secret, unspeakable past. 
 > 
 > Thomas Pynchon, Vineland

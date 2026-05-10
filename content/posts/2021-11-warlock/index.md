@@ -17,7 +17,6 @@ tags:
 cover: warlock-thumb.jpeg
 portrait: oakley-hall.webp
 ---
-{% figure "images/warlock.webp", "" %}
 
 via Thomas Pynchon's intro:
 

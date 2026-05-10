@@ -8,6 +8,4 @@ tags:
 excerpt: As of this post just over 520 pages have been indexed for searching.
 ---
 
-{% figure "images/pagefind.webp", "Pagefind" %}
-
 Months ahead of schedule, I've found a way to add a search function to this site. Thank you, Pagefind.app!

@@ -16,8 +16,6 @@ excerpt: >-
   events, etc.
 ---
 
-{% figure "images/king-lear-669x1024-1.jpeg", "King Lear" %}
-
 _King Lear_ is a tragic play by William Shakespeare, believed to have been written between 1603 and 1606. The play tells the story of an aging King Lear who decides to divide his kingdom among his three daughters. But the consequences of this decision lead to a series of tragic events.
 
 ### Act I

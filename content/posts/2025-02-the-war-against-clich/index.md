@@ -12,9 +12,6 @@ excerpt: Essays on the intricacies of literature, focusing on the importance of 
 cover: war-against-cliche.webp
 ---
 
-{% figure "./images/war-against-cliche.webp", "The War Against Cliché" %}
-
-
 *The War Against Cliché* by Martin Amis is a collection of essays that delve into the intricacies of literature, focusing on the importance of originality and the pitfalls of cliché. Amis critiques the tendency of contemporary writers to rely on worn-out phrases and familiar tropes, arguing that such reliance undermines the power and clarity of their work. He advocates for a commitment to fresh expression, emphasizing that true literary artistry demands innovation and a willingness to challenge conventional norms.
 
 In this collection of essays dating from the early 1970s through to 2000, Martin Amis offers several critiques of contemporary literature, including:

@@ -18,7 +18,6 @@ tags:
   - reading
 cover: the-quiet-american-644x1024.jpeg-1-medium-thumb.webp
 ---
-{% sizing "the-quiet-american-644x1024.jpeg-1-large.webp", "60%", "The Quiet American" %}
 
 In Graham Greene's _The Quiet American_ it's 1955 and British journalist Thomas Fowler has been in Vietnam for two years covering the insurgency against French colonial rule. But it's not just a political tangle that's kept him tethered to the country. There's also his lover, Phuong, a young Vietnamese woman who clings to Fowler for protection. Then comes Alden Pyle, an idealistic American working in service of the CIA. Devotedly, disastrously patriotic, he believes neither communism nor colonialism is what's best for Southeast Asia, but rather a "Third Force": American democracy by any means necessary.
 

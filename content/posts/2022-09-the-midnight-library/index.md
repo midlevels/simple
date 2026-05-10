@@ -16,7 +16,6 @@ tags:
   - reading
 cover: midnight-thumb.webp
 ---
-{% sizing "the-midnight-library-669x1024.jpeg.webp", "60%", "The Midnight Library" %}
 
 In _The Midnight Library_ on a shelf somewhere out beyond the edge of the universe, there is a library that contains an infinite number of books, each one the story of another reality. One tells the story of your life as it is, along with another book for the other life you could have lived if you had made a different choice at any point in your life. While we all wonder how our lives might have been, what if you had the chance to go to the library and see for yourself? Would any of these other lives truly be better?
 

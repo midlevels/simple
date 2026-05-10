@@ -12,7 +12,6 @@ tags:
   - reading
 cover: missing-person-thumb.webp
 ---
-{% figure "images/missing-person-684x1024.jpeg-large.webp", "Missing Person" %}
 
 In Modiano's _Missing Person_, Guy Roland is an amnesiac detective who has lost his memory ten years before the beginning of the story, which opens in 1965. His employer retires and closes the detective agency. Roland embarks on a search for his own identity. I guess he didn't get vacation days.
 

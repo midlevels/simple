@@ -21,7 +21,6 @@ tags:
 cover: death-in-venice-thumb.jpeg
 portrait: thomas-mann.webp
 ---
-{% sizing "death-in-venice.webp", "60%", "Death in Venice" %}
 
 _Death in Venice_ is a novella written by Thomas Mann. Set in the early 20th century, it tells the story of Gustav von Aschenbach. Aschenbach is a renowned and disciplined writer who travels to Venice in search of inspiration and a change of scenery. However, his visit becomes an introspective journey into his desires and the exploration of beauty, decay, and mortality.
 

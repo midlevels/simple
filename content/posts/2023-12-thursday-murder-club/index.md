@@ -18,6 +18,5 @@ tags:
 cover: thursday-thumb.jpeg
 portrait: richard-osman.webp
 ---
-{% sizing "thursday-murder-club.webp", "60%", "Thursday Murder Club" %}
 
 _The Thursday Murder Club_ is a best-selling detective novel by Richard Ossman. It is about a group of British pensioners living in a retirement village. They spend Thursdays solving old mysteries for enjoyment. One day, a real murder case turns up for them to solve involving a land deal and someone digging up graveyards.

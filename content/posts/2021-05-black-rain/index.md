@@ -16,7 +16,6 @@ tags:
   - reading
 cover: black-thumb.webp
 ---
-{% sizing "black-rain.webp", "60%", "Black Rain" %}
 
 _Black Rain_ (黒い雨, Kuroi Ame) is a novel by Japanese author Masuji Ibuse. Ibuse began serializing Black Rain in the magazine Shincho in January 1965. The novel is based on historical records of the devastation caused by the atomic bombing of Hiroshima.
 

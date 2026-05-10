@@ -10,8 +10,6 @@ tags:
 excerpt: A contemplative and introspective work that delves into themes of memory, imagination, and the nature of storytelling.
 ---
 
-{% figure "images/barley-patch.webp","The Barley Patch" %}
-
 Gerald Murnane published _Barley Patch_ in 2009. It is a contemplative and introspective work that delves into themes of memory, imagination, and the nature of storytelling.
 
 A writer and self-described "matchmaker of words" narrates the novel. He shares his reflections on his life, his obsession with the Australian landscape, and his experiences with writing and storytelling. The narrative is nonlinear and fragmented, with the narrator weaving together memories, dreams, and fictional scenarios.

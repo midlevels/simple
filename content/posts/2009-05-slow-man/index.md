@@ -18,7 +18,6 @@ tags:
   - reading
 cover: slow-man-thumb.jpeg
 ---
-{% sizing "slow-man.jpg", "60%", "Slow Man" %}
 
 J.M. Coetzee wrote _Slow Man_ in 2005. The story revolves around Paul Rayment, an aging photographer who suffers a debilitating accident that results in the amputation of his leg. The novel explores themes of identity, loss, and human connection.
 

@@ -24,7 +24,6 @@ cover: voyage-around-my-room.webp
 og_image: og_image.jpg
 portrait: xavier-de-maistre.webp
 ---
-{% sizing "voyage-around-my-room.webp", "60%", "Voyage Around My Room" %}
 
 _Voyage Around My Room_ is a whimsical and introspective travelogue written by French author Xavier de Maistre and published in 1794. The book takes a unique approach to travel literature by exploring the world within the confines of a single room.
 

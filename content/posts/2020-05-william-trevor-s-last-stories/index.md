@@ -22,7 +22,6 @@ cover: william-trevor-cover.webp
 og_image: og_image.jpg
 portrait: william-trevor.webp
 ---
-{% sizing "william-trevor-cover.webp", "60%", "William Trevor's Last Stories" %}
 
 With a career that spanned more than half a century, William Trevor is regarded as one of the best anglophone writers. Now, in _William Trevor's Last Stories_, the master storyteller delivers ten exquisitely rendered tales. Nine have never been published in book form before. The stories illuminate the human condition.
 

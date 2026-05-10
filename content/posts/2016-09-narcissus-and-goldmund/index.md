@@ -22,7 +22,7 @@ tags:
   - reading
 cover: narcissus-thumb.webp
 ---
-{% sizing "narcissus-and-goldmund.webp", "60%", "Narcissus and Goldmund (1930)" %}
+
 Set in medieval Germany _Narcissus and Goldmund_ by Hermann Hesse revolves around the complex and transformative friendship between two contrasting characters. Narcissus, an intellectual and monk, and Goldmund, a restless and artistic wanderer.
 
 The novel begins with Goldmund. Raised in a monastery, Goldmund yearns for a passionate existence beyond the confines of religious life. He embarks on a journey of self-discovery. He leaves the monastery to explore the world and indulges in various carnal and artistic experiences.

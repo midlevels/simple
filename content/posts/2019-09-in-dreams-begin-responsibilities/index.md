@@ -16,7 +16,6 @@ tags:
 cover: dreams-thumb.webp
 portrait: delmore-schwartz.webp
 ---
-{% sizing "in-dreams-begin-responsibilities.webp", "60%", "In Dreams Begin Responsibilities" %}
 
 Readers as diverse as TS Eliot and Lou Reed appreciated Delmore Schwartz's story _In Dreams Begin Responsibilities_.
 

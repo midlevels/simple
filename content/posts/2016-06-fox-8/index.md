@@ -12,8 +12,6 @@ tags:
 excerpt: The story of Fox8, a clever and curious fox living in a suburban landscape impacted by human development.
 ---
 
-{% figure "images/fox-8.webp","Fox 8" %}
-
 _Fox 8_ is a novella written by George Saunders and published in 2013. It tells the story of Fox8, a clever and curious fox living in a suburban landscape impacted by human development. The novella is narrated from Fox 8's perspective. His unique voice and broken English add a distinct charm to the story.
 
 > Or a lady drops her purse and bends to retreev her guds, when sudden lee her hat blows away, at which time, speeking a bad werd, she looks redy to sit and cry, own lee a nise man appeers, and rases off in kwest of her hat, tho he has a slite limp.

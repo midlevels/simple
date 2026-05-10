@@ -12,8 +12,6 @@ tags:
 excerpt: Why not write the big story of the past by telling the little ones?
 ---
 
-{% figure "./images/hunter-of-stories.webp", "Hunter of Stories" %}
-
 By Uruguayan writer Eduardo Galeano and published posthumously, Hunter of Stories offers glimpses into hidden histories, mythologies, and the untold crimes inflicted on indigenous peoples by European explorers and later by large nation-states seeking to exploit the natural resources and workers. Galeano's idealism comes through even as he retells hard histories in one- or two-page-long chapters.  As he notes in one of the stories, “Why not write the big story of the past by telling the little one?”
 
 Two samples, each almost the entirety of its chapter:

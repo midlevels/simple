@@ -18,8 +18,6 @@ tags:
 cover: m31-tn.webp
 portrait: stephen-wright.webp
 ---
-{% sizing "m31.webp", "60%", "M31" %}
-
 
 *M31* is the oddest book I've read in a while, and for that, I am grateful. At the outset, a family living in a transformed clapboard church in disrepair watches on eagerly as they view lights approaching from afar. Given the title of the book, we guess that this is perhaps a sighting of a UFO. However, it turns out to be a couple of like-minded people who have had the UFO experience of being 'taken aboard a ship and probed.'
 

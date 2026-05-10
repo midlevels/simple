@@ -29,7 +29,6 @@ tags:
 cover: nose-thumb.webp
 portrait: nikolai-gogol.webp
 ---
-{% sizing "CKwKo1f2js-663.jpeg", "60%", "The Nose" %}
 
 Gogol wrote “The Nose” in 1836. The satirical story is set in St. Petersburg, Russia. It follows the bizarre misadventures of Major Kovalyov and his missing nose. It is a surreal and humorous tale that explores themes of identity, social hierarchy, and absurdity.
 

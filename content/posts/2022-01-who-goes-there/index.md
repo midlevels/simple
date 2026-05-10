@@ -25,7 +25,6 @@ tags:
   - science fiction
 cover: who-goes-there-thumb.webp
 ---
-{% sizing "who-goes-there-768x1024-1.jpeg", "60%", "Who Goes There?" %}
 
 John W. Campbell Jr. wrote _Who Goes There?_ was published in 1938. The story revolves around a group of scientists in Antarctica. They discover an alien life form trapped in the ice and struggle to survive as the alien threatens to infiltrate and take over their bodies.
 

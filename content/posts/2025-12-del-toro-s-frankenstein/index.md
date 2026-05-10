@@ -11,10 +11,7 @@ excerpt: Perhaps the closest movie to the spirit to the original book.
 cover: frankenstein.webp
 ---
 
-
 In a world of accelerating AI technologies and the very expensive quest for AGI (artificial generative intelligence), the story of Frankenstein is more relevant than ever.
-
-{% figure "images/frankenstein.webp", "del Toro's Frankenstein" %}
 
 <!-- snip -->
 
@@ -24,15 +21,11 @@ del Toro breaks the movie into three parts:
 - Victor's Story
 - The Creature's Story
 
-{% hr %}
-
 ## Prelude
 
 In the prelude, we witness what is, in effect, the near culmination of the story, somewhere in the Arctic Circle, where a Royal Danish Navy ship is caught in the ice as it attempts to reach the North Pole. They hear screams and see a fire, so they send a contingent of men to investigate and find a badly injured man, who turns out to be Dr Victor Frankenstein. They bring him back to the ship, and while almost aboard, they hear the angry yells from the creature, who is tracking them. They fire at him, and to their wonderment, the arms fail to kill him. 
 
 Finally, they manage to get Victor aboard, and the story-within-a-story motif begins. Victor tells his version of events that have brought him up to the present. 
-
-{% hr %}
 
 ## Victor's Story
 
@@ -49,8 +42,6 @@ Eventually, Victor gets fed up with this one-word thing he created, and he start
 Elizabeth approaches the creature without fear and asks him if he was wounded in battle. No response. Elizabeth then joins her husband and Victor and enquires about the man in the dungeon and why he is in chains. Victor finally admits his great success in creating life.
 
 After the two depart, Victor is determined to kill his creation. He pours gasoline all over the dungeon floor and makes one final demand, "Say a word other than my name!" and walks away, strikes a match, holding it. "Elizabeth," the creature says, which angers Victor because of his jealousy that she could have him speak. He tosses the match, and the entire tower goes up in flames, tipping over.  Elizabeth and her husband look back in horror while Victor catches up to them to hitch a ride.
-
-{% hr %}
 
 ## The Creature's Story
 
@@ -81,6 +72,5 @@ Naturally, it doesn't kill him, so the creature tracks Victor back to the iced-i
 Victor's last request of his creation is, if you are doomed to live, then live. 
 
 Mary Shelley wrote this during the midst of the Industrial Revolution and new scientific discoveries. The message is to be responsible for inventions. Do not create and abandon the new. Create and regulate it, bear responsibility as a parent would for a misbehaving child who knows no better. Frankenstein, the book will likely always be better than any film adaptation, but del Toro's is the best I've seen.
-
 
 [^1]: Shelley, Mary. *Frankenstein*. Chapt. 10. 

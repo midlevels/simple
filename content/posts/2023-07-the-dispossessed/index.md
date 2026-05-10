@@ -11,7 +11,6 @@ tags:
   - reading
 cover: the-dispossessed-thumb.jpeg
 ---
-{% figure "images/the-dispossessed-680x1024-1.jpeg", "The Dispossessed" %}
 
 _The Dispossessed_ is about a planet and its moon and the clashing cultures of the two. Anarres – a bleak moon isolated from other worlds, happily enjoying a peaceful but poor anarchic system. Urras —a civilization of warring nations, but immense wealth and resources. Shevek of Annares is a brilliant physicist with a determination to reunite the two planets. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have kept them apart. Will his plan to share his invention make him welcomed by Urras but hated by his people?
 

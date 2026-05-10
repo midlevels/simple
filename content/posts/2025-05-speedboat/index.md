@@ -19,8 +19,6 @@ tags:
 cover: speedboat.webp
 portrait: renata-adler.webp
 ---
-{% figure "images/speedboat.webp", "Speedboat" %}
-
 
 So now, halfway through Speedboat, and past the Speedboat "chapter" (it's a novel), I think it's growing on me. I'm writing this review in two halves to see if I can make a guess about its structure. The main character, the narrator, is a journalist named Jen Fain, who was born sometime after WWII. Each section has a title that connects tangentially with the various smaller stories (sometimes just a sentence or two) contained in it. The writing is absorbing enough to keep me interested, but I find myself asking, Keep on reading or not? There seems to be no there there. I choose to expand my definition of "novel" and continue. I sense that these interludes are accreting meaning little by little, and the experience is akin to how we experience life. Characters in Speedboat (like Aldo) appear, fade for a while, and reappear.  Aldo appears in the chapters 'Brownstone' and 'Islands'. (There are seven chapters.)
 
@@ -49,7 +47,6 @@ Fortunately, there is an Afterword by Guy Trebay, in which he quotes Adler about
 > I wanted to write the kind of book I like to read,” Renata Adler said, “which is narrative, thrillers, with plots, suspense, and dialogue, with characters and things going on, things which you wish to happen and things you do not. I found I didn’t seem to be doing that. I thought, ‘Well, now what do I do?’
 
 > Music, particularly music with melody, has direct access to a whole range of feeling, which strictly modernist or atonal music does not. Traditional, classic fiction could also address that entire range of thought and feeling; soap operas can reach it. But strict high-modernist fiction tends to dismiss most appeals to emotion, sentiment, caring about characters and what happens to them, as cheap, as kitsch, and stays in a chilly range. Irony, humor, frissons of shock, a certain wistful, rueful quality, but that’s it. Nothing to make you cry, care about characters, want things for them. You couldn’t be, say, Dickens now, or George Eliot, or Henry James. Or maybe you could write like them, with luck, but it would not be true to our time, false somehow. For those effects you have to go back to the originals. I love modernist effects, but I mean Kafka, though perfect, is frosty. So I wondered, is there a way, in these times, to get conventional feeling in there? I don’t think I managed, except sporadically, until Pitch Dark. Maybe not even then.
-
 
 There is a vibrant quality running through the narrator's life that I would equate to a good noir detective novel that keeps the page-turning pace up, with the occasional weirdo wandering into the story (more than a few times), the abrupt discontinuation of a tale, and the Chekhovian gun left on the table vanish, unused—even though metaphorical.
 

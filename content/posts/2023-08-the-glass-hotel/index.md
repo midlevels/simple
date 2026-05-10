@@ -21,7 +21,6 @@ tags:
   - reading
 cover: the-glass-hotel.jpeg
 ---
-{% figure "images/the-glass-hotel.jpeg", "The Glass Hotel" %}
 
 Vincent is a bartender at the Glass Hotel, or as it's first called, Hotel Caiette. It's a five-star lodging on the northernmost tip of Vancouver Island. On the night she meets Alkaitis, a hooded figure scrawls a message on the lobby's glass wall. It reads "_Why don’t you swallow broken glass_?"
 

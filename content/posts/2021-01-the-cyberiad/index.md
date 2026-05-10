@@ -24,7 +24,6 @@ tags:
 cover: lem-thumb.webp
 portrait: stanislaw-lem.webp
 ---
-{% sizing "the-cyberiad.webp", "60%", "The Cyberiad" %}
 
 _The Cyberiad_ are the stories of Trurl and Klapaucius, master inventors and engineers known as “constructors,” who have created marvels for kingdoms. Friends and rivals, they are constantly outdoing and challenging each other to reveal the next great evolution in cybernetics, and the exploits of these brilliant men are nothing short of incredible.
  

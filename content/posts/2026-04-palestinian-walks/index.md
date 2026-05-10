@@ -19,7 +19,6 @@ tags:
 cover: palestinian-walks-t-thumb.webp
 portrait: raja-shehadeh.webp
 ---
-{% sizing "palestinian-walks.webp", "60%", "Palestinian Walks" %}
 
 Raja Shehadeh’s _Palestinian Walks_ is a series of reflective essays about moving through the landscapes of the West Bank and Gaza region, where walking becomes both a practical act and a way of thinking. Rather than writing conventional travel reportage, Shehadeh treats the route itself as a narrative device—using roads, paths, hills, fields, and ruins to explore how everyday geography is shaped by politics, memory, and loss. The book’s atmosphere is quiet and observant, with the ordinary details of terrain opening into larger questions about what it means to belong to a place under constraint.
 

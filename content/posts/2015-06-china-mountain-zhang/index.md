@@ -17,7 +17,6 @@ tags:
   - reading
 cover: zhang-thumb.webp
 ---
-{% sizing "china-mountain.webp", "60%", "China Mountain Zhang" %}
 
 _China Mountain Zhang_ is a science fiction novel written by Maureen McHugh and published in 1992. Set in a future where China has become the dominant global superpower. The world is one where social and technological advancements have shaped a new society.
 

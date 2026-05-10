@@ -22,7 +22,6 @@ tags:
   - reading
 cover: the-captive-mind-thumb.webp
 ---
-{% figure "images/captive-mind.webp","The Captive Mind" %}
 
 _The Captive Mind_ by [Czesław Miłosz](https://en.wikipedia.org/wiki/Czesław_Miłosz). Essays out of central Europe during the First Cold War by one of Poland's leading intellectuals.
 

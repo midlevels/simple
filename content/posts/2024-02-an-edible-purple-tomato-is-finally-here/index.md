@@ -7,8 +7,6 @@ tags:
   - blog
 excerpt: Spoiler - they taste like tomatoes
 ---
-{% figure "images/purp-tomato.jpeg", "Behold: the purple tomato." %}
-
 
 Thanks to the efforts of [Cathie Martin](https://www.wbur.org/npr/1228868005/purple-tomato-gmo-gardeners) using gene technology and DNA sequencing, combining the purple of the edible purple snapdragon flower onto the red tomato, a new disease-resistent salad buddy is here: the purple tomato. Whether or not I want a purple spaghetti bolognase is another question.
 

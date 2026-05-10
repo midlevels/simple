@@ -11,8 +11,6 @@ excerpt: Great performances, but someone let the special effects person run wild
 cover: the-substance.webp
 ---
 
-{% figure "images/the-substance.webp", "The Substance" %}
-
 The Substance, when it comes down to it, has very little substance. Sure, it's a body horror film and contains underlying commentary about women ageing out of Hollywood leading roles earlier than their male counterparts. Sure, Demi Moore's Elizabeth Sparkle and Dennis Quaid's "Harvey" Hollywood producer (heh!) characters are caricatures of the ego-driven actor and the sleaziest, most vile movie producer.  Even worse, the movie's end is projected well in advance (at least in my mind).
 
 What is unexpected is the over-the-top meshing of motifs of Kubrick's take on The Shining with sequences of long hallways (some blood-drenched),  David Lynch's Elephant Man, and a Monty Pythonesque homage to Mssr. Creosote's vomiting over everything, only in The Substance, the puke is chartreuse, and the blood spewing is on an audience rather than fellow diners. 

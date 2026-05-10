@@ -20,7 +20,6 @@ tags:
 cover: enigma-of-arrival.webp
 portrait: v-s-naipaul.webp
 ---
-{% sizing "enigma-of-arrival.webp", "60%", "The Enigma of Arrival" %}
 
 The story unfolds in the Wiltshire countryside, where the protagonist rents a modest cottage on the grounds of a decaying manor estate owned by a reclusive landlord named Mr. Phillips. This setting becomes a microcosm for broader themes. The narrator, a thinly veiled version of Naipaul, recovering from illness and the exhaustion of his earlier travels, immerses himself in the rhythms of rural life. 
 

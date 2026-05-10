@@ -24,7 +24,6 @@ tags:
   - american
 cover: fear-loathing-thumb.webp
 ---
-{% sizing "fear-and-loathing.webp", "60%", "Fear and Loathing in Las Vegas" %}
 
 Hunter S Thompson wrote _Fear and Loathing in Las Vegas_ in 1971. It is a semi-autobiographical account of a drug-fueled journey through Las Vegas by the narrator, Raoul Duke. His attorney, Dr. Gonzo, joins him for the ride.
 

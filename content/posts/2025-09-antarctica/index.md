@@ -16,7 +16,6 @@ tags:
 cover: antarctica.webp
 portrait: claire-keegan.webp
 ---
-{% figure "images/antarctica.webp","Antarctica" %}
 
 Antarctica is Claire Keegan's first collection of short stories. 
 

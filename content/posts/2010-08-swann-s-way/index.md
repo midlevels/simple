@@ -18,7 +18,6 @@ tags:
 cover: swanns-way-thumb.jpeg
 portrait: marcel-proust.webp
 ---
-{% sizing "swanns-way-large.webp", "60%", "Swann's Way" %}
 
 At the risk of invoking a Monty Pythonesque guffaw, here is a summary of Proust and specifically _Swann's Way_.
 
@@ -33,7 +32,5 @@ Proust writes with intricate and detailed descriptions and deep introspection. H
 _Swann's Way_ sets the stage for the epic narrative that follows in the subsequent volumes of Proust's magnum opus. Proust notes themes and motifs, which are further explored in the seven-volume series. Themes like the search for personal identity, the nature of art, and the elusive nature of time.
 
 If gifted enough time, I will eventually get to the other volumes of this epic work. 
-
-{% hr %}
 
 I have just received a copy of Lydia Davis' new translation of *Swann's Way* and I look forward to reading that in the coming months (May 2026). 

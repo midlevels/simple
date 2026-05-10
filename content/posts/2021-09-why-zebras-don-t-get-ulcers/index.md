@@ -21,7 +21,6 @@ tags:
 cover: zebras-thumb.webp
 portrait: robert-m-sapolsky.webp
 ---
-{% sizing "zebras.webp", "60%", "Why Zebras Don't Get Ulcers" %}
 
 Now in a third edition, Robert M. Sapolsky's acclaimed and successful _Why Zebras Don't Get Ulcers_ features new chapters on how stress affects sleep and addiction. It also includes new insights into anxiety and personality disorder and the impact of spirituality on managing stress.
 

@@ -18,7 +18,6 @@ tags:
 cover: what-we-can-know-thumb.webp
 og_image: og_image.jpg
 ---
-{% figure "images/what-we-can-know.webp", "What We Can Know" %}
 
 The thematic core of the novel interrogates the limits of knowledge and memory. Through Metcalfe's pursuit to uncover the missing poem, McEwan delves into complex discussions on historical context, interpretation, and speculation. The characters grapple with the realization that much of what they perceive as "known" is inherently colored by their experiences and biases. The question posed by the novel’s title—"What can we know?"—echoes throughout as Metcalfe attempts to reconstruct not only the events surrounding the poem but also the profound relationships that influenced its creation.
 

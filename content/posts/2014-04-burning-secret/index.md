@@ -11,8 +11,6 @@ tags:
 excerpt: The central focus of the novella is the relationship that develops between Edgar and a man named Baron von Aschenbach.
 ---
 
-{% figure "images/burning-secret.webp", "Burning Secret" %}
-
 _Burning Secret_ is a novella written by Stefan Zweig. Set in an Austrian resort in the early 20th century, the story involves young Edgar and his mother. The two are spending their summer vacation at the hotel.
 
 The central focus of the novella is the relationship that develops between Edgar and a man named Baron von Aschenbach. The baron takes a particular interest in Edgar and begins to form a close bond with him. The baron's desires to win the affection of Edgar's mother. (His mother is married but emotionally distant from her husband.)

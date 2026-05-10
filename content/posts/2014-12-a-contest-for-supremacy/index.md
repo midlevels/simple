@@ -19,7 +19,6 @@ tags:
 cover: contest-thumb.webp
 portrait: aaron-friedberg.webp
 ---
-{% figure "images/contest.webp","A Contest for Supremacy" %}
 
 _A Contest for Supremacy_ examines the socioeconomic forces at play in US-China relations. I do not share the author's conclusion, but it's an engaging book.
 

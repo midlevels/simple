@@ -13,7 +13,6 @@ tags:
   - reading
 cover: to-have-and-have-not.jpeg
 ---
-{% figure "images/to-have-and-have-not-768x1170.-n4mSDy1Pbwn0.webp", "" %}
 
 Hemingway's _To Have and Have Not_ is a commentary on the time of The Great Depression told from multiple viewpoints.
 

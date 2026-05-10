@@ -21,7 +21,6 @@ tags:
   - reading
 cover: adams-thumb.webp
 ---
-{% figure "images/henry-adams.webp","The Education of Henry Adams" %}
 
 Henry Adams, journalist, historian, and member of the Adams political family, posthumously published _The Education of Henry Adams_ in 1918. It won a Pulitzer the following year. The book chronicles Adams' personal and intellectual journey throughout his life. He reflects on the changes and challenges he witnessed in the late 19th and early 20th centuries.
 

@@ -14,7 +14,6 @@ tags:
   - reading
 cover: invisible-thumb.webp
 ---
-{% sizing "invisible-cities-680x1024.jpeg.webp", "60%", "Invisible Cities" %}
 
 Italo Calvino published _Invisible Cities_ in 1972, but it feels as if it had always existed. “Cities, like dreams, are made of desires and fears, even if the thread of their discourse is secret, their rules are absurd, their perspectives deceitful, and everything conceals something else.”
 

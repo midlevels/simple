@@ -23,7 +23,6 @@ tags:
 cover: cuba-libre.webp
 og_image: og_image.jpg
 ---
-{% figure "images/cuba-libre.webp","Cuba Libre" %}
 
 Leonard made extensive use of research and a researcher named Gregg Sutter for many of his novels, and *Cubra Libre* seems to be one of the more exhaustively researched and well-penned (he never used a computer or word processor, and rarely a typewriter) books in his oeuvre. Leonard, who began as a writer of westerns, then turned to city crime books, is back in semi-familiar territory in this book with a cowboy protagonist (Tyler) running horses to Cuba.  The plan is to sell the horses and rifles at a substantial profit to a buyer in Havana, who in turn hopes to obtain an even greater markup when war breaks out between the US and Spain. 
 

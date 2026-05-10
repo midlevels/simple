@@ -19,7 +19,6 @@ tags:
 cover: trust.webp
 og_image: og_image.jpg
 ---
-{% sizing "trust.webp", "60%", "Trust" %}
 
 Hernan Diaz's novel *Trust* intricately weaves multiple narratives to explore themes of wealth, power, and the nature of truth. A tale that revolves around a wealthy financier, Benjamin Rask, and his enigmatic wife, Helen. The novel is structured in four parts: two contrasting narratives about Benjamin and Helen, a fictional biography, and an account of their financial dealings.
 

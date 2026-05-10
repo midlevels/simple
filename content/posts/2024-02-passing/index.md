@@ -24,7 +24,6 @@ cover: passing.webp
 portrait: nella-larsen.webp
 categories: 'hkbc,reading'
 ---
-{% sizing "passing-large.webp", "60%", "Passing (1929)" %}
 
 <p><a href="https://en.wikipedia.org/wiki/Nella_Larsen" target="_blank" rel="noreferrer noopener">Nella Larsen</a> wrote the novella <em>Passing</em> in 1929. The story revolves around the friendship of Irene ('Rene) Redfield, whose point of view carries the story, and Clare Kendry. Both are married. Irene to a darker skinned Black man who is a Physician in Manhattan. Clare to a racist white businessman who doesn't know she is actually a light skin Black woman 'passing' as white. Both 'Rene and Clare can pass as white.</p>
 <p>Both women use 'passing' for certain advantages. One is to receive decent treatment in public. We witness this in the first scene of the novella. The two have a chance meeting in a nice hotel's cafe. They hadn't seen each other for many years and barely recognize each other, though it was Clare who made the initial approach. "Don't you recognize me?" she asks.</p>

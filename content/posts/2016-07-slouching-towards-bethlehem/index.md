@@ -19,7 +19,6 @@ tags:
   - reading
 cover: slouching-thumb.webp
 ---
-{% sizing "slouching.webp", "60%", "Slouching Towards Bethlehem" %}
 
 _Slouching Towards Bethlehem_ is a collection of essays divided into two sections: "Life Styles in the Golden Land" and "Personals." In the first section, Joan Didion provides a series of journalistic essays that offer a critical and perceptive look at different aspects of American life. She delves into topics such as the counterculture movement, the Haight-Ashbury district in San Francisco, and the cultural and social dynamics of California.
 

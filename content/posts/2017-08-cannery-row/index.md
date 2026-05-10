@@ -19,7 +19,6 @@ tags:
   - reading
 cover: cannery-thumb.webp
 ---
-{% sizing "cannery-row-640x1024-1-large.webp", "60%", "Cannery Row" %}
 
 _Cannery Row_ is a novel by American author John Steinbeck, published in 1945. It is set during the Great Depression in Monterey, California. The street is one lined with sardine canneries known as Cannery Row. The story revolves around the people living there, including Lee Chong, the local grocer. Doc, a marine biologist. And Mack, the leader of a group of derelicts.
 

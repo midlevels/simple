@@ -21,7 +21,6 @@ tags:
 cover: brief-history-thumb.webp
 portrait: stephen-hawking.webp
 ---
-{% sizing "a-brief-history-of-time-685x1024.jpeg.webp", "60%", "A Brief History of Time" %}
 
 While _A Brief History of Time_ deals with complex scientific concepts, Stephen Hawking ensures that readers without a scientific background can still grasp the main ideas. He uses vivid examples and analogies, such as comparing the expansion of the universe to the motion of raisins in a rising loaf of bread, to make abstract concepts more relatable.
 

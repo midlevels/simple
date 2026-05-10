@@ -16,7 +16,6 @@ tags:
 cover: alchemist-thumb.webp
 portrait: paulo-coelho.webp
 ---
-{% sizing "the-alchemist.webp", "60%", "The Alchemist" %}
 
 Brazilian author Paulo Coelho wrote _The Alchemist_ to make himself a legend. Just my guess. We follow an Andalusian shepherd named Santiago who embarks on a quest to discover his personal legend. Or his ultimate purpose or destiny in life. Whatever, right?
 

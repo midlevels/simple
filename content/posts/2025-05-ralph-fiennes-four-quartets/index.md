@@ -14,9 +14,6 @@ excerpt: >-
 ---
 An important theme of T.S. Eliot's Four Quartets is how we interpret what is handed down through tradition. In his early essay, "Tradition and the Individual Talent" (1919), he touches on this dynamism of how tradition becomes redefined with every new giant talent using a metaphor drawn from science.
 
-{% figure "images/4q.webp", "Four Quartets" %}
-
-
 Twenty-odd years later, a series of four larger poems (each a quartet) emerged somewhat wider in scope than "The Wasteland" and more sophisticated:
 
 1. Burnt Norton (1936)

@@ -12,7 +12,6 @@ tags:
   - reading
 cover: the-hunted-thumb.webp
 ---
-{% sizing "the-hunted.webp", "70%", "The Hunted" %}
 
 Elmore Leonard is a guilty pleasure of mine. I read far more of his works than I note on this blog, but the simple matter is: I should note them. In *The Hunted* we find Al Rosen living the good life in Israel, where the State Department relocated him in the witness protection program. Rosen wore a wire to snare two other baddies, but the grand jury didn't indict them. Al knew those guys were going to come after him, so he convinced them to send him to live in Israel under a new name (Al Rosen... he was Jimmy Ross before). 
 

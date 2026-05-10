@@ -21,7 +21,6 @@ cover: grip-thumb.jpeg
 og_image: og_image.jpg
 portrait: j-g-farrell.webp
 ---
-{% figure "images/the-singapore-grip.webp","The Singapore Grip" %}
 
 J.G. Farrell wrote _The Singapore Grip_ in 1978. Set during World War II, the story takes place in Singapore and explores the lives of a diverse cast of characters against the backdrop of an impending Japanese invasion.
 

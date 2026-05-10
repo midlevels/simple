@@ -12,8 +12,6 @@ tags:
 excerpt: The story follows a group of individuals who find themselves trapped in a bizarre and ever-shifting alternate reality…
 ---
 
-{% figure "images/eye-in-the-sky.webp","Eye in the Sky" %}
-
 Philip K. Dick published the sci-fi novel _Eye in the Sky_ in 1957. The story follows a group of individuals who find themselves trapped in a bizarre and ever-shifting alternate reality created by a malfunctioning particle accelerator.
 
 The novel begins with the main characters, Jack Hamilton and Marsha, visiting a new tourist attraction - an experimental particle accelerator. The particle accelerator goes awry and transports the group into a series of parallel worlds. Specific beliefs and prejudices govern each of the individual worlds.

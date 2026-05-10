@@ -12,8 +12,6 @@ portrait: david-grann.webp
 cover: devil-and-sherlock-holmes.webp
 ---
 
-{% figure "images/devil.webp","The Devil & Sherlock Holmes" %}
-
 _The Devil & Sherlock Holmes: Tales of Murder, Madness & Obsession_ is a collection of essays by David Grann, who known for writing _Killers of the Flower Moon_. They are all true tales (some solved, others less so), and the featured essay is my favorite, as I've been a fan of the great detective from a young age. Watched all the PBS episodes with my family and when they were only part way through, borrowed my father's collection of the _Complete Tales of Sherlock Holmes_ (or something like that title) and ploughed through that in a wee, or two nearly non-stop one summer.
 
 The initial chapter "The Strange Death of a Holmes Fanatic" involves the mysterious murder or suicide of the preëminent Arthur Conan Doyle scholar, Richard Green. He anticipated examining the remaining trove of Doyle's estate, which was to be bequeathed to the British Library by his youngest daughter in her will. However, he discovered instead somehow the trove ended up on Christies' auction block forever slipping out of his grasp and his dream of writing the definitive Doyle biography sliding out of his reach.

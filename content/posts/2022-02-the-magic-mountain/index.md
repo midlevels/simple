@@ -10,7 +10,6 @@ tags:
   - reading
 cover: magic-thumb.webp
 ---
-{% figure "images/the-magic-mountain.webp", "" %}
 
 With _The Magic Mountain_, [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) rose to the front ranks of the great novelists. He won the Nobel Prize in Literature in 1929. 
 

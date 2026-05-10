@@ -14,8 +14,6 @@ cover: kreutzer-thumb.webp
 
 ---
 
-{% figure "./images/kreutzer-400.webp", "The Kreutzer Sonata" %}
-
 Leo Tolstoy’s The Kreutzer Sonata is not only a profound exploration of marriage, jealousy, and the destructive power of unchecked desire but also a deeply personal work that reflects Tolstoy’s struggles and philosophical evolution. Framed as a conversation overheard on a train, the novella centers on the confession of Pozdnyshev, a man who recounts the tragic unraveling of his life and marriage. His story serves as a critique of societal norms, particularly those surrounding relationships, sexuality, and the institution of marriage, themes that resonate strongly with Tolstoy’s own experiences and beliefs.
 
 Pozdnyshev begins by describing his early life, shaped by the decadent lifestyle of the Russian aristocracy. He indulges in promiscuity and views women primarily as objects of pleasure, a mindset he attributes to the corrupting influence of societal expectations. This perspective mirrors Tolstoy’s youthful indiscretions, as he was known for his wild and hedonistic behavior before his moral and spiritual awakening. Tolstoy’s later rejection of his past lifestyle is evident in Pozdnyshev’s disdain for his former self, which sets the stage for his eventual disillusionment with marriage.
@@ -27,8 +25,6 @@ This dynamic echoes Tolstoy’s marriage to Sophia (Sonya) Behrs, which started 
 As Pozdnyshev’s marriage progresses, he grows increasingly jealous and suspicious of his wife. He resents her independence and imagines her infidelity, even though there is no evidence of it. His jealousy becomes a central theme of the story, paralleling Tolstoy’s struggles with possessiveness and mistrust in his relationship with Sophia. Tolstoy’s diaries reveal his deep-seated insecurities and his tendency to project his guilt onto his wife, themes that are vividly portrayed in Pozdnyshev’s character.
 
 The pivotal moment in the story occurs when Pozdnyshev’s wife befriends a talented violinist. The two collaborate to perform Beethoven’s Kreutzer Sonata, a piece that Pozdnyshev interprets as evidence of their emotional and physical intimacy. The music, with its passionate and evocative nature, becomes a symbol of the connection he believes exists between them. This scenario reflects Tolstoy’s anxieties about Sophia’s interactions with other men, particularly his friend and composer Sergei Taneyev. Tolstoy’s discomfort with Sophia’s musical pursuits and friendships is mirrored in Pozdnyshev’s obsessive jealousy.
-
-{% figure "./images/lt.webp", "Tolstoy" %}
 
 This obsession culminates in a violent and tragic climax. In a fit of uncontrollable rage, Pozdnyshev murders his wife, stabbing her to death. The act is both a manifestation of his jealousy and a reflection of his deep-seated hatred for the institution of marriage. While Tolstoy never resorted to violence, his intense frustrations and moral condemnations of marriage are channeled through Pozdnyshev’s extreme actions. The murder serves as a metaphor for the destructive potential of unchecked jealousy and societal pressures.
 

@@ -21,7 +21,6 @@ tags:
   - reading
 cover: nickel-boys-thumb.jpeg
 ---
-{% figure "images/the-nickel-boys.webp", "The Nickel Boys" %}
 
 _The Nickel Boys_ is a chilling novel based on a true story, which begins with hope and ends in tragedy. Racial profiling and profiteering on the part of a reform school (Nickel School, based in Florida) and its administrator sets the plot in motion.  Medieval corporal punishments for minor infractions sharpened the cruelty experienced by the students. An unfortunate favor one student tries to do for his friend puts the final period in his sentence.  
 
