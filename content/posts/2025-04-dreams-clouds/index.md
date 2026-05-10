@@ -10,6 +10,7 @@ draft: true
 cover: cloudy-sky.webp
 og_image: og_image.jpg
 ---
+{% figure "images/bw-clouds.webp", "B&W Sunrise", "full" %}
 
 ## 2018
 
@@ -23,21 +24,33 @@ You can take the brace and bend it as hard and as much as you like, and it will 
 
 The more visible evidence of my disability is a cane, that prevents me from whomping back on my ass, which I've managed to limit to only a few times.
 
+
+{% hr %}
+
 Most days, I am happy and keep as active as I can. We wake with the sun. The coffee-maker wheezes; there is a slow, plaintive drip into its carafe. Steam rises into the air. The aroma wakes me before my first sip. 
 
 My wife prunes our indoor roses. Carnations shake their colours at me in a gentle breeze from an open window. They aren't the cut type—they are potted in soil like our variegated vines, whose tendrils now spray along the floor toward a dark corner. Pothos? Sounds like a Musketeer, that one. 
 
+
+{% hr %}
+
 Re-wind. Fast-forward. How do we live in memory? Spent or to-be-lived. No good word for that. "In the future" isn't quite it. We balance time, and it's always balanced. We are always roughly in the middle of an Infinite before and an infinite after. 
 I'm not up to Heisenberg yet. Or perhaps past him. Maybe both. 
+
+
+{% hr %}
 
 Here's a bit of simple etiquette: do not ask a disabled person, especially a stranger, how or why they are the way they are. I take it the elevator guy's curiosity was well-meaning, but I can't think of a time I ever walked up to a person with a disability and asked, Hey, man, what fucked you up?  
 
 Maybe it's a cultural thing, but maybe save that question for your third or fourth time conversing with someone? 
 
+{% hr %}
+
 ## 2018
  
 I gave the elevator man my reply (politely, and directly answering his question) and exited on my physical therapist's floor.
  
+{% hr %}
 
 ## 1992
 
@@ -49,6 +62,7 @@ The driver picked up the duck head and put it in my bowl. I thanked him, but I d
 
 After seeing that, I no longer feared eating any food in China.
  
+{% hr %}
 
 ## 2011
 
@@ -62,7 +76,7 @@ A stand-out dish, but those pieces of so-called ginger didn't taste like ginger.
 
 Were they, after all, water chestnuts? 
  
- 
+ {% hr %}
 
 ## 2025
 
@@ -74,11 +88,23 @@ Today, many young people have only seen the upside of markets and investments an
 
 Social media speeds up expectations, rushes emotions, raises cortisol levels, precludes concentration, and clouds long-term thinking. 
 
+{% hr %}
+
 ## Circa 1415
+
+{% figure "images/cloud-porc-detail.webp", "Detail " %}
+
+{% figure "images/tang-cloud-porcelain.webp", "Porcelain painted with cobalt blue under transparent glaze - Jingdezhen ware" %}
 
 The Ming Dynasty was a golden age for Chinese arts, blending tradition with innovation. Porcelain reached new heights, particularly the iconic blue-and-white ware, which became a global luxury good. The cloud motif, in use in prior dynasties as well, became more defined and realistic in appearance. Jingdezhen kilns mass-produced exquisite ceramics, often decorated with intricate landscapes and floral motifs. The dynasty also saw advancements in lacquerware, cloisonné, and silk textiles, with imperial workshops setting high standards. Painting flourished under masters like Shen Zhou and Qiu Ying, who refined the literati style, emphasising brushwork and natural harmony. Calligraphy, poetry, and decorative arts thrived, reflecting Confucian ideals and Daoist influences.
 
 Trade played a pivotal role in Ming prosperity, despite the dynasty’s later isolationist policies. Early Ming rulers, like the Yongle Emperor, actively promoted maritime commerce through Zheng He’s voyages, which connected China to Southeast Asia, India, the Middle East, and East Africa. These expeditions brought exotic goods—spices, gems, and rare woods—into China while showcasing its wealth and power. Domestically, a silver-based economy emerged, fueled by Japanese and later Spanish-American silver, which became the backbone of taxation and commerce. (Hat tips to DeepSeek, Wikipedia, and The Met.)
 
+
+{% hr %}
+
 <p style="text-align: center;">Clouds are the most unnoticed of all natural phenomena. 
 
+
+
+{% figure "images/cloudy-sky.webp", "clouds" %}

@@ -30,7 +30,9 @@ Eventually, Olga is relocated to Michelin's Moscow office (she is Russian, after
 
 About a decade later Jed begins taking notice of the people producing things. People in the context of their daily work. He begins with modest jobs (The Tobaconist at his shop Counter) and works his way up to Damien Hirst and Jeff Koons Dividing up the Art Market and Bill Gates and Steve Jobs Discussing the Future of Information Technology (at Palo Alto). His gallerist Franz helps Jed set up an even larger showing. The publicist Marylin brought in to alert the media is the same person Franz used for Jed's first showing, but she now appears much better, (no longer out of shape, ashen, carrying an enormous bag with tissue packs, continuously wiping her nose), and altogether now rather attractive to Jed. Not quite an Olga though.
 
-What hasn't changed is Marylin's ability to draw in the art press for a showing is as good as it was the first time and Jed lands more column inches in the press than ever before. His works are bid up into the hundreds of thousands and by the end of the show he has five million euros in his account. 
+What hasn't changed is Marylin's ability to draw in the art press for a showing is as good as it was the first time and Jed lands more column inches in the press than ever before. His works are bid up into the hundreds of thousands and by the end of the show he has five million euros in his account.
+
+{% callout "Suddenly, we're in M.C. Escher territory." %}
 
 I have to regress to an important point. All initial art showings, or vernissages, are accompanied by a booklet giving an introduction to the artist and a take on what is being accomplished. For this booklet, Jed wants a renowned novelist for the job and he chooses Michel Houellebecq, the very author of the book I'm now reviewing. 
 
@@ -46,7 +48,9 @@ As Jed’s career flourishes, he grapples with the challenges of fame and the ar
 
 One day, Jed learns his father had checked out of his luxury care housing facility and flown to Switzerland. His father had mentioned euthanasia once before at a particular clinic in Switzerland. Angered, Jed flies to the clinic (located next to a brothel) in Lucerne, storms in and demands to see paperwork regarding his father. When he is denied several times, a worker there decides to give in and show him the one-page file on his father with all the approvals and signatures. Still in a state of anger and upset, Jed brutally beats and kicks the woman and leaves to fly home. He is concerned the authorities may get involved, but decides they likely want to maintain a low profile and avoid bad press. Still, he is shaken by what he was capable of. 
 
-The narrative interweaves Jed’s personal life with broader societal observations, particularly regarding the shifting landscape of art and the role of technology in shaping human expression. One thing I notice in the book is the sudden leaps of years or decades, and the comments on shifting appearances, either changing dramatically or close to no change at all.  For some reason, this brought the idea of evolution to mind and specifically Stephen Jay Gould's theory of punctuated equilibrium. 
+The narrative interweaves Jed's personal life with broader societal observations, particularly regarding the shifting landscape of art and the role of technology in shaping human expression. One thing I notice in the book is the sudden leaps of years or decades, and the comments on shifting appearances, either changing dramatically or close to no change at all.  For some reason, this brought the idea of evolution to mind and specifically Stephen Jay Gould's theory of punctuated equilibrium.
+
+{% hr %}
 
 The novel consists of three sections and an epilogue, and thus far I've only written about the first two. In the third section we learn of a gruesome murder: that of Michel Houellebecq, who is murdered along with his dog, and terribly disfigured in a surgical manner with pieces of him displayed just so. Police who first arrived on scene are outside utterly discombobulated by what they witnessed in the house. Most are outside vomiting. Detectives arrive to the scene and decide to wait for the crime scene department to arrive with their masks, which block out the rancid stench of decaying corpses. 
 
@@ -60,7 +64,9 @@ Upon arrival the inspectors sat back and Jed paced from room to room. Finally he
 
 "What would be the value of the painting" the inspector asks Jed and Jed speculates about 12 million euros. They are gobsmacked. The case while not solved can now be shuffled to the art crimes unit and the work marked as stolen in case it ever comes up for auction. 
 
-Years go by, and through an unusual series of connections, starting with the manslaughter killing of a "plastic surgeon for men" by a rogue seller of forbidden tropical insect collectors of such rare specimens is a connection is made. Police investigate the crime scene, uncovering hideous human cadavers preserved in grotesque poses with neatly severed parts sewn onto torsos and the like in the man's basement. They go to his surgical office and uncover the laser machine made in Denmark (its purpose is for limb amputations, so why would a plastic surgeon have one? the inspectors wonder). This is the man responsible for the novelist's killing. After all, some of Houellebecq's last words to Jed were about how he would be immortalised: not by a photograph, but by his painting. 
+Years go by, and through an unusual series of connections, starting with the manslaughter killing of a "plastic surgeon for men" by a rogue seller of forbidden tropical insect collectors of such rare specimens is a connection is made. Police investigate the crime scene, uncovering hideous human cadavers preserved in grotesque poses with neatly severed parts sewn onto torsos and the like in the man's basement. They go to his surgical office and uncover the laser machine made in Denmark (its purpose is for limb amputations, so why would a plastic surgeon have one? the inspectors wonder). This is the man responsible for the novelist's killing. After all, some of Houellebecq's last words to Jed were about how he would be immortalised: not by a photograph, but by his painting.
+
+{% hr %}
 
 ### Now my speculation
 

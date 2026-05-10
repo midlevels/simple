@@ -18,6 +18,7 @@ tags:
   - reading
 cover: le-grande-thumb.jpeg
 ---
+{% figure "images/le-grand-meaulnes.webp","Le Grand Meaulnes" %}
 
 _Le Grand Meaulnes_ revolves around Augustin Meaulnes, a young man from a rural background who arrives at a boarding school in the village of Sainte-Agathe. Meaulnes befriends a fellow student named François Seurel, who also serves as the narrator of the story.
 
@@ -27,9 +28,13 @@ The novel follows Meaulnes' relentless search for the lost estate and his quest 
 
 _Le Grand Meaulnes_ is renowned for its lyrical prose, evocative descriptions, and its portrayal of the complexities of youth and memory. Critics praise the novel for capturing the sense of nostalgia and the yearning for a lost world. Moreover, the novel continues to influence subsequent generations of writers.
 
+{% hr %}
+
 About the author of *Le Grand Meaulnes*:
 
-<p>
+
+<p>{% figure "./images/alain-fournier.webp", "Henri Alain-Fornier" %}
+
 
 Alain-Fournier, whose real name was Henri-Alban Fournier, was born on October 3, 1886, in La Chapelle-d'Angillon, France. He adopted the pen name Alain-Fournier to distinguish himself from another writer named Henri-Alban Fournier.
 

@@ -18,6 +18,7 @@ tags:
 cover: stoner-thumb.webp
 portrait: john-williams.webp
 ---
+{% sizing "stoner-thumb.webp", "60%", "Stoner" %}
 
 Had Raymond Carver written a novel, it may have been a lot like *Stoner.* 
 
@@ -46,6 +47,8 @@ One day Edith shrieks loudly and Stoner finds her and Grace in the livingroom. G
 When word of his affair finally reaches the university, an old nemesis, who has more power now, threatens not Stoner, but his young, untenured paramour. Lomax (his nemesis) gives him an ultimatum: he goes or she goes. The two spend a last week together grateful for their tryst, then she, somewhat selflessly agrees to leave and is off to teach at another far off university and Stoner returns home to his stifled life. He jumps back into academics with renewed energy. 
 
 The Great Depression and WWII come and go with Stoner safely ensconced in a tenured academic career. He feels his privilege and also feels the pain of those without such. Grace's husband has died in the early days of the Pacific Theater. She gives birth to a boy and names him after his father. 
+
+{% hr %}
 
 Much of the last third of the book is taken up with thoughtful introspection about his life. Stoner, our quiet hero, suffering but grateful for what life and literature has offered him. 
 

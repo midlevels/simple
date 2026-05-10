@@ -21,12 +21,15 @@ tags:
   - reading
 cover: the-dead-683x1024-1-medium-thumb.webp
 ---
+{% sizing "the-dead-683x1024-1-xl.webp", "60%", "The Dead" %}
 
 "The Dead" is a short story written by James Joyce in 1914 as the final story in his collection *Dubliners.* It is widely regarded as one of the greatest short stories in the English language. Set in early 20th-century Dublin during a Christmas party, the story explores themes of mortality, memory, and the complexities of human relationships.
 
 The narrative centers around Gabriel Conroy, a university professor, and his wife, Gretta. The story unfolds as they attend an annual gathering hosted by Gabriel's aunts, Kate and Julia Morkan. The party serves as a backdrop for the exploration of various characters and their interactions.
 
 As the evening progresses, Gabriel experiences a range of emotions and encounters different individuals, including family members and friends. The story provides rich descriptions of the party and the conversations that take place. The dialog captures the atmosphere and the intricate dynamics among the guests.
+
+{% hr %}
 
 The turning point of the story occurs when Gabriel and Gretta retire for the night in their hotel room. Gretta reveals to Gabriel that she has been reminiscing about a former love, Michael Furey, who died years ago. This revelation deeply affects Gabriel, who realizes the profound impact that past experiences and lost loves can have on one's present life.
 

@@ -20,10 +20,13 @@ portrait: harry-mulisch.webp
 sticky: 'true'
 og_image: og.png
 ---
+{% figure "images/the-assault.webp", "The Assault" %}
 
 A truly remarkable novel that begins with a tragic turn of events for the Steenwijk family, who live on a street of four houses on a quay in Haarlem (The Netherlands). 
 
 Gunshots ring out, a man falls off a bike, someone drags the corpse from the front of one household to the front of the Steenwijk's household, all as the Steenwijks look on in horror. 
+
+{% sizing "harry-mulisch.webp", "25%", "Mulisch" %}
 
 The time is near the end of WWII, but the Gestapo are still very much present in The Netherlands. American forces are pressing toward Berlin from France and the Soviets from the east. 
 
@@ -32,6 +35,8 @@ The dead man on the bicycle was a Gestapo official. Peter Steenwijk, the family'
 Peter's younger brother, Anton, a 12-year old and the novel's protagonist, is shoved into a van and driven away. He hears explosions and gunshots soon after departing. The noises were his house being set ablaze with grenades and his parents being shot dead, which he would learn later.
 
 The rest of the novel takes place over several decades up to 1981, to a chance encounter at an anti-nuke rally in Amsterdam, where Anton learns an astonishing thing from an old neighbor from that quay back in Haarlem. 
+
+{% hr %}
 
 The writing (and the translation) are superb. Some books are easy to keep the pages turning from an extraordinary plot propelling me forward, others make me want to dwell on the extraordinary language that evokes a sense of place, emotion, sensibility, or psychological state. *The Asssault* is a unique combination of those. Here is a sample of some of the prose:
 

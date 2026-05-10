@@ -20,10 +20,13 @@ cover: malgudi-tn.webp
 og_image: og_image.jpg
 portrait: r-k-narayan.webp
 ---
+{% sizing "malgudi.webp", "60%", "Malgudi Days" %}
 
 _Malgudi Days_ by R.K. Narayan as translated by Jhumpa Lahiri. I'm going to take Lahiri's advice in the book's introduction and read one story per day for a month. 
 
 So begins my reading in 2025. 
+
+{% hr %}
 
 These short parables are somewhat like Aesop's, though sometimes the lesson isn't as clear, yet the predicaments people find themselves in are always unique. 
 
@@ -33,7 +36,11 @@ It does not go well.
 
 The elephant, having a mind of its own, decides it doesn't like the job, rams into a wall halfway to the field and runs off. Our man is now down all that money, plus the fines, reparation costs for the wall, and he still has an illegally parked engine. At wit's end he miraculously finds help in selling the engine to an unexpected party and that brings him into the black. 
 
+{% hr %}
+
 Another tale I enjoyed was "Missing Mail" in which an overly-intrusive letter carrier gets way too caught up in a family's back and forth communications with a prospective bride for their son. 
+
+{% hr %}
 
 In "Such Perfection" a sculptor renders a vision of Nataraja and asks a local temple priest to stop by and consecrate it before he opens up for public viewing. The priest arrives and is taken aback by the exquisite work. He tells the sculptor that it is too perfect and will anger the gods. The priest asks the sculptor to break off a toe or something like that, it would be ok, but the sculptor does not budge and refuses. 
 
