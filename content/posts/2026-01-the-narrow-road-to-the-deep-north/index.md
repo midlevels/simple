@@ -16,6 +16,7 @@ tags:
   - reading
   - japan
   - japanese
+  - travel writing
 ---
 
 Matsuo Bashō’s The Narrow Road to the Deep North (Oku no Hosomichi) is a poetic travel narrative recounting his 1689 journey from Edo (modern Tokyo) into Japan’s remote northern interior. Written in a refined blend of prose and haiku known as haibun, the work records not only the physical stages of his journey but also a spiritual pilgrimage shaped by Zen Buddhism, literary memory, and a deep sensitivity to impermanence. Though the narrative is relatively brief, it distills vast emotional and philosophical depth into its spare language.

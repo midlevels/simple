@@ -5,11 +5,11 @@ excerpt: >-
   Dreams —A series of epigrammatic observations that aren't in themselves
   single-subject posts, fiction or fact, poem or prose.
 tags:
-  - blog
-draft: true
+  - dreams
+draft: false
 og_image: og_image.jpg
 ---
-{% figure "images/bw-clouds.webp", "B&W Sunrise", "full" %}
+
 
 ## 2018
 
@@ -91,19 +91,11 @@ Social media speeds up expectations, rushes emotions, raises cortisol levels, pr
 
 ## Circa 1415
 
-{% figure "images/cloud-porc-detail.webp", "Detail " %}
-
-{% figure "images/tang-cloud-porcelain.webp", "Porcelain painted with cobalt blue under transparent glaze - Jingdezhen ware" %}
-
 The Ming Dynasty was a golden age for Chinese arts, blending tradition with innovation. Porcelain reached new heights, particularly the iconic blue-and-white ware, which became a global luxury good. The cloud motif, in use in prior dynasties as well, became more defined and realistic in appearance. Jingdezhen kilns mass-produced exquisite ceramics, often decorated with intricate landscapes and floral motifs. The dynasty also saw advancements in lacquerware, cloisonné, and silk textiles, with imperial workshops setting high standards. Painting flourished under masters like Shen Zhou and Qiu Ying, who refined the literati style, emphasising brushwork and natural harmony. Calligraphy, poetry, and decorative arts thrived, reflecting Confucian ideals and Daoist influences.
 
-Trade played a pivotal role in Ming prosperity, despite the dynasty’s later isolationist policies. Early Ming rulers, like the Yongle Emperor, actively promoted maritime commerce through Zheng He’s voyages, which connected China to Southeast Asia, India, the Middle East, and East Africa. These expeditions brought exotic goods—spices, gems, and rare woods—into China while showcasing its wealth and power. Domestically, a silver-based economy emerged, fueled by Japanese and later Spanish-American silver, which became the backbone of taxation and commerce. (Hat tips to DeepSeek, Wikipedia, and The Met.)
+Trade played a pivotal role in Ming prosperity, despite the dynasty’s later isolationist policies. Early Ming rulers, like the Yongle Emperor, actively promoted maritime commerce through Zheng He’s voyages, which connected China to Southeast Asia, India, the Middle East, and East Africa. These expeditions brought exotic goods—spices, gems, and rare woods—into China while showcasing its wealth and power. Domestically, a silver-based economy emerged, fueled by Japanese and later Spanish-American silver, which became the backbone of taxation and commerce. (Hat tips to DeepSeek, Wikipedia, and The Metropolitan Museum of Art)
 
 
 {% hr %}
 
-<p style="text-align: center;">Clouds are the most unnoticed of all natural phenomena. 
-
-
-
-{% figure "images/cloudy-sky.webp", "clouds" %}
+Clouds are the most unnoticed of all natural phenomena. 

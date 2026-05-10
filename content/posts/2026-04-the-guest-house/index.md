@@ -12,7 +12,7 @@ bio: >-
 excerpt: "This being human is a guest house. \r\nEvery morning a new arrival."
 tags:
   - poetry
-  - blog
+  - reading
 ---
 
 Translated by Coleman Barks

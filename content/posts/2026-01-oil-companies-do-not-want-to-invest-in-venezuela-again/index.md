@@ -5,7 +5,7 @@ og_image: og_image.jpg
 # writer: Name
 # artist: Name
 tags:
-  - blog
+  - history
 excerpt: Burned once, twice, thrice already. 
 
 ---

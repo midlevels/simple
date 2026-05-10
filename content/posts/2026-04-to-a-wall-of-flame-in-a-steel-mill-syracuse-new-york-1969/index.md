@@ -5,7 +5,7 @@ writer: Larry Levis
 excerpt: "Except under the cool shadows of pines, / \r\nThe snow is already thawing / \r\nAlong this road . . . / \r\nSuch sun, and wind."
 tags:
   - poetry
-  - blog
+  - reading
 bio-larry-levis: >-
   Larry Patrick Levis (September 30, 1946 – May 8, 1996) was an American poet
   and teacher who published five books of poetry during his lifetime. Two more

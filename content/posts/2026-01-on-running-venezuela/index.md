@@ -3,7 +3,7 @@ title: On Running Venezuela
 date: 2026-01-05
 # artist: Name
 tags:
-  - blog
+  - history
 excerpt: Black gold and a distraction for Trump
 ---
 
