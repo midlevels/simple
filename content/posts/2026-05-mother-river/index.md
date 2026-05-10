@@ -7,8 +7,6 @@ tags:
   - hkbc
   - reading
   - chinese
-  - fiction
-  - short stories
 bio-can-xue: >-
   Deng Xiaohua (Chinese: 邓小华; born May 30, 1953), better known by her pen name
   Can Xue (Chinese: 残雪; pinyin: Cán Xuě,  lit: 'lingering snow'), is a Chinese
