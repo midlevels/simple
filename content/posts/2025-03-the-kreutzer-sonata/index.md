@@ -1,19 +1,21 @@
 ---
 title: The Kreutzer Sonata
-date: 2025-03-01
-og_image: og_image.jpg
+date: 2025-03-01T00:00:00.000Z
 writer: Leo Tolstoy
-portrait: leo-tolstoy.webp
+excerpt: >-
+  A novella that is the confession of Pozdnyshev, a man who recounts the tragic
+  unraveling of his life and marriage. Very Russian fare.
 tags:
   - fiction
   - hkbc
   - russian
   - reading
-excerpt: A novella that is the confession of Pozdnyshev, a man who recounts the tragic unraveling of his life and marriage. Very Russian fare.
-cover: kreutzer-thumb.webp
-
+bio-leo-tolstoy: >-
+  Count Lev Nikolayevich Tolstoy (9 September 1828 – 20 November 1910), usually
+  referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as
+  one of the greatest and most influential authors of all time.
+og_image: og_image.jpg
 ---
-
 Leo Tolstoy’s The Kreutzer Sonata is not only a profound exploration of marriage, jealousy, and the destructive power of unchecked desire but also a deeply personal work that reflects Tolstoy’s struggles and philosophical evolution. Framed as a conversation overheard on a train, the novella centers on the confession of Pozdnyshev, a man who recounts the tragic unraveling of his life and marriage. His story serves as a critique of societal norms, particularly those surrounding relationships, sexuality, and the institution of marriage, themes that resonate strongly with Tolstoy’s own experiences and beliefs.
 
 Pozdnyshev begins by describing his early life, shaped by the decadent lifestyle of the Russian aristocracy. He indulges in promiscuity and views women primarily as objects of pleasure, a mindset he attributes to the corrupting influence of societal expectations. This perspective mirrors Tolstoy’s youthful indiscretions, as he was known for his wild and hedonistic behavior before his moral and spiritual awakening. Tolstoy’s later rejection of his past lifestyle is evident in Pozdnyshev’s disdain for his former self, which sets the stage for his eventual disillusionment with marriage.

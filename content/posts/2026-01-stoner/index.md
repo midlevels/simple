@@ -42,7 +42,3 @@ In the final chapter, we follow Stoner through what he hopes is an early retirem
 Grace visits him saying her son is living with his paternal grandparents and that it's better that way, as she has taken to drink. 
 
 The last sentence is Stoner fading out. 
-
-The introduction of this edition gives us a little background about this little-known (at least to me) author:
-
-> John Williams is best known for his novels, <u>Nothing But the Night</u>, <u>Stoner</u> (1965), <u>Butcher’s Crossing</u>, and <u>Augustus</u>, for which he won the National Book Award in 1973. He also published two volumes of verse and edited a classic anthology of English Renaissance poetry. The novels are not only remarkable for their style but also for the diversity of their settings. No two novels are alike except for the clarity of the prose; they could easily pass for the work of four different writers. 

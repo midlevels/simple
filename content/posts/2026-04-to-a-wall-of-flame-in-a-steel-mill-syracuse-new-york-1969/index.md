@@ -2,17 +2,15 @@
 title: 'To a Wall of Flame in a Steel Mill, Syracuse, New York, 1969'
 date: 2026-04-29T13:28:00.000Z
 writer: Larry Levis
-bio: >-
-  Larry Patrick Levis (September 30, 1946 – May 8, 1996) was an American poet
-  and teacher who published five books of poetry during his lifetime. Two more
-  volumes of previously unpublished poems appeared posthumously, and received
-  general acclaim.
 excerpt: "Except under the cool shadows of pines, / \r\nThe snow is already thawing / \r\nAlong this road . . . / \r\nSuch sun, and wind."
 tags:
   - poetry
   - blog
-cover: dollmakers-ghost-t-thumb.webp
-portrait: larry-levis.webp
+bio-larry-levis: >-
+  Larry Patrick Levis (September 30, 1946 – May 8, 1996) was an American poet
+  and teacher who published five books of poetry during his lifetime. Two more
+  volumes of previously unpublished poems appeared posthumously, and received
+  general acclaim.
 ---
 Larry Levis brings raw emotion to his poetry; "To a Wall of Flame in a Steel Mill, Syracuse, New York, 1969" goes from zero to sixty in 3 seconds. Weather and the elements seem to have an agency of their own. We're buffeted from cold blasts on a farm to an smelting plant somewhere, with blasts from a furnace rendering iron into molten goo. I linger on the wall of flame he saw as he ponder's his father's hatred of farm life. Does the poem jolt us awake starting from the fifth line? Sure. Does it dwell on erasure and plunging into a dark river after an encounter with black ice at its culmination? Yes, it does. 
 
