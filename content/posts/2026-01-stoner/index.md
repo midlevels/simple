@@ -9,6 +9,10 @@ tags:
   - reading
   - fiction
 ---
+It's all spoilers below, so get the book and read it. 
+
+I found it engaging, though I have a bit of trouble with the premise some back of the book blurb makes about 'readers worldwide' are coming to a new appreciation of this book.  
+
 William Stoner feels stuck on a family farm, performing the same chores day-in-day-out. Perhaps his parents pick up on this and decide to send him to university to pursue a course in agriculture, which he gladly accepts, though expresses concern about them running the farm without him. They tell him not to worry, it will be tended to. 
 
 After one unusual course in literature with an eccentric prof, Stoner becomes enamored with English literature of the early and medieval era and changes from courses in agriculture to literature courses. 
