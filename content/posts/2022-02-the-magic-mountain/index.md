@@ -2,13 +2,11 @@
 title: The Magic Mountain
 date: 2022-02-16T00:00:00.000Z
 writer: Thomas Mann
-portrait: thomas-mann.webp
 excerpt: The novel's setting is an exclusive tuberculosis sanatorium in the Swiss Alps.
 tags:
   - fiction
   - german
   - reading
-cover: magic-thumb.webp
 ---
 
 With _The Magic Mountain_, [Thomas Mann](https://en.wikipedia.org/wiki/Thomas_Mann) rose to the front ranks of the great novelists. He won the Nobel Prize in Literature in 1929. 

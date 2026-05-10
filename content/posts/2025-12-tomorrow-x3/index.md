@@ -2,7 +2,6 @@
 title: Tomorrow x3
 date: 2025-12-19T00:00:00.000Z
 writer: Gabrielle Zevin
-portrait: gabrielle-zevin.webp
 bio: >-
   Gabrielle Zevin (born October 24, 1977) is an American author and
   screenwriter.
@@ -13,7 +12,6 @@ tags:
   - reading
   - fiction
   - american
-cover: tomorrow-x3-thumb.webp
 ---
 
 A friend's daughter was assigned this book in class (high school) and she recommended it highly, so I figured, ok, I know she's a bright young woman with a dad with good taste in friends, so I read the first free chapters and was hooked.

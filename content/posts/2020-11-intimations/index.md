@@ -18,8 +18,6 @@ tags:
   - british
   - hkbc
   - reading
-cover: intimations-300-md-md-thumb.webp
-portrait: zadie-smith.webp
 ---
 
 Zadie Smith authored _Intimations_, which was published in 2020 amidst the global COVID-19 pandemic. The book reflects on the unprecedented times and offers Smith's observations and reflections on various aspects of life during this period.

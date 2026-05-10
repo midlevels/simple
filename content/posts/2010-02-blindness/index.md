@@ -2,7 +2,6 @@
 title: Blindness
 date: 2010-02-09T00:00:00.000Z
 writer: José Saramago
-portrait: jos-saramago.webp
 bio: >-
   José de Sousa Saramago (16 November 1922 – 18 June 2010) was a Portuguese
   writer. He was the recipient of the 1998 Nobel Prize in Literature for his
@@ -21,7 +20,6 @@ tags:
   - portuguese
   - hkbc
   - reading
-cover: blindness-thumb.jpeg
 ---
 
 José Saramago wrote and published _Blindness_ in 1995. It is a thought-provoking and allegorical story that explores the fragility of humanity and the breakdown of society in the face of an epidemic of sudden blindness.

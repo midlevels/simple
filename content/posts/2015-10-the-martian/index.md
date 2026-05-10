@@ -2,7 +2,6 @@
 title: The Martian
 date: 2015-10-31T00:00:00.000Z
 writer: Andy Weir
-portrait: andy-weir.webp
 bio: >-
   Andy Weir (b. 1972) was born in Davis, California, and grew up in Livermore,
   California. His father, John Weir, was a physicist at Lawrence Livermore
@@ -18,7 +17,6 @@ tags:
   - fiction
   - american
   - reading
-cover: the-martian-thumb.webp
 og_image: og_image.jpg
 ---
 

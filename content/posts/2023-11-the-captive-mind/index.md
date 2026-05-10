@@ -2,7 +2,6 @@
 title: The Captive Mind
 date: 2023-11-19T00:00:00.000Z
 writer: Czesław Miłosz
-portrait: czes-aw-mi-osz.webp
 bio: >-
   Czesław Miłosz (30 June 1911 – 14 August 2004) was a Polish-American poet,
   prose writer, translator, and diplomat. He primarily wrote his poetry in
@@ -20,7 +19,6 @@ tags:
   - history
   - hkbc
   - reading
-cover: the-captive-mind-thumb.webp
 ---
 
 _The Captive Mind_ by [Czesław Miłosz](https://en.wikipedia.org/wiki/Czesław_Miłosz). Essays out of central Europe during the First Cold War by one of Poland's leading intellectuals.

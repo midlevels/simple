@@ -3,8 +3,6 @@ title: Zero K
 date: 2016-05-30T00:00:00.000Z
 og_image: og_image.jpg
 writer: Don DeLillo
-portrait: don-delillo.webp
-cover: zero-thumb.webp
 tags:
   - american
   - fiction

@@ -2,7 +2,6 @@
 title: The Guest House
 date: 2026-04-09T00:00:00.000Z
 writer: Jalaluddin Rumi
-portrait: jalaluddin-rumi.webp
 bio: >-
   Jalāl al-Dīn Muḥammad Rūmī, commonly known as Rumi (30 September 1207 – 17
   December 1273), was a Sufi mystic, poet, and founder of the Islamic
@@ -14,7 +13,6 @@ excerpt: "This being human is a guest house. \r\nEvery morning a new arrival."
 tags:
   - poetry
   - blog
-cover: 2026-04-the-guest-house-rumi-thumb.webp
 ---
 
 Translated by Coleman Barks

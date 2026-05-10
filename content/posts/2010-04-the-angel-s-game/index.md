@@ -2,7 +2,6 @@
 title: The Angel's Game
 date: 2010-04-13T00:00:00.000Z
 writer: Carlos Ruiz Zafón
-portrait: carlos-ruiz-zaf-n.webp
 bio: >-
   Carlos Ruiz Zafón (25 September 1964 – 19 June 2020) was a Spanish novelist
   known for his 2001 novel La sombra del viento (The Shadow of the Wind). The
@@ -17,7 +16,6 @@ tags:
   - hkbc
   - reading
   - fiction
-cover: the-angels-game-thumb.jpeg
 ---
 
 Carlos Ruiz Zafón published _The Angel's Game_ in 2008. It is set in 1920s Barcelona. It is a prequel to Zafón's earlier work, _The Shadow of the Wind_, but can be read as a standalone story. The novel delves into themes of love, obsession, and the blurred lines between reality and fiction.

@@ -2,7 +2,6 @@
 title: The Return
 date: 2023-05-05T00:00:00.000Z
 writer: Hisham Matar
-portrait: hisham-matar.webp
 bio: >-
   Hisham Matar (born 1970) is an American-born British-Libyan novelist,
   essayist, and memoirist. His debut novel In the Country of Men was shortlisted
@@ -17,7 +16,6 @@ tags:
   - history
   - non-fiction
   - reading
-cover: the-return-thumb.webp
 ---
 
 When Hisham Matar was a nineteen-year-old university student in England, his father went missing under mysterious circumstances. Hisham would never see him again, but he never gave up hope that his father might still be alive.

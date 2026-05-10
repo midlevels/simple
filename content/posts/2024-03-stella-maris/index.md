@@ -2,7 +2,6 @@
 title: Stella Maris
 date: 2024-03-10T00:00:00.000Z
 writer: Cormac McCarthy
-portrait: cormac-mccarthy.webp
 bio: >-
   Cormac McCarthy (born Charles Joseph McCarthy Jr.; July 20, 1933 – June 13,
   2023) was an American author who wrote twelve novels, two plays, five
@@ -16,7 +15,6 @@ tags:
   - american
   - fiction
   - reading
-cover: stella-maris.webp
 ---
 
 Cormac McCarthy's final novel pairs with *[The Passenger](/posts/2024-03-the-passenger-by-cormac-mccarthy/)*. It is a dialogue between Bobby Western's sister, Alice, and her psychiatrist. The "action" takes place at a rehab facility named Stella Maris (Star of Mary in Latin). The dialogue becomes listless and bogged down in various philosophical and mathematical issues quickly.

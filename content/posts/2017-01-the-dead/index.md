@@ -2,7 +2,6 @@
 title: The Dead
 date: 2017-01-09T00:00:00.000Z
 writer: James Joyce
-portrait: james-joyce.webp
 bio: >-
   James Augustine Aloysius Joyce (born James Augusta Joyce; 2 February 1882 – 13
   January 1941) was an Irish novelist, poet, and literary critic. He contributed
@@ -19,7 +18,6 @@ tags:
   - short stories
   - hkbc
   - reading
-cover: the-dead-683x1024-1-medium-thumb.webp
 ---
 {% sizing "the-dead-683x1024-1-xl.webp", "60%", "The Dead" %}
 

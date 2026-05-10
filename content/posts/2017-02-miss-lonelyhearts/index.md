@@ -2,7 +2,6 @@
 title: Miss Lonelyhearts
 date: 2017-02-21T00:00:00.000Z
 writer: Nathanael West
-portrait: nathanael-west.webp
 bio: >-
   Nathanael West (born Nathan Weinstein; October 17, 1903 – December 22, 1940)
   was an American writer and screenwriter. He is remembered for two darkly
@@ -16,7 +15,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: miss-thumb.webp
 ---
 
 _Miss Lonelyhearts_ by Nathanael West is set in New York during the Great Depression, a time of economic hardship and social upheaval. Miss Lonelyheart's real name is never revealed. He receives countless letters from individuals seeking guidance and solace in their troubled lives. However, he finds himself unable to offer genuine help or find meaning in the face of the overwhelming suffering he encounters.

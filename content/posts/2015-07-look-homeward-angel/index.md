@@ -19,8 +19,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: homeward-thumb.webp
-portrait: thomas-wolfe.webp
 ---
 
 _Look Homeward, Angel_ is a novel written by Thomas Wolfe and published in 1929. It is a coming-of-age story that follows the protagonist, Eugene Gant, as he grows up in the fictional town of Altamont, North Carolina, during the early 20th century.

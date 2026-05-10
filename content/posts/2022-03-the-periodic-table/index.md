@@ -23,8 +23,6 @@ tags:
   - autobiography
   - hkbc
   - reading
-cover: periodic-table-thumb.webp
-portrait: primo-levi.webp
 ---
 
 Primo Levi's _Periodic Table_ is a group of autobiographical episodes of the author's experiences as a Jewish-Italian doctoral-level chemist under the Fascist regime and afterward. They include various themes that follow a chronological sequence. His ancestry at the start. Then his studies of chemistry and practical use of the studies in wartime Italy.

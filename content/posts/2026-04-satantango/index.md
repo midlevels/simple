@@ -12,8 +12,6 @@ tags:
   - reading
   - fiction
   - hungarian
-cover: satantango-t-thumb.webp
-portrait: l-szl-krasznahorkai.webp
 ---
 
 László Krasznahorkai’s *Satantango* is a bleak, labyrinthine masterpiece that captures the slow-motion collapse of a Hungarian collective farm. The novel is set in a desolate, rain-slicked landscape where the inhabitants are trapped in a state of perpetual decay, waiting for a miracle or a catastrophe. This sense of paralysis and the impending arrival of a "messiah" immediately evokes the shadow of Samuel Beckett. Much like *Waiting for Godot*, the villagers are suspended in an existential void, though Krasznahorkai twists this trope: in Satantango, the "Godot" figures—the manipulative Irimiás and his sidekick Petrina—actually arrive, only to accelerate the village’s descent into ruin.

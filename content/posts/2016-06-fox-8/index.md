@@ -2,8 +2,6 @@
 title: Fox 8
 date: 2016-06-22
 writer: George Saunders
-portrait: george-saunders.webp
-cover: fox-thumb.webp
 tags:
   - short stories
   - american

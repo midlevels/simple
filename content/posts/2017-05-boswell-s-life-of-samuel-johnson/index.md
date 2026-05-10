@@ -2,7 +2,6 @@
 title: Boswell's Life of Samuel Johnson
 date: 2017-05-10T00:00:00.000Z
 writer: James Boswell
-portrait: james-boswell.webp
 bio: >-
   James Boswell, 9th Laird of Auchinleck (29 October 1740 – 19 May 1795), was a
   Scottish biographer, diarist, and lawyer, born in Edinburgh. He is best known
@@ -19,7 +18,6 @@ tags:
   - british
   - non-fiction
   - reading
-cover: johnson-thumb.webp
 ---
 
 _The Life of Samuel Johnson_ is a biography written by James Boswell and published in 1791. It is a comprehensive and influential account of the life of one of the most prominent figures in 18th-century English literature, Samuel Johnson.

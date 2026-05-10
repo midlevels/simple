@@ -3,8 +3,6 @@ title: Cowboy Graves
 date: 2021-03-09
 og_image: og_image.jpg
 writer: Roberto Bolaño
-portrait: roberto-bola-o.webp
-cover: cowboy-thumb.webp
 tags:
   - short stories
   - fiction

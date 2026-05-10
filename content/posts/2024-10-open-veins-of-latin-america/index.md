@@ -2,7 +2,6 @@
 title: Open Veins of Latin America
 date: 2024-10-01T00:00:00.000Z
 writer: Eduardo Galeano
-portrait: eduardo-galeano.webp
 bio: >-
   Eduardo Germán María Hughes Galeano (3 September 1940 – 13 April 2015) was a
   Uruguayan journalist, writer and novelist considered, among other things, "a
@@ -14,7 +13,6 @@ tags:
   - essays
   - reading
   - uruguayan
-cover: open-veins-thumb.webp
 og_image: og_image.jpg
 ---
 

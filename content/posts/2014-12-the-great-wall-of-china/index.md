@@ -2,7 +2,6 @@
 title: The Great Wall of China
 date: 2014-12-16T00:00:00.000Z
 writer: Franz Kafka
-portrait: franz-kafka.webp
 bio: >-
   Franz Kafka (3 July 1883 – 3 June 1924) was a German-language Jewish Czech
   writer and novelist born in Prague, in the Austro-Hungarian Empire. Widely
@@ -22,7 +21,6 @@ tags:
   - short stories
   - czech
   - fiction
-cover: wall-thumb.webp
 ---
 
 "The Great Wall of China" is a short story written by Franz Kafka. It is a fictional account that explores the construction and purpose of the Great Wall, employing allegory and philosophical themes.

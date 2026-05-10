@@ -1,13 +1,11 @@
 ---
 title: The Pole
 date: 2023-10-17
-cover: the-pole.jpeg
 tags:
   - fiction
   - south-african
   - reading
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
 excerpt: A Polish pianist with an unpronounceable last name (let's call him W) comes to give a recital in Barcelona.
 ---
 

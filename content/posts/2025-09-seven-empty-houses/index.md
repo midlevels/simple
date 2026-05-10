@@ -18,9 +18,7 @@ tags:
   - fiction
   - short stories
   - argentinian
-cover: seven-empty-houses.webp
 og_image: og_image.jpg
-portrait: samanta-schweblin.webp
 ---
 
 The seven stories and seven houses, as in Samanta Schweblin's short story collection's title, are likely linked, though on my first reading, I'm not inclined to make more than that surface connection. 

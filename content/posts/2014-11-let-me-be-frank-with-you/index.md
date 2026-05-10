@@ -2,8 +2,6 @@
 title: Let Me Be Frank With You
 date: 2014-11-05
 writer: Richard Ford
-portrait: richard-ford.webp
-cover: frank-thumb.webp
 tags:
   - fiction
   - american

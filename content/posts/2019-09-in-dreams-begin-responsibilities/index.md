@@ -13,8 +13,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: dreams-thumb.webp
-portrait: delmore-schwartz.webp
 ---
 
 Readers as diverse as TS Eliot and Lou Reed appreciated Delmore Schwartz's story _In Dreams Begin Responsibilities_.

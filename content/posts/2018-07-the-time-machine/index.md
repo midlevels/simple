@@ -2,7 +2,6 @@
 title: The Time Machine
 date: 2018-07-24T00:00:00.000Z
 writer: H.G. Wells
-portrait: h-g-wells.webp
 bio: >-
   Herbert George Wells (21 September 1866 – 13 August 1946) was an English
   writer, prolific in many genres. He wrote more than forty novels and dozens of
@@ -18,7 +17,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: the-time-machine-624x1024-1-thumb.webp
 ---
 
 _The Time Machine_ is a classic science fiction novel by H.G. Wells and published in 1895. It tells the story of an unnamed Time Traveller who invents a machine capable of traveling through time. The novel explores themes of social class, evolution, and the possible future of humanity.

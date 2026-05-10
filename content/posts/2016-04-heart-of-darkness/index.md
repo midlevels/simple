@@ -2,7 +2,6 @@
 title: Heart of Darkness
 date: 2016-04-26T00:00:00.000Z
 writer: Joseph Conrad
-portrait: joseph-conrad.webp
 bio: >-
   Joseph Conrad (3 December 1857 – 3 August 1924) was a Polish-British novelist
   and story writer. He is regarded as one of the greatest writers in the English
@@ -17,7 +16,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: heart-thumb.webp
 ---
 
 _Heart of Darkness_ is a novella written by Joseph Conrad and published in 1899. The story follows Charles Marlow, a sailor and narrator, as he recounts his journey into the heart of Africa to find the enigmatic ivory trader Kurtz.

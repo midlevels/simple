@@ -2,7 +2,6 @@
 title: Oranges
 date: 2022-08-13T00:00:00.000Z
 writer: John McPhee
-portrait: john-mcphee.webp
 bio: >-
   John Angus McPhee (born March 8, 1931) is an American author. He is considered
   one of the pioneers of creative nonfiction. He is a four-time finalist for the
@@ -21,7 +20,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: oranges-thumb.jpeg
 og_image: og_image.jpg
 ---
 

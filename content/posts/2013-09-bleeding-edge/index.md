@@ -2,8 +2,6 @@
 title: Bleeding Edge
 date: 2013-09-16
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
-cover: bleeding-thumb.webp
 tags:
   - fiction
   - american

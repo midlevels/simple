@@ -2,7 +2,6 @@
 title: Emma
 date: 2022-11-29T00:00:00.000Z
 writer: Jane Austen
-portrait: jane-austen.webp
 bio: >-
   Jane Austen (16 December 1775 – 18 July 1817) was an English writer known
   primarily for her six novels, which implicitly interpret, critique, and
@@ -20,7 +19,6 @@ tags:
   - british
   - fiction
   - reading
-cover: emma-thumb.webp
 ---
 
 Characters in _Emma_ by Jane Austen have many prejudices that Austen challenges the reader to find rather than state them. Set in the fictional country village of Highbury, the novel involves the relationships among people from a small number of families.

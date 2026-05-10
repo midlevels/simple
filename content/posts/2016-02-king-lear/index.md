@@ -3,8 +3,6 @@ title: King Lear
 date: 2016-02-23T00:00:00.000Z
 og_image: og_image.jpg
 writer: William Shakespeare
-portrait: william-shakespeare.webp
-cover: lear-thumb.webp
 tags:
   - drama
   - hkbc

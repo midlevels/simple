@@ -7,7 +7,6 @@ excerpt: >-
 tags:
   - blog
 draft: true
-cover: cloudy-sky.webp
 og_image: og_image.jpg
 ---
 {% figure "images/bw-clouds.webp", "B&W Sunrise", "full" %}

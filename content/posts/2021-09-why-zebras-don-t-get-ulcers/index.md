@@ -18,8 +18,6 @@ tags:
   - american
   - science
   - reading
-cover: zebras-thumb.webp
-portrait: robert-m-sapolsky.webp
 ---
 
 Now in a third edition, Robert M. Sapolsky's acclaimed and successful _Why Zebras Don't Get Ulcers_ features new chapters on how stress affects sleep and addiction. It also includes new insights into anxiety and personality disorder and the impact of spirituality on managing stress.

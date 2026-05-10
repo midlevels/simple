@@ -2,7 +2,6 @@
 title: Olive Kitteridge
 date: 2010-01-12T00:00:00.000Z
 writer: Elizabeth Strout
-portrait: elizabeth-strout.webp
 bio: >-
   Elizabeth Strout (born January 6, 1956) is an American novelist and author.
   She is widely known for her works in literary fiction and her descriptive
@@ -14,7 +13,6 @@ tags:
   - fiction
   - american
   - reading
-cover: olive-kitteridge-thumb.webp
 ---
 
 Elizabeth Strout wrote _Olive Kitteridge_ in 2008. It is a collection of interconnected stories that revolve around the complex and often prickly character of Olive Kitteridge. Olive is a retired schoolteacher living in the small coastal town of Crosby, Maine.

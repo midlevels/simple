@@ -2,7 +2,6 @@
 title: New Yorker Hiroshima Issue
 date: 2023-11-26
 og_image: og_image.jpg
-cover: new-yorker-thumb.webp
 tags:
   - history
   - blog

@@ -2,13 +2,11 @@
 title: The Lives of Animals
 date: 2023-05-07T00:00:00.000Z
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
 excerpt: A work tha explores the moral and ethical dimensions of animal suffering.
 tags:
   - fiction
   - south-african
   - reading
-cover: the-lives-thumb.webp
 ---
 
 In _The Lives of Animals_, the idea of cruelty to animals consumes novelist Elizabeth Costello. She can no longer look another person in the eye. Humans, especially meat-eating ones, seem to her to be conspirators in a crime of stupefying magnitude. And it's taking place on farms and in slaughterhouses, factories, and laboratories across the world.

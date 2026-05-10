@@ -2,7 +2,6 @@
 title: The Wager
 date: 2025-01-24T00:00:00.000Z
 writer: David Grann
-portrait: david-grann.webp
 bio: >-
   David Elliot Grann (born March 10, 1967) is an American journalist, a staff
   writer for The New Yorker, and author.
@@ -11,7 +10,6 @@ tags:
   - non-fiction
   - american
   - reading
-cover: the-wager-tn.webp
 og_image: og_image.jpg
 ---
 

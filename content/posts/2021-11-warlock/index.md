@@ -14,8 +14,6 @@ tags:
   - american
   - fiction
   - reading
-cover: warlock-thumb.jpeg
-portrait: oakley-hall.webp
 ---
 
 via Thomas Pynchon's intro:

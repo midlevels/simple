@@ -15,8 +15,6 @@ tags:
   - non-fiction
   - reading
   - travel writing
-cover: in-xanadu-thumb.webp
-portrait: william-dalrymple.webp
 ---
 
 A travel adventure to commemorate Marco Polo's journey along the Silk Road, Scottish historian (Cambridge student at the time he took this journey), William Dalrymple, uses older historic narratives and maps to help guide him and fellow travelers from the Holy Land to Xanadu (Shan-tu, just north of Beijing). 

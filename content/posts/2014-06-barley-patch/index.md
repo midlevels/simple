@@ -2,7 +2,6 @@
 title: Barley Patch
 date: 2014-06-23
 writer: Gerald Murnane
-cover: barley-thumb.webp
 tags:
   - fiction
   - australian

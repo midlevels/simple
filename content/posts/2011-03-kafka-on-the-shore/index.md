@@ -3,8 +3,6 @@ title: Kafka on the Shore
 date: 2011-03-23T00:00:00.000Z
 og_image: og_image.jpg
 writer: Haruki Murakami
-portrait: haruki-murakami.webp
-cover: kafka-thumb.webp
 tags:
   - fiction
   - japanese

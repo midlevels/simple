@@ -13,8 +13,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: the-conservationist-thumb.webp
-portrait: nadine-gordimer.webp
 og_image: og_image.jpg
 ---
 

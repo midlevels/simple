@@ -19,8 +19,6 @@ tags:
   - hkbc
   - reading
   - short stories
-cover: the-bear-thumb.webp
-portrait: william-faulkner.webp
 ---
 
 *The Bear* follows a young boy named Isaac McCaslin, who goes on numerous hunting trips into the wilderness with his uncle and other men. During these excursions, they come across a bear named Old Ben who has been killing and eating livestock from local farms.

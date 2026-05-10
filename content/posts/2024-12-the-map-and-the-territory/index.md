@@ -2,7 +2,6 @@
 title: The Map and the Territory
 date: 2024-12-16T00:00:00.000Z
 writer: Michel Houellebecq
-portrait: michel-houellebecq.webp
 bio: >-
   Michel Houellebecq (born Michel Thomas on 26 February 1956) is a French author
   of novels, poems, and essays, as well as an occasional actor, filmmaker, and
@@ -16,7 +15,6 @@ tags:
   - fiction
   - french
   - reading
-cover: the-map-and-the-territory-lg.webp
 ---
 
 The pretentiousness of the contemporary art world is just one of the targets in Michel Houellebecq's The Map and the Territory. The protagonist, Jed Martin, is a talented painter and photographer who rises to fame in the art world, which he is largely indifferent to. 

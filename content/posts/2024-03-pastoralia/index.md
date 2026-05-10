@@ -2,7 +2,6 @@
 title: Pastoralia
 date: 2024-03-19T00:00:00.000Z
 writer: George Saunders
-portrait: george-saunders.webp
 tags:
   - hkbc
   - reading
@@ -11,7 +10,6 @@ tags:
 excerpt: >-
   My favorite collection of Saunders' short stories until Tenth of December came
   out.
-cover: pastoralia.jpeg
 ---
 
 George Saunders published _Pastoralia_ in 2000. The collection consists of six stories, each exploring themes of consumerism, capitalism, and the complexities of human relationships.

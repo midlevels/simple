@@ -2,7 +2,6 @@
 title: Trainspotting
 date: 2016-08-23T00:00:00.000Z
 writer: Irvine Welsh
-portrait: irvine-welsh.webp
 bio: >-
   Irvine Welsh (born 27 September 1958) is a Scottish novelist, short story
   writer, screenwriter and filmmaker. His novels and short stories, which almost
@@ -19,7 +18,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: trainspotting-thumb.webp
 og_image: og_image.jpg
 ---
 

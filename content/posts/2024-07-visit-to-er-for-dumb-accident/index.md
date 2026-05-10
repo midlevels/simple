@@ -1,7 +1,6 @@
 ---
 title: Visit to ER for dumb accident
 date: 2024-07-18
-cover: quiet-earth-thumb.webp
 tags:
   - blog
 excerpt: Bruised, not broken, foot.

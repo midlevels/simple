@@ -15,8 +15,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: mrs-dalloway-thumb.jpeg
-portrait: virginia-woolf.webp
 ---
 
 Virginia Woolf wrote _Mrs. Dalloway_ in 1925. Set in London in the early 20th century, the story takes place over a single day. It follows the thoughts and experiences of various characters.

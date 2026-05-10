@@ -2,7 +2,6 @@
 title: The Box Man
 date: 2023-02-13T00:00:00.000Z
 writer: Kobo Abe
-portrait: kobo-abe.webp
 bio: >-
   Kimifusa Abe (安部 公房, Abe Kimifusa; March 7, 1924 – January 22, 1993), known by
   his pen name Kōbō Abe (安部 公房, Abe Kōbō), was a Japanese writer, playwright and
@@ -17,7 +16,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: the-box-man-655x1024-1-thumb.webp
 ---
 
 _The Box Man_ is one of [Kobo Abe](https://en.wikipedia.org/wiki/Kōbō_Abe)'s more abstruse and obscure novels. Best known as the author of *The Woman in the Dunes*, Abe combines wildly imaginative fantasies and naturalistic prose to create narratives reminiscent of the work of Kafka and Beckett.

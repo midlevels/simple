@@ -2,7 +2,6 @@
 title: Desert Queen
 date: 2014-08-25T00:00:00.000Z
 writer: Janet Wallach
-portrait: janet-wallach.webp
 bio: >-
   Janet Wallach (born May 4, 1942 Brooklyn) is an American writer. She is
   President Emerita of Seeds of Peace.
@@ -14,7 +13,6 @@ tags:
   - history
   - hkbc
   - reading
-cover: queen-thumb.webp
 ---
 
 _Desert Queen: The Extraordinary Life of Gertrude Bell_ is a biography written by Janet Wallach that explores the remarkable life of Gertrude Bell. She was an influential British traveler, writer, archaeologist, and political figure of the early 20th century.

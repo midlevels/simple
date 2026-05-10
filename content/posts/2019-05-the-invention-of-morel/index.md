@@ -2,7 +2,6 @@
 title: The Invention of Morel
 date: 2019-05-20T00:00:00.000Z
 writer: Adolfo Bioy Casares
-portrait: adolfo-bioy-casares.webp
 bio: >-
   Adolfo Bioy Casares (15 September 1914 – 8 March 1999) was an Argentine
   fiction writer, journalist, diarist, and translator. He was a friend and
@@ -15,7 +14,6 @@ tags:
   - fiction
   - reading
   - argentinian
-cover: the-invention-of-morel-thumb.webp
 ---
 {% figure "images/the-invention-of-morel.webp", "The Invention of Morel" %}
 

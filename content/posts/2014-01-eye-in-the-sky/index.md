@@ -2,8 +2,6 @@
 title: Eye in the Sky
 date: 2014-01-12
 writer: Philip K. Dick
-portrait: philip-k-dick.webp
-cover: eye-thumb.webp
 tags:
   - american
   - fiction

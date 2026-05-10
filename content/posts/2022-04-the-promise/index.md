@@ -2,7 +2,6 @@
 title: The Promise
 date: 2022-04-23T00:00:00.000Z
 writer: Damon Galgut
-portrait: damon-galgut.webp
 bio: >-
   Damon Galgut (born 12 November 1963) is a South African novelist and
   playwright. He was awarded the 2021 Booker Prize for his novel The Promise,
@@ -15,7 +14,6 @@ tags:
   - hkbc
   - reading
   - south-african
-cover: the-promise-thumb.webp
 ---
 
 Damon Galgut wrote _The Promise,_ which was published in 2021. Set in South Africa, the story revolves around a family and their struggles with identity, secrets, and the legacy of apartheid.

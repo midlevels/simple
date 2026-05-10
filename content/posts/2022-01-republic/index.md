@@ -17,8 +17,6 @@ tags:
   - philosophy
   - non-fiction
   - reading
-cover: plato-thumb.jpeg
-portrait: plato.webp
 ---
 
 The revised edition of Grube's classic translation of _Plato's Republic_ follows and furthers Grube's noted success in combining fidelity to Plato’s text with natural readability while reflecting the fruits of new scholarship and insights into Plato's thought since the publication of the first edition in 1974.

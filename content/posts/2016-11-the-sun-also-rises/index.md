@@ -2,7 +2,6 @@
 title: The Sun Also Rises
 date: 2016-11-29T00:00:00.000Z
 writer: Ernest Hemingway
-portrait: ernest-hemingway.webp
 bio: >-
   Ernest Miller Hemingway (July 21, 1899 – July 2, 1961) was an American
   novelist, short-story writer, and journalist. Known for an economical,
@@ -18,7 +17,6 @@ tags:
   - fiction
   - american
   - reading
-cover: sun-thumb.jpeg
 ---
 
 Jake Barnes, a journalist and World War I veteran narrates _The Sun Also Rises_. He is impotent due to a war injury. Jake is in love with Lady Brett Ashley, a beautiful and independent woman. Ashley and Robert Cohn (writer and former amateur boxer) are in a tumultuous relationship. The characters are part of a circle of expats living in Paris. They seek to escape the emptiness and disillusionment of post-war society.

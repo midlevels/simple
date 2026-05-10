@@ -2,8 +2,6 @@
 title: Vineland
 date: 2014-05-19
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
-cover: vineland-thumb.webp
 tags:
   - american
   - fiction

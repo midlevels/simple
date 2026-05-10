@@ -2,8 +2,6 @@
 title: Lucy By the Sea
 date: 2023-05-18
 writer: Elizabeth Strout
-portrait: elizabeth-strout.webp
-cover: lucy-thumb.jpeg
 tags:
   - american
   - fiction

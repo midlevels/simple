@@ -2,7 +2,6 @@
 title: The Colossus of Maroussi
 date: 2014-12-17T00:00:00.000Z
 writer: Henry Miller
-portrait: henry-miller.webp
 bio: >-
   Henry Valentine Miller (December 26, 1891 – June 7, 1980) was an American
   novelist, short story writer and essayist. He broke with existing literary
@@ -23,7 +22,6 @@ tags:
   - travel writing
   - hkbc
   - reading
-cover: colossus-thumb.webp
 og_image: og_image.jpg
 ---
 

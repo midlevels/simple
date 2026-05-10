@@ -2,8 +2,6 @@
 title: Blood Meridian
 date: 2012-12-11T00:00:00.000Z
 writer: Cormac McCarthy
-portrait: cormac-mccarthy.webp
-cover: blood-meridian-thumb.jpeg
 tags:
   - american
   - fiction

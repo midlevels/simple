@@ -14,8 +14,6 @@ tags:
   - hkbc
   - reading
   - british
-cover: the-horses-mouth-thumb.jpeg
-portrait: joyce-cary.webp
 ---
 
 *The Horse's Mouth* is a novel written by Joyce Cary and published in 1944, centering on the compelling character of Gulley Jimson. An unconventional artist, Gulley is larger-than-life and tirelessly pursues his passion for art, reflecting the complexities and chaos of the art world.

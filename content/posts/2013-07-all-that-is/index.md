@@ -2,7 +2,6 @@
 title: All That Is
 date: 2013-07-06T00:00:00.000Z
 writer: James Salter
-portrait: james-salter.webp
 bio: >-
   James Arnold Horowitz (June 10, 1925 – June 19, 2015), better known as James
   Salter, his pen name and later-adopted legal name, was an American novelist
@@ -16,7 +15,6 @@ tags:
   - fiction
   - reading
   - american
-cover: all-that-is-thumb.webp
 ---
 
 _All That Is_ is a novel written by James Salter and published in 2013. The story follows Philip Bowman, a book editor, as he navigates the landscape of love and the world of publishing. The novel runs from the end of World War II through the latter half of the 20th century.

@@ -2,8 +2,6 @@
 title: Flying to America
 date: 2019-05-03
 writer: Donald Barthelme
-portrait: donald-barthelme.webp
-cover: flying-thumb.webp
 tags:
   - american
   - short stories

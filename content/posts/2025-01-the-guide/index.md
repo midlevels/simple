@@ -3,13 +3,11 @@ title: The Guide
 date: 2025-01-13
 og_image: og_image.jpg
 writer: R.K. Narayan
-portrait: r-k-narayan.webp
 tags:
   - fiction
   - indian
   - reading
 excerpt: A young man falls for a dancer and in promoting her falls into debt, and finally prison. The novel starts with his release from prison. 
-cover: the-guide-tn.webp
 ---
 
 The Guide follows the life of Raju, a charming and ambitious young man who starts as a tour guide in the fictional town of Malgudi (Narayan has written many stories set in Malgudi). Raju's life takes a turn when he meets Rosie, a talented dancer married to the wealthy but neglectful archaeologist, whom Raju gives the name Marco after a well-known adventurer. Captivated by her passion and beauty, Raju becomes romantically involved with Rosie, leading to her decision to leave Marco. Together, they pursue her dancing career, with Raju managing her performances and helping her gain recognition.

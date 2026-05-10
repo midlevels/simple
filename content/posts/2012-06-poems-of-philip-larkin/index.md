@@ -20,8 +20,6 @@ tags:
   - hkbc
   - reading
   - british
-cover: poems-larkin-thumb.jpeg
-portrait: philip-larkin.webp
 ---
 
 _The Poems of Philip Larkin_ show him to be one known for his introspective and often pessimistic view of the world. Here is a summary of some of his notable poems:

@@ -2,7 +2,6 @@
 title: Hitch-22
 date: 2025-03-08T00:00:00.000Z
 writer: Christopher Hitchens
-portrait: christopher-hitchens.webp
 bio: >-
   Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was a British and
   American author and journalist. Known as one of the "Four Horsemen" of New
@@ -18,7 +17,6 @@ tags:
   - autobiography
   - non-fiction
   - reading
-cover: hitch-22-tn.webp
 og_image: og_image.jpg
 ---
 

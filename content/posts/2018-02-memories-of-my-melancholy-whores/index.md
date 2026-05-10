@@ -2,7 +2,6 @@
 title: Memories of My Melancholy Whores
 date: 2018-02-20T00:00:00.000Z
 writer: Gabriel Garcia Márquez
-portrait: gabriel-garcia-m-rquez.webp
 bio: >-
   Gabriel José García Márquez (6 March 1927 – 17 April 2014) was a Colombian
   writer and journalist, known affectionately as Gabo or Gabito throughout Latin
@@ -20,7 +19,6 @@ tags:
   - colombian
   - hkbc
   - reading
-cover: memories-t-thumb.webp
 ---
 
 _Memories of My Melancholy Whores_ (Spanish: Memoria de mis putas tristes) is a novella by Gabriel García Márquez. The book was originally published in Spanish in 2004, with an English translation by Edith Grossman published in October 2005. The proper translation of the title would be 'memory of my sad whores.' 'Melancholy' is a word whose meaning is far more intricate than Spanish triste. And Spanish triste translates best to the English adjective sad.

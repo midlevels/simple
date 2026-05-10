@@ -2,7 +2,6 @@
 title: Rhinoceros
 date: 2017-06-27T00:00:00.000Z
 writer: Eugene Ionesco
-portrait: eugene-ionesco.webp
 bio: >-
   Eugène Ionesco (/26 November 1909 – 28 March 1994) was a Romanian-French
   playwright who wrote mostly in French, and was one of the foremost figures of
@@ -23,7 +22,6 @@ tags:
   - hkbc
   - reading
   - fiction
-cover: rhino-thumb.webp
 ---
 
 Rhinoceros is a play by Eugène Ionesco, written in 1959. Throughout three acts, the inhabitants of a provincial French town turn into rhinoceroses. Ultimately the only human who does not succumb to this mass metamorphosis is the central character, Bérenger. Bérenger is a flustered everyman figure.

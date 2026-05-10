@@ -8,8 +8,6 @@ tags:
   - essays
 excerpt: Essay collection by the author of Killers of the Flower Moon.
 writer: David Grann
-portrait: david-grann.webp
-cover: devil-and-sherlock-holmes.webp
 ---
 
 _The Devil & Sherlock Holmes: Tales of Murder, Madness & Obsession_ is a collection of essays by David Grann, who known for writing _Killers of the Flower Moon_. They are all true tales (some solved, others less so), and the featured essay is my favorite, as I've been a fan of the great detective from a young age. Watched all the PBS episodes with my family and when they were only part way through, borrowed my father's collection of the _Complete Tales of Sherlock Holmes_ (or something like that title) and ploughed through that in a wee, or two nearly non-stop one summer.

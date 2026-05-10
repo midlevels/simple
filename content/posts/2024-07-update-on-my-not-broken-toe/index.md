@@ -5,7 +5,6 @@ artist: John William Waterhouse
 excerpt: 'Good Progress / Watching new Netflix series, The Decameron'
 tags:
   - blog
-cover: decameron-thumb.webp
 ---
 So a week and a day following my x-ray and [visit to the doc](/posts/2024-07-visit-to-er-for-dumb-accident/) about what I had thought was a broken toe, I am on the path to feeling much better. The pain has diminished to a tiny fraction of the initial days and the color has returned to a normal pink.
 

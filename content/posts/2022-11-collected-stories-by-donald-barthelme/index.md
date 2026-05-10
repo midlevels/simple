@@ -2,7 +2,6 @@
 title: Collected Stories by Donald Barthelme
 date: 2022-11-01T00:00:00.000Z
 writer: Donald Barthelme
-portrait: donald-barthelme.webp
 bio: >-
   Donald Barthelme Jr. (April 7, 1931 – July 23, 1989) was an American short
   story writer and novelist known for his playful, postmodernist style of short
@@ -23,7 +22,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: barthelme-stories-thumb.jpeg
 ---
 
 _Stories by Donald Barthelme_, revered by the likes of Thomas Pynchon and George Saunders, are gems of invention. _Collected Stories_ also includes the work that appeared for the first time in Barthelme's two retrospective anthologies, _Sixty_ and _Forty_. Jaded readers who already own those collections will find new stories here. Boy, will that irk them.

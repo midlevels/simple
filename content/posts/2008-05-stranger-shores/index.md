@@ -2,7 +2,6 @@
 title: Stranger Shores
 date: 2008-05-05
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
 # artist: Name
 tags:
   - south-african
@@ -11,7 +10,6 @@ tags:
   - reading
 excerpt: Two time Booker Prize winner turns his gaze on those who have influenced his work.
 # og_image: (600x315)
-cover: stranger-shores.webp
 ---
 
 Two-time Booker Prize-winner J. M. Coetzee is one of the world's greatest novelists and in Stranger Shores he turns his gaze on those who have influenced him. This thought-provoking collection gathers twenty-six of his essays on books and writing. In his opening piece, "What Is a Classic?", Coetzee asks, "What does it mean in living terms to say that the classic is what survives?" He explores the answer by way of T. S. Eliot, Johann Sebastian Bach, and Zbigniew Herbert. Coetzee goes on to discuss eighteenth- and nineteenth-century authors such as Defoe and Turgenev, the German modernists such as Rilke, Kafka, and Musil, and the giants of late-twentieth-century literature, among them Brodsky, Gordimer, Rushdie, and Lessing.

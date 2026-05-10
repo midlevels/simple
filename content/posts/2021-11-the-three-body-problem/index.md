@@ -2,7 +2,6 @@
 title: The Three Body Problem
 date: 2021-11-06T00:00:00.000Z
 writer: Cixin Liu
-portrait: cixin-liu.webp
 bio: >-
   Liu Cixin (Chinese: 刘慈欣; pinyin: Liú Cíxīn; born 23 June 1963) is a Chinese
   computer engineer and science fiction writer. In English translations of his
@@ -24,7 +23,6 @@ tags:
   - hkbc
   - reading
   - china
-cover: three-body-problem-thumb.webp
 ---
 
 Chinese author Liu Cixin wrote _The Three-Body Problem_, which was published in 2008. It is the first book in the "Remembrance of Earth's Past" trilogy. The story weaves together elements of physics, politics, and human nature, taking readers on a journey that spans both time and space.

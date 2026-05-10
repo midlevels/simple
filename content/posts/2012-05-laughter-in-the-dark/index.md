@@ -14,8 +14,6 @@ tags:
   - russian
   - hkbc
   - reading
-cover: laughter-in-the-dark-thumb.jpeg
-portrait: vladimir-nabokov.webp
 ---
 
 Vladimir Nabokov wrote and published _Laughter in the Dark_ in 1932. The story follows the life of Albinus, a middle-aged art critic who becomes infatuated with a young aspiring actress, Margot.

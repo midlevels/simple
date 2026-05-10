@@ -2,7 +2,6 @@
 title: Time's Arrow
 date: 2020-01-21T00:00:00.000Z
 writer: Martin Amis
-portrait: martin-amis.webp
 bio: >-
   Sir Martin Louis Amis (25 August 1949 – 19 May 2023) was an English novelist,
   essayist, memoirist, screenwriter and critic. He is best known for his novels
@@ -17,7 +16,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: times-arrow-thumb.webp
 ---
 
 Doctor Friendly has just died, but he moves “out of blackest sleep” to find himself surrounded by doctors and on the deathbed of a man in whose body he is imprisoned. After weeks of improving in the hospital, he is sent home to his affable, melting-pot, primary-colors existence in suburban America.

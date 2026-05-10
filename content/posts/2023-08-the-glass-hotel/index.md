@@ -2,7 +2,6 @@
 title: The Glass Hotel
 date: 2023-08-07T00:00:00.000Z
 writer: Emily St. John Mandel
-portrait: emily-st-john-mandel.webp
 bio: >-
   Emily St. John Mandel (née Fairbanks; born 1979) is a Canadian novelist and
   essayist. She has written six novels as of April 2026, including Station
@@ -19,7 +18,6 @@ tags:
   - fiction
   - canadian
   - reading
-cover: the-glass-hotel.jpeg
 ---
 
 Vincent is a bartender at the Glass Hotel, or as it's first called, Hotel Caiette. It's a five-star lodging on the northernmost tip of Vancouver Island. On the night she meets Alkaitis, a hooded figure scrawls a message on the lobby's glass wall. It reads "_Why don’t you swallow broken glass_?"

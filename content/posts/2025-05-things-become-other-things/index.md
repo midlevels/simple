@@ -2,7 +2,6 @@
 title: Things Become Other Things
 date: 2025-05-14T00:00:00.000Z
 writer: Craig Mod
-portrait: craig-mod.webp
 excerpt: >-
   The walk and the environs are the stage settings for the people Mod
   encounters, who share this forgotten land south of Nara - the Kii peninsula.
@@ -11,7 +10,6 @@ tags:
   - reading
   - travel writing
   - japan
-cover: featured.webp
 og_image: og_image.jpg
 ---
 This is a great book to own in its physical form, as numerous photos are interspersed throughout the essays on the natural beauty of Japan's Kii Peninsula and its disappearing villages and life. 

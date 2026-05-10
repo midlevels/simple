@@ -14,8 +14,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: canticle-thumb.webp
-portrait: walter-m-miller-jr.webp
 ---
 
 _A Canticle for Leibowitz_ is a post-apocalyptic science fiction novel by American writer Walter M. Miller Jr., first published in 1959. Set in a Catholic monastery in the desert of the southwestern United States after a devastating nuclear war, the book spans thousands of years as civilization rebuilds itself. The monks of the Albertian Order of Leibowitz preserve the surviving remnants of man's scientific knowledge until the world is again ready for it.  (wikipedia)

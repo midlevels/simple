@@ -2,7 +2,6 @@
 title: To Set Prometheus Free
 date: 2015-11-24T00:00:00.000Z
 writer: Anthony Grayling
-portrait: anthony-grayling.webp
 bio: >-
   Anthony Clifford Grayling (born 3 April 1949) is a British philosopher and
   author. He was born in Northern Rhodesia (now Zambia) and spent most of his
@@ -16,7 +15,6 @@ tags:
   - non-fiction
   - hkbc
   - reading
-cover: prometheus-thumb.webp
 ---
 In 2007 [Anthony Grayling](https://en.wikipedia.org/wiki/A._C._Grayling) (Wikipedia bio) wrote _Against All Gods,_ a collection of polemical essays attacking religion. In _To Set Prometheus Free_ he develops those themes more comprehensively. He unpacks the claims and arguments of religious apologists. He summarizes the views of his fellow secularist Bertrand Russell. In particular, he details the controversy over 'Intelligent Design' and outlines his personal, naturalistic worldview.
 

@@ -19,8 +19,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: william-gass.webp
-portrait: william-h-gass.webp
 ---
 
 Initial thoughts on just beginning to read this brief work: I've never read William H. Gass and somehow confused him with German writer and Nobel laureate Günter Grass. Perhaps this confusion emerged when I picked up Gass's Tunnell at the library one day and it seemed to be about World War II. Regardless, I began reading this narrated piece by a lonely man stuck in small-town Indiana; he is filled with acerbic descriptions of a world fading away, but who at times soars in his sentences to moments of beautiful realization. He is alone but for a few similarly aging neighbors with whom he seems to have bifurcated opinions. His thoughts are often contradictory, mirroring personas the way Gollum and Smeagol shift, but he manages to keep things more intact and there is no ring or great conquests ahead of him. His cat, Tick, aptly named as a moment is his companion and he is counting his days, hours, minutes, etc. by the passing weather, by flights of starlings, by neighbors who knock at his door, by the dust in shafts of light. So far it is a strangely affecting work.

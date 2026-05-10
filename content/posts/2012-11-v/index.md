@@ -2,8 +2,6 @@
 title: V.
 date: 2012-11-03
 writer: Thomas Pynchon
-portrait: thomas-pynchon.webp
-cover: v-thumb.webp
 tags:
   - fiction
   - american

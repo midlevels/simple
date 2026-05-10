@@ -16,8 +16,6 @@ tags:
   - non-fiction
   - hkbc
   - reading
-cover: contest-thumb.webp
-portrait: aaron-friedberg.webp
 ---
 
 _A Contest for Supremacy_ examines the socioeconomic forces at play in US-China relations. I do not share the author's conclusion, but it's an engaging book.

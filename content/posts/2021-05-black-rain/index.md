@@ -2,7 +2,6 @@
 title: Black Rain
 date: 2021-05-04T00:00:00.000Z
 writer: Masuji Ibuse
-portrait: masuji-ibuse.webp
 bio: >-
   Masuji Ibuse (井伏 鱒二, Ibuse Masuji; 15 February 1898 – 10 July 1993) was a
   Japanese author. His novel Black Rain, about the bombing of Hiroshima, was
@@ -14,7 +13,6 @@ tags:
   - japanese
   - fiction
   - reading
-cover: black-thumb.webp
 ---
 
 _Black Rain_ (黒い雨, Kuroi Ame) is a novel by Japanese author Masuji Ibuse. Ibuse began serializing Black Rain in the magazine Shincho in January 1965. The novel is based on historical records of the devastation caused by the atomic bombing of Hiroshima.

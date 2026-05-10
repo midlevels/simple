@@ -2,7 +2,6 @@
 title: Ravelstein
 date: 2022-02-22T00:00:00.000Z
 writer: Saul Bellow
-portrait: saul-bellow.webp
 excerpt: >-
   The novel is a roman à clef written as a memoir. The narrator is in Paris with
   Abe Ravelstein, and Ravelstein, who is dying, asks the narrator to write a
@@ -12,7 +11,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: ravelstein-thumb.webp
 ---
 
 Saul Bellow's _Ravelstein_, his final novel, was published in 2000. Bellow was eighty-five years old and it received widespread critical acclaim. _Ravelstein_ tells the tale of a friendship between a university professor and a writer, and the complications that animate their erotic and intellectual attachments in the face of impending death. The novel is a roman à clef written as a memoir. The narrator is in Paris with Abe Ravelstein, and Ravelstein, who is dying, asks the narrator to write a memoir about him after he dies.

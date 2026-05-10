@@ -15,8 +15,6 @@ tags:
   - reading
   - fiction
   - dutch
-cover: assault-thumb.webp
-portrait: harry-mulisch.webp
 sticky: 'true'
 og_image: og.png
 ---

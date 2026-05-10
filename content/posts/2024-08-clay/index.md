@@ -2,8 +2,6 @@
 title: Clay
 date: 2024-08-02
 writer: James Joyce
-portrait: james-joyce.webp
-cover: dubliners.webp
 tags:
   - reading
   - irish

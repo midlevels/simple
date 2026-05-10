@@ -2,8 +2,6 @@
 title: The Gold Bug
 date: 2015-03-12
 writer: Edgar Allen Poe
-portrait: edgar-allen-poe.webp
-cover: bug-thumb.webp
 tags:
   - american
   - fiction

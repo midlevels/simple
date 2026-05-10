@@ -2,7 +2,6 @@
 title: Trust
 date: 2024-09-30T00:00:00.000Z
 writer: Hernan Diaz
-portrait: hernan-diaz.webp
 bio: >-
   Hernan Diaz (born 1973) is an Argentine and American writer. His 2023 novel,
   Trust, was awarded the Pulitzer Prize for Fiction. His 2017 novel In the
@@ -16,7 +15,6 @@ tags:
   - reading
   - fiction
   - american
-cover: trust.webp
 og_image: og_image.jpg
 ---
 

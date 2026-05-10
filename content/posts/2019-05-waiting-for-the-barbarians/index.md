@@ -2,8 +2,6 @@
 title: Waiting for the Barbarians
 date: 2019-05-28T00:00:00.000Z
 writer: J.M. Coetzee
-portrait: j-m-coetzee.webp
-cover: barbarians-thumb.webp
 tags:
   - fiction
   - south-african

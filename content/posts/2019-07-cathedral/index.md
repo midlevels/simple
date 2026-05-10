@@ -21,7 +21,5 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: cathedral-thumb.webp
-portrait: raymond-carver.webp
 ---
 _Cathedral_ is Raymond Carver’s third collection of stories and a finalist for the Pulitzer Prize. It includes the canonical titular story about blindness and learning to enter the different world of another.  These twelve stories mark a turning point in Carver’s work and overflow with the danger, excitement, and mystery. His eye is so clear, that it almost breaks your heart." Carver's editor, Gordon Lish, was a great influence on how the stories turned out.

@@ -10,8 +10,6 @@ tags:
   - american
   - fiction
   - reading
-cover: the-sportswriter-thumb.webp
-portrait: richard-ford.webp
 ---
 
 As a sportswriter, Frank Bascombe makes his living studying people—men, mostly—who live entirely within themselves. This is a condition that Frank himself aspires to. But at thirty-eight, he suffers from incurable dreaminess, occasional pounding of the heart, and the not-too-distant losses of a career, a son, and a marriage. In the course of the Easter week in which Ford's moving novel transpires, Bascombe will end up losing the remnants of his familiar life, though with his spirits soaring.

@@ -2,7 +2,6 @@
 title: Narcissus and Goldmund
 date: 2016-09-27T00:00:00.000Z
 writer: Hermann Hesse
-portrait: hermann-hesse.webp
 bio: >-
   Hermann Karl Hesse (2 July 1877 – 9 August 1962) was a German-Swiss poet and
   novelist, and winner of the 1946 Nobel Prize in Literature. His interest in
@@ -20,7 +19,6 @@ tags:
   - german
   - hkbc
   - reading
-cover: narcissus-thumb.webp
 ---
 
 Set in medieval Germany _Narcissus and Goldmund_ by Hermann Hesse revolves around the complex and transformative friendship between two contrasting characters. Narcissus, an intellectual and monk, and Goldmund, a restless and artistic wanderer.

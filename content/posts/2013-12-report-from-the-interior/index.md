@@ -15,9 +15,7 @@ tags:
   - non-fiction
   - hkbc
   - reading
-cover: report-thumb.webp
 og_image: og_image.jpg
-portrait: paul-auster.webp
 ---
 
 _Report from the Interior_ is Paul Auster's memoir and it's divided into four distinct sections.

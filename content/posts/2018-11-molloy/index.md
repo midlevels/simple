@@ -20,8 +20,6 @@ tags:
   - fiction
   - hkbc
   - reading
-cover: molloy-thumb.webp
-portrait: samuel-beckett.webp
 ---
 
 _Molloy_ is the first of three novels initially written in Paris between 1947 and 1950; this trio, which includes Malone Dies and The Unnamable, is collectively referred to as ‘The Trilogy’ or ‘the Beckett Trilogy.’ Beckett deliberately wrote all three books in French and then, aside from some collaborative work on Molloy with Patrick Bowles, served entirely as his own English-language translator; he did the same for most of his plays.

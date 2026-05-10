@@ -18,8 +18,6 @@ tags:
   - japanese
   - hkbc
   - reading
-cover: ms-ice-sandwich.webp
-portrait: mieko-kawakami.webp
 ---
 
 _Ms Ice Sandwich_ by Mieko Kawakami is a brief but oddly engaging novel narrated by a grammar school student who is enchanted by a woman working at the sandwich counter at a grocery store he passes every day. He is struck dumb by Ms Ice Sandwich’s large eyes and electric blue eyeliner. Every day during the course of a summer he enters the store, waits on a short queue and orders a sandwich, which she nabs with steel tongs and deftly places into a plastic bag.

@@ -14,8 +14,6 @@ tags:
   - fiction
   - german
   - reading
-cover: rings-thumb.jpeg
-portrait: w-g-sebald.webp
 ---
 
 W.G. Sebald frames the narrative of _The Rings of Saturn_ as a walking tour taken by an unnamed narrator through the county of Suffolk in England. As the narrator explores the region, he encounters many people, places, and stories. These serve as starting points for thoughts on broader themes such as history, memory, and mortality.

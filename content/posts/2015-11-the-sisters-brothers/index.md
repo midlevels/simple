@@ -15,8 +15,6 @@ tags:
   - american
   - fiction
   - reading
-cover: sisters-thumb.webp
-portrait: patrick-dewitt.webp
 ---
 
 Eli Sisters, the more introspective and sensitive of the two brothers narrates _The Sisters Brothers_. A wealthy man known as the Commodore hires Eli and Charlie to hunt down and kill a man named Hermann Kermit Warm. The Commodore says Harm has stolen from the Commodore.

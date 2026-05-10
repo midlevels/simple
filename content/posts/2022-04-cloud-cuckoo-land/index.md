@@ -2,7 +2,6 @@
 title: Cloud Cuckoo Land
 date: 2022-04-15T00:00:00.000Z
 writer: Anthony Doerr
-portrait: anthony-doerr.webp
 bio: >-
   Anthony Doerr is an American author of novels and short stories. He gained
   widespread recognition for his 2014 novel All the Light We Cannot See, which
@@ -12,7 +11,6 @@ tags:
   - fiction
   - american
   - reading
-cover: cloud-thumb.webp
 ---
 
 _Cloud Cuckoo Land_ is the story of five characters spanning eight centuries. Anna is a young seamstress living in Constantinople in the 15th century. The Ottoman army conscripts village boy Omeir is they prepare to take the city. Zeno, in the present, a Korean War veteran, works in a library in Idaho translating Ancient Greek texts. At the same time, Seymour, a disturbed autistic youngster, becomes caught up with a group of eco-terrorists. Konstance, in the 22nd century, is a young girl aboard the Argos, a generation starship heading for a planet called Beta Oph2.

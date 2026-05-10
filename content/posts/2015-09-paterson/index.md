@@ -21,8 +21,6 @@ tags:
   - american
   - hkbc
   - reading
-cover: paterson-thumb.webp
-portrait: william-carlos-williams.webp
 ---
 
 "Paterson" is a long poem written by American modernist poet William Carlos Williams and published in five parts between 1946 and 1951. Williams names the poem "Paterson," as Patterson, NJ is where he lived and worked as a doctor.
