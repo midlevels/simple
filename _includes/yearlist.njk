@@ -15,21 +15,5 @@
         <hr>
       {% endif %}
     {% endif %}
-    <p>
-      <a href="{{ post.url | url }}">
-        {% if post.data.title %}{{ post.data.title }}
-        {% else %}
-          <code>{{ post.url }}</code>
-        {% endif %}
-      </a>
-      {% if post.data.writer %} ({% set writerList = post
-          .data
-          .writer
-          .split(',') %}{% for writerName in writerList %}<a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}{% endfor %}){% endif %}
-      {% if post.data.artist %} ({% set artistList = post
-          .data
-          .artist
-          .split(',') %}{% for artistName in artistList %}<a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}{% endfor %}){% endif %}
-
-    {% endfor %}
-  </p>
+    <p><a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>{% if post.data.writer %} ({% set writerList = post.data.writer.split(',') %}{% for writerName in writerList %}<a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}{% endfor %}){% endif %}{% if post.data.artist %} ({% set artistList = post.data.artist.split(',') %}{% for artistName in artistList %}<a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}{% endfor %}){% endif %}</p>
+  {% endfor %}
