@@ -8,7 +8,8 @@
     background-color: var(--share-bg);
     border-bottom: 1px solid var(--share-border);
     padding: 1.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
     border-radius: .5rem;
     display: block; /* Override article flex layout */
 }
@@ -84,4 +85,10 @@ p:has(.yt-wrapper) {
     margin: 0;
     padding: 0;
     display: contents;
+}
+
+/* Hide borders on post-separator when adjacent to share posts */
+.share-post + .post-separator,
+.post-separator:has(+ .share-post) {
+    border-top: none;
 }
