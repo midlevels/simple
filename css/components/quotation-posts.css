@@ -6,8 +6,8 @@
 /* Quotation post styling */
 .quotation-post {
     padding: 2.5rem 0;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
     display: block;
     background-color: var(--pagination-background);
     width: 100vw;
