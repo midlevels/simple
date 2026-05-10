@@ -49,7 +49,7 @@ pagination:
       <p><em>
         {% set writerList = post.data.writer.split(',') %}
         {% for writerName in writerList %}
-          <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+          {{ writerName.trim() }}{% if not loop.last %}, {% endif %}
         {% endfor %}
       </em></p>
     {% endif %}
@@ -58,7 +58,7 @@ pagination:
       <p><em>
         {% set artistList = post.data.artist.split(',') %}
         {% for artistName in artistList %}
-          <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+          {{ artistName.trim() }}{% if not loop.last %}, {% endif %}
         {% endfor %}
       </em></p>
     {% endif %}
