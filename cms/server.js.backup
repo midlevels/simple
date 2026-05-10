@@ -604,57 +604,149 @@ function layout(title, body) {
   </script>
 
   <script>
+    /**
+     * Slugify a person's name for portrait filenames (client-side version).
+     * 
+     * IMPORTANT: This function must match slugifyPersonName() in the server-side code
+     * and generateFilename() in scripts/fetch-writer-photos.js to ensure consistent
+     * filename generation across all systems.
+     * 
+     * The normalization logic is duplicated (not shared) because:
+     * 1. Client-side code needs to work independently
+     * 2. The logic is simple and unlikely to change
+     * 3. Keeping it inline avoids build/bundling complexity
+     * 
+     * Normalization steps:
+     * 1. Normalize to NFKD (decompose characters with diacritics)
+     * 2. Remove diacritic marks (U+0300 to U+036F)
+     * 3. Convert to lowercase
+     * 4. Replace non-alphanumeric sequences with dashes
+     * 5. Remove leading/trailing dashes
+     * 6. Truncate to max length
+     */
+    function slugifyPortraitName(value) {
+      return String(value == null ? '' : value)
+        .normalize('NFKD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .substring(0, ${MAX_SLUG_LENGTH});
+    }
 
-    /* Dynamic bio fields: regenerate based on writer or artist changes */
+    /**
+     * Legacy slugify function (without diacritic normalization).
+     * Used for backwards compatibility with files created before the fix.
+     */
+    function slugifyPortraitNameLegacy(value) {
+      return String(value == null ? '' : value)
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '-')
+        .replace(/^-+|-+$/g, '')
+        .substring(0, ${MAX_SLUG_LENGTH});
+    }
+
+    /* Dynamic bio/portrait fields: regenerate based on writer or artist changes */
     (function () {
       const writerInput = document.getElementById('f-writer');
       const artistInput = document.getElementById('f-artist');
-      const bioContainer = document.getElementById('bio-container');
+      const bioPortraitContainer = document.getElementById('bio-portrait-container');
       const postForm = document.getElementById('post-form');
+      const existingImagesInput = document.getElementById('existing-image-names');
+      let existingImages = new Set();
+      if (existingImagesInput) {
+        try {
+          existingImages = new Set(JSON.parse(existingImagesInput.value || '[]'));
+        } catch (_error) {
+          existingImages = new Set();
+        }
+      }
 
-      function updateBioFields() {
-        if (!bioContainer) return;
+      function updateBioPortraitFields() {
+        if (!bioPortraitContainer) return;
 
         const writers = (writerInput ? writerInput.value : '').split(',').map(w => w.trim()).filter(Boolean);
         const artists = (artistInput ? artistInput.value : '').split(',').map(a => a.trim()).filter(Boolean);
         const people = [...writers, ...artists];
 
         if (people.length === 0) {
-          bioContainer.innerHTML = '';
-          bioContainer.className = 'span2 field-hidden';
+          bioPortraitContainer.innerHTML = '';
+          bioPortraitContainer.className = 'span2 field-hidden';
           return;
         }
 
         // Generate fields for each person
         let fieldsHTML = '';
         people.forEach((person, idx) => {
-          const slugifiedPerson = person.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-          const bioKey = `bio-${slugifiedPerson}`;
+          const slugifiedPerson = slugifyPortraitName(person);
+          const bioKey = \`bio-\${slugifiedPerson}\`;
+          const portraitKey = \`portrait-\${slugifiedPerson}\`;
+          const portraitFilename = \`\${slugifiedPerson}.webp\`;
+          const portraitExists = existingImages.has(portraitFilename);
+          const portraitStatus = portraitExists
+            ? \`<small id="portrait-existing-status-\${idx}">Existing portrait: <strong>\${portraitFilename}</strong></small>\`
+            : \`<small id="portrait-existing-status-\${idx}"></small>\`;
 
           // Try to preserve existing bio value if already in form
-          const existingBioField = document.querySelector(`[name="${bioKey}"]`);
+          const existingBioField = document.querySelector(\`[name="\${bioKey}"]\`);
           const bioValue = existingBioField ? existingBioField.value : '';
 
-          fieldsHTML += `
-            <div class="span2 bio-group" data-person="${person}">
-              <label for="f-${bioKey}">Bio for ${person}
-                <textarea id="f-${bioKey}" name="${bioKey}" rows="4">${bioValue}</textarea>
+          // Try to preserve existing portrait value if already in form
+          const existingPortraitField = document.querySelector(\`[name="\${portraitKey}"]\`);
+          const portraitValue = existingPortraitField ? existingPortraitField.value : '';
+
+          fieldsHTML += \`
+            <div class="span2 bio-portrait-group" data-person="\${person}">
+              <label for="f-\${bioKey}">Bio for \${person}
+                <textarea id="f-\${bioKey}" name="\${bioKey}" rows="4">\${bioValue}</textarea>
               </label>
-            </div>`;
+            </div>
+            <div class="span2 bio-portrait-group" data-person="\${person}">
+              <label for="f-portrait-upload-\${idx}">Upload portrait for \${person}
+                <small>Saved in <code>images/</code> as <code>\${portraitFilename}</code> and resized to 240 px wide WebP.</small>
+                \${portraitStatus}
+                <input type="hidden" name="\${portraitKey}" value="\${portraitValue}">
+                <input type="hidden" id="portrait-overwrite-confirmed-\${idx}" name="portrait_overwrite_confirmed_\${slugifiedPerson}" value="">
+                <input type="file" id="f-portrait-upload-\${idx}" name="portrait_upload_\${slugifiedPerson}" accept="image/*" data-person-name="\${person}">
+              </label>
+            </div>\`;
         });
 
-        bioContainer.innerHTML = fieldsHTML;
-        bioContainer.className = 'span2';
-        bioContainer.style.display = 'contents';
+        bioPortraitContainer.innerHTML = fieldsHTML;
+        bioPortraitContainer.className = 'span2';
+        bioPortraitContainer.style.display = 'contents';
+
+        // Attach overwrite confirmation to each portrait upload
+        people.forEach((person, idx) => {
+          const slugifiedPerson = slugifyPortraitName(person);
+          const portraitInput = document.getElementById(\`f-portrait-upload-\${idx}\`);
+          const overwriteConfirmed = document.getElementById(\`portrait-overwrite-confirmed-\${idx}\`);
+          const portraitFilename = \`\${slugifiedPerson}.webp\`;
+
+          if (portraitInput) {
+            portraitInput.addEventListener('change', function () {
+              if (!portraitInput.files || portraitInput.files.length === 0) {
+                if (overwriteConfirmed) overwriteConfirmed.value = '';
+                return;
+              }
+              if (existingImages.has(portraitFilename)) {
+                const ok = confirm(\`Are you sure you want to overwrite the existing portrait for \${person}?\`);
+                if (overwriteConfirmed) overwriteConfirmed.value = ok ? '1' : '';
+                if (!ok) portraitInput.value = '';
+              } else {
+                if (overwriteConfirmed) overwriteConfirmed.value = '';
+              }
+            });
+          }
+        });
       }
 
-      if (writerInput) writerInput.addEventListener('input', updateBioFields);
-      if (artistInput) artistInput.addEventListener('input', updateBioFields);
+      if (writerInput) writerInput.addEventListener('input', updateBioPortraitFields);
+      if (artistInput) artistInput.addEventListener('input', updateBioPortraitFields);
 
       // Initialize on page load
-      updateBioFields();
+      updateBioPortraitFields();
     })();
-
 
     /* Auto-fill current date/time for new posts (when date field is empty) */
     (function () {
@@ -1277,6 +1369,18 @@ async function shareFormPage(slug, post, isNew, flash = '') {
         </div>
       </section>
 
+      <!-- ── Extra Images ──────────────────────────────────── -->
+      <section>
+        <p class="section-title">📁 Post Images</p>
+        <label>Upload additional images
+          <small>(stored in <code>images/</code>; use Copy button to insert figure shortcode)</small>
+          <input type="file" name="extra_images" accept="image/*" multiple>
+        </label>
+        ${images.length
+          ? `<p style="margin-top:.5rem"><small>${images.length} image(s) uploaded.</small></p>`
+          : ''}
+      </section>
+
       <!-- ── Markdown Content ──────────────────────────────── -->
       <section>
         <p class="section-title">📄 Markdown Content</p>
@@ -1838,6 +1942,42 @@ app.post('/post/create', uploadFields, async (req, res) => {
       data.cover = await saveCoverImage(coverFile.path, slug, coverFile.originalname);
     }
 
+    // Handle multiple portrait uploads (portrait_upload_firstname-lastname)
+    const portraitFiles = req.files?.filter(f => f.fieldname.startsWith('portrait_upload_')) || [];
+    for (const f of portraitFiles) {
+      const personSlug = f.fieldname.replace('portrait_upload_', '');
+      const overwriteKey = `portrait_overwrite_confirmed_${personSlug}`;
+      const portraitFilename = `${personSlug}.webp`;
+
+      // Check if overwrite confirmed
+      if (getPostImages(slug).includes(portraitFilename) && req.body[overwriteKey] !== '1') {
+        cleanupTmpFiles(req.files);
+        return res.status(400).send(
+          await postFormPage(null, { data, content }, true,
+            '<div class="alert alert-error">Please confirm overwriting the existing portrait before saving.</div>'),
+        );
+      }
+
+      // Find the person name from the data
+      const personName = f.originalname; // We'll derive this from the field
+      // Extract person name from writer or artist fields
+      const writers = (data.writer || '').split(',').map(w => w.trim()).filter(Boolean);
+      const artists = (data.artist || '').split(',').map(a => a.trim()).filter(Boolean);
+      const people = [...writers, ...artists];
+      const matchedPerson = people.find(p => slugifyPersonName(p) === personSlug);
+
+      if (matchedPerson) {
+        const portraitFilename = await savePersonPortraitImage(f.path, slug, matchedPerson);
+        data[`portrait-${personSlug}`] = portraitFilename;
+      }
+    }
+
+    // Handle extra images
+    const extraImageFiles = req.files?.filter(f => f.fieldname === 'extra_images') || [];
+    for (const f of extraImageFiles) {
+      await saveExtraImage(f.path, slug, f.originalname);
+    }
+
     // Handle extra PDFs
     const extraPdfFiles = req.files?.filter(f => f.fieldname === 'extra_pdfs') || [];
     for (const f of extraPdfFiles) {
@@ -1936,6 +2076,40 @@ app.post('/post/:slug/update', uploadFields, async (req, res) => {
       data.cover = await saveCoverImage(coverFile.path, slug, coverFile.originalname);
     }
 
+    // Handle multiple portrait uploads (portrait_upload_firstname-lastname)
+    const portraitFiles = req.files?.filter(f => f.fieldname.startsWith('portrait_upload_')) || [];
+    for (const f of portraitFiles) {
+      const personSlug = f.fieldname.replace('portrait_upload_', '');
+      const overwriteKey = `portrait_overwrite_confirmed_${personSlug}`;
+      const portraitFilename = `${personSlug}.webp`;
+
+      // Check if overwrite confirmed
+      if (getPostImages(slug).includes(portraitFilename) && req.body[overwriteKey] !== '1') {
+        cleanupTmpFiles(req.files);
+        return res.status(400).send(
+          await postFormPage(slug, { data, content }, false,
+            '<div class="alert alert-error">Please confirm overwriting the existing portrait before saving.</div>'),
+        );
+      }
+
+      // Extract person name from writer or artist fields
+      const writers = (data.writer || '').split(',').map(w => w.trim()).filter(Boolean);
+      const artists = (data.artist || '').split(',').map(a => a.trim()).filter(Boolean);
+      const people = [...writers, ...artists];
+      const matchedPerson = people.find(p => slugifyPersonName(p) === personSlug);
+
+      if (matchedPerson) {
+        const portraitFilename = await savePersonPortraitImage(f.path, slug, matchedPerson);
+        data[`portrait-${personSlug}`] = portraitFilename;
+      }
+    }
+
+    // Handle extra images
+    const extraImageFiles = req.files?.filter(f => f.fieldname === 'extra_images') || [];
+    for (const f of extraImageFiles) {
+      await saveExtraImage(f.path, slug, f.originalname);
+    }
+
     // Handle extra PDFs
     const extraPdfFiles = req.files?.filter(f => f.fieldname === 'extra_pdfs') || [];
     for (const f of extraPdfFiles) {
@@ -2011,6 +2185,10 @@ app.post('/share/create', uploadFields, async (req, res) => {
     }
 
     const slug = makeSlug(data.title, req.body.date || data.date);
+    
+    for (const f of req.files?.extra_images || []) {
+      await saveExtraImage(f.path, slug, f.originalname);
+    }
 
     writePost(slug, data, content);
     const returnTo = req.body._return_to?.trim();
@@ -2069,6 +2247,11 @@ app.post('/share/:slug/update', uploadFields, async (req, res) => {
             `<div class="alert alert-error">Cannot rename: a post with slug <strong>${esc(newSlug)}</strong> already exists.</div>`),
         );
       }
+    }
+
+    // Save uploaded images to the current (old) directory, then rename if needed
+    for (const f of req.files?.extra_images || []) {
+      await saveExtraImage(f.path, slug, f.originalname);
     }
 
     if (newSlug !== slug) {
