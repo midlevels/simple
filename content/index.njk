@@ -60,7 +60,7 @@ eleventyNavigation:
                 .writer
                 .split(',') %}
               {% for writerName in writerList %}
-                <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>
+                {{ writerName.trim() }}
                 {% if not loop.last %}, {% endif %}
               {% endfor %}
             </em>
@@ -74,7 +74,7 @@ eleventyNavigation:
                 .artist
                 .split(',') %}
               {% for artistName in artistList %}
-                <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>
+                {{ artistName.trim() }}
                 {% if not loop.last %}, {% endif %}
               {% endfor %}
             </em>
