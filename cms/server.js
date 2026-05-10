@@ -629,18 +629,18 @@ function layout(title, body) {
         let fieldsHTML = '';
         people.forEach((person, idx) => {
           const slugifiedPerson = person.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-          const bioKey = `bio-${slugifiedPerson}`;
+          const bioKey = \`bio-\${slugifiedPerson}\`;
 
           // Try to preserve existing bio value if already in form
-          const existingBioField = document.querySelector(`[name="${bioKey}"]`);
+          const existingBioField = document.querySelector(\`[name="\${bioKey}"]\`);
           const bioValue = existingBioField ? existingBioField.value : '';
 
-          fieldsHTML += `
-            <div class="span2 bio-group" data-person="${person}">
-              <label for="f-${bioKey}">Bio for ${person}
-                <textarea id="f-${bioKey}" name="${bioKey}" rows="4">${bioValue}</textarea>
+          fieldsHTML += \`
+            <div class="span2 bio-group" data-person="\${person}">
+              <label for="f-\${bioKey}">Bio for \${person}
+                <textarea id="f-\${bioKey}" name="\${bioKey}" rows="4">\${bioValue}</textarea>
               </label>
-            </div>`;
+            </div>\`;
         });
 
         bioContainer.innerHTML = fieldsHTML;
