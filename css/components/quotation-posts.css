@@ -62,3 +62,9 @@
 [data-theme=dark] .quotation-post .attribution {
     color: #eeeeee;
 }
+
+/* Hide borders on post-separator when adjacent to quotation posts */
+.quotation-post + .post-separator,
+.post-separator + .quotation-post {
+    border-top: none;
+}
