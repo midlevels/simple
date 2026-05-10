@@ -87,7 +87,7 @@ pre {
 
 pre {
     font-family: 'duospace', monospace !important; /* Replace with your desired font */
-    font-size: 1.35rem; /* Adjust size if needed */
+    font-size: 1rem; /* Adjust size if needed */
     white-space: pre-wrap;
     margin: 1em 0;
 }
