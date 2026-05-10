@@ -65,6 +65,6 @@
 
 /* Hide borders on post-separator when adjacent to quotation posts */
 .quotation-post + .post-separator,
-.post-separator + .quotation-post {
+.post-separator:has(+ .quotation-post) {
     border-top: none;
 }
