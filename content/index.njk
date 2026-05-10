@@ -30,11 +30,11 @@ eleventyNavigation:
       {% endif %}
     </article>
   {% elif post
-    .data
-    .tags and post
-    .data
-    .tags
-    .includes('share') %}
+      .data
+      .tags and post
+      .data
+      .tags
+      .includes('share') %}
     {# Share post with special styling #}
     <article class="share-post">
       <div class="post-content">
@@ -82,9 +82,13 @@ eleventyNavigation:
         {% if post.data.writer %}
           <p>
             <em>
-              {% set writerList = post.data.writer.split(',') %}
+              {% set writerList = post
+                .data
+                .writer
+                .split(',') %}
               {% for writerName in writerList %}
-                <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+                <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>
+                {% if not loop.last %}, {% endif %}
               {% endfor %}
             </em>
           </p>
@@ -92,9 +96,13 @@ eleventyNavigation:
         {% if post.data.artist %}
           <p>
             <em>
-              {% set artistList = post.data.artist.split(',') %}
+              {% set artistList = post
+                .data
+                .artist
+                .split(',') %}
               {% for artistName in artistList %}
-                <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+                <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>
+                {% if not loop.last %}, {% endif %}
               {% endfor %}
             </em>
           </p>
@@ -111,7 +119,7 @@ eleventyNavigation:
   {% endif %}
 
   {# Insert newsletter form between 2nd and 3rd article on home page only #}
-  {% if loop.index === 2 and pagination.pageNumber === 0 %}
+  {% if loop.index === 10 and pagination.pageNumber === 0 %}
     <div style="margin: 1.5rem 0;">
       <form
         action="https://buttondown.com/api/emails/embed-subscribe/daveross"
