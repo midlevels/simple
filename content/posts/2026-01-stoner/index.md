@@ -2,28 +2,13 @@
 title: Stoner
 date: 2026-01-03T00:00:00.000Z
 writer: John Williams
-bio: >-
-  John Edward Williams (August 29, 1922 – March 3, 1994) was an American author,
-  editor and professor. He was best known for his novels *Butcher's Crossing*
-  (1960), *Stoner* (1965), and *Augustus* (1972), which won a U.S. National Book
-  Award.
-excerpt: >-
-  A farm boy becomes a university prof., becomes estranged from his wife,
-  encounters office politics, etc.
+excerpt: A farm boy becomes a university prof.
 tags:
   - american
   - hkbc
   - reading
   - fiction
-cover: stoner-thumb.webp
-portrait: john-williams.webp
 ---
-{% sizing "stoner-thumb.webp", "60%", "Stoner" %}
-
-Had Raymond Carver written a novel, it may have been a lot like *Stoner.* 
-
-<!-- snip -->
-
 William Stoner feels stuck on a family farm, performing the same chores day-in-day-out. Perhaps his parents pick up on this and decide to send him to university to pursue a course in agriculture, which he gladly accepts, though expresses concern about them running the farm without him. They tell him not to worry, it will be tended to. 
 
 After one unusual course in literature with an eccentric prof, Stoner becomes enamored with English literature of the early and medieval era and changes from courses in agriculture to literature courses. 
