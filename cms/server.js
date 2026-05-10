@@ -913,8 +913,6 @@ async function postFormPage(slug, post, isNew, flash = '') {
   const content = post?.content || '';
   const images  = (slug && !isNew) ? await getPostImagesWithMeta(slug) : [];
   const pdfs    = (slug && !isNew) ? await getPostFilesWithMeta(slug) : [];
-  const portraitFilename = getPortraitFilename(d.writer, d.artist);
-  const portraitAlreadyExists = !!(slug && !isNew && portraitFilename && images.some((img) => img.name === portraitFilename));
 
   // Cover preview with delete button.
   // Rendered OUTSIDE the main <form> to avoid invalid nested-form HTML.
