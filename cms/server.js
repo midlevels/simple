@@ -147,14 +147,19 @@ function getAllPosts() {
         const { data } = matter(
           fs.readFileSync(path.join(POSTS_DIR, entry.name, 'index.md'), 'utf8'),
         );
+        const tags = Array.isArray(data.tags) ? data.tags : [];
+        const hasQuotationTag = tags.includes('quotation');
+        const writerValue = hasQuotationTag && data.attribution
+          ? data.attribution
+          : (data.writer || data.artist || '');
         return {
           slug:   entry.name,
           title:  data.title  || entry.name,
           date:   data.date   || null,
-          writer: data.writer || data.artist || '',
+          writer: writerValue,
           cover:  data.cover  || '',
           draft:  !!data.draft,
-          tags:   Array.isArray(data.tags) ? data.tags : [],
+          tags:   tags,
         };
       } catch {
         return { slug: entry.name, title: entry.name, date: null, writer: '', cover: '', draft: false, tags: [] };
