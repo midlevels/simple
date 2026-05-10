@@ -9,7 +9,6 @@ excerpt: >-
   A British birder follows peregrine falcons and writes one of the most
   captivating nature books of the 20th century.
 tags:
-  - birds
   - hkbc
   - reading
   - non-fiction

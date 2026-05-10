@@ -16,8 +16,6 @@ tags:
   - fiction
   - american
   - reading
-cover: speedboat.webp
-portrait: renata-adler.webp
 ---
 
 So now, halfway through Speedboat, and past the Speedboat "chapter" (it's a novel), I think it's growing on me. I'm writing this review in two halves to see if I can make a guess about its structure. The main character, the narrator, is a journalist named Jen Fain, who was born sometime after WWII. Each section has a title that connects tangentially with the various smaller stories (sometimes just a sentence or two) contained in it. The writing is absorbing enough to keep me interested, but I find myself asking, Keep on reading or not? There seems to be no there there. I choose to expand my definition of "novel" and continue. I sense that these interludes are accreting meaning little by little, and the experience is akin to how we experience life. Characters in Speedboat (like Aldo) appear, fade for a while, and reappear.  Aldo appears in the chapters 'Brownstone' and 'Islands'. (There are seven chapters.)

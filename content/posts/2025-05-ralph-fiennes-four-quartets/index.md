@@ -3,10 +3,8 @@ date: 2025-05-06T00:00:00.000Z
 title: Ralph Fiennes' Four Quartets
 tags:
   - blog
-  - movie review
   - poetry
   - reading
-cover: 4q.webp
 excerpt: >-
   Fiennes' production in which the poem is the script, performed in a theatre
   with subtle changes of light, and accompanied by film interludes of the
