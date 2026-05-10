@@ -29,7 +29,7 @@ css/
 │   ├── blockquotes.css         # Blockquotes and callout boxes
 │   ├── navigation.css          # Mobile navigation and hamburger menu
 │   ├── search.css              # Search modal
-│   └── share-posts.css         # Share post special styling
+│   └── quotation-posts.css     # Quotation post special styling
 │
 ├── pages/                       # Page-specific styles
 │   └── post-list.css           # Homepage and archive listings
@@ -115,13 +115,6 @@ Media queries are consolidated in `utilities/media-queries.css`:
 
 ## Special Features
 
-### Share Posts
-Share posts have special styling defined in `components/share-posts.css`:
-- Distinct background color (`--share-bg`)
-- Special border treatment
-- Full content display
-- Responsive media handling
-
 ### YouTube Embeds
 YouTube embed styling in `components/figures.css`:
 - `.yt-wrapper` class for consistent sizing
@@ -142,7 +135,7 @@ All design tokens are centralized in `base/variables.css`:
 ## Naming Conventions
 
 - **BEM-inspired**: Use descriptive class names (e.g., `.post-list`, `.nav-links`)
-- **Component-scoped**: Prefix component-specific classes (e.g., `.share-post`)
+- **Component-scoped**: Prefix component-specific classes (e.g., `.quotation-post`)
 - **Utility classes**: Generic helpers (e.g., `.twocol`, `.toph`)
 - **State classes**: Use `is-*` prefix (e.g., `.is-open`, `.is-visible`)
 

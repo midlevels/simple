@@ -91,8 +91,6 @@
     --submenu-background-color: #e6f2f2;
     --color-link-background: #F0FBF6;
     --color-heading: #ff7f50; /* Coral */
-    --share-bg: #e2e4e9;
-    --share-border: #d1d5db;
 }
 
 ::selection {
@@ -178,8 +176,6 @@
     --nav-link-color: #fff;
     --padding-link: 30px;
     --color-heading: #ff9f7d; /* Softer, desaturated coral for dark mode */
-    --share-bg: #252525;
-    --share-border: #3a3a3a;
 }
 
 /* Pagefind Dark Mode Styles */

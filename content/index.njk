@@ -29,33 +29,6 @@ eleventyNavigation:
         <p class="attribution">{{ post.data.attribution }}</p>
       {% endif %}
     </article>
-  {% elif post
-      .data
-      .tags and post
-      .data
-      .tags
-      .includes('share') %}
-    {# Share post with special styling #}
-    <article class="share-post">
-      <div class="post-content">
-        <span class="post-date">
-          <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-        </span>
-        <h2>{{ post.data.title }}</h2>
-
-        {{ post.templateContent | safe }}
-        {% if post.data.linkurl and post.data.source %}
-          <p class="via">
-            <strong>Via <a href="{{ post.data.linkurl }}" target="_blank" rel="noopener">{{ post.data.source }}</a>
-            </strong>
-          </p>
-        {% elif post.data.source %}
-          <p>
-            <strong>Via {{ post.data.source }}</strong>
-          </p>
-        {% endif %}
-      </div>
-    </article>
   {% else %}
     {# Regular post #}
     <article>
