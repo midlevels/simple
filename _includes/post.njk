@@ -21,15 +21,18 @@ layout: layouts/base.njk
 			{% if writer.includes(',') %}Authors{% else %}Author{% endif %}:
 			{% set writerList = writer.split(',') %}
 			{% for writerName in writerList %}
-				<a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
+				<a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>
+				{% if not loop.last %}, {% endif %}
 			{% endfor %}
 		{% endif %}
 		{% if artist %}
-			{% if writer %}<span class="meta-separator"> • </span>{% endif %}
+			{% if writer %}
+				<span class="meta-separator"> • </span>{% endif %}
 			{% if artist.includes(',') %}Artists{% else %}Artist{% endif %}:
 			{% set artistList = artist.split(',') %}
 			{% for artistName in artistList %}
-				<a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
+				<a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>
+				{% if not loop.last %}, {% endif %}
 			{% endfor %}
 		{% endif %}
 	</p>
@@ -52,18 +55,6 @@ layout: layouts/base.njk
 	{% else %}{{ content | safe }}
 	{% endif %}
 
-	{% if 'share' in tags %}
-		{% if linkurl and source %}
-			<p>
-				<strong>Via <a href="{{ linkurl }}" target="_blank" rel="noopener">{{ source }}</a>
-				</strong>
-			</p>
-		{% elif source %}
-			<p>
-				<strong>Via {{ source }}</strong>
-			</p>
-		{% endif %}
-	{% endif %}
 </div>
 
 {% set previousPost = collections.navigablePosts | getPreviousCollectionItem %}
