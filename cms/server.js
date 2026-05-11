@@ -2118,6 +2118,9 @@ app.post('/quotation/create', uploadFields, async (req, res) => {
     // Ensure tags contains 'quotation'
     data.tags = ['quotation'];
 
+    // Automatically add skipInNav for quotation posts
+    data.skipInNav = true;
+
     if (!data.title) {
       return res.status(400).send(
         await quotationFormPage(null, { data, content }, true,
@@ -2163,6 +2166,9 @@ app.post('/quotation/:slug/update', uploadFields, async (req, res) => {
 
     // Ensure tags contains 'quotation'
     data.tags = ['quotation'];
+
+    // Automatically add skipInNav for quotation posts
+    data.skipInNav = true;
 
     // Compute and validate the new slug before touching the filesystem
     const newSlug = makeSlug(data.title, req.body.date || data.date);
