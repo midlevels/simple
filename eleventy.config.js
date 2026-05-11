@@ -366,8 +366,8 @@ eleventyConfig.addFilter("getArtistPosts", (collection = [], artist) => {
         return Object.keys(tagCount).sort();
     });
 
-    eleventyConfig.addFilter("filterTagList", tags => 
-        (tags || []).filter(tag => !["all", "nav", "post", "posts", "share"].includes(tag))
+    eleventyConfig.addFilter("filterTagList", tags =>
+        (tags || []).filter(tag => !["all", "nav", "post", "posts", "share", "quotation"].includes(tag))
     );
 
     eleventyConfig.addNunjucksFilter("withTwoTags", (items, tagA, tagB) => {
@@ -484,7 +484,7 @@ eleventyConfig.addFilter("getAllTags", collection => {
 
 // Filter out unwanted tags
 eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "share"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "share", "quotation"].indexOf(tag) === -1);
 });
 
 
