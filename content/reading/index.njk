@@ -3,7 +3,7 @@ layout: layouts/base.njk
 pageName: Reading
 eleventyNavigation:
   key: Reading
-  order: 3
+  order: 2
 pagination:
   data: collections.reading
   size: 20
@@ -15,9 +15,10 @@ pagination:
 
 <h1 class="toph">Reading</h1>
 
-<p  style="font-weight: 600; text-align:right;"><a href="/combo">Text-only list</a></p>
+<p  style="font-weight: 600; text-align:right;">
+  <a href="/combo">Text-only list</a>
+</p>
 <br><br>
-
 
 {% for post in reading %}
   {% if post
@@ -35,63 +36,78 @@ pagination:
     </article>
   {% else %}
     {# Regular post #}
-<article>
-  <div class="post-content">
-    <span class="post-date">
-      <time datetime="{{ post.date | htmlDateString }}">
-        {{ post.date | readableDate }}
-      </time>
-    </span>
+    <article>
+      <div class="post-content">
+        <span class="post-date">
+          <time datetime="{{ post.date | htmlDateString }}">
+            {{ post.date | readableDate }}
+          </time>
+        </span>
 
-    <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+        <h2>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+        </h2>
 
-    {% if post.data.writer %}
-      <p><em>
-        {% set writerList = post.data.writer.split(',') %}
-        {% for writerName in writerList %}
-          {{ writerName.trim() }}{% if not loop.last %}, {% endif %}
-        {% endfor %}
-      </em></p>
-    {% endif %}
+        {% if post.data.writer %}
+          <p>
+            <em>
+              {% set writerList = post
+                .data
+                .writer
+                .split(',') %}
+              {% for writerName in writerList %}
+                {{ writerName.trim() }}
+                {% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
 
-    {% if post.data.artist %}
-      <p><em>
-        {% set artistList = post.data.artist.split(',') %}
-        {% for artistName in artistList %}
-          {{ artistName.trim() }}{% if not loop.last %}, {% endif %}
-        {% endfor %}
-      </em></p>
-    {% endif %}
+        {% if post.data.artist %}
+          <p>
+            <em>
+              {% set artistList = post
+                .data
+                .artist
+                .split(',') %}
+              {% for artistName in artistList %}
+                {{ artistName.trim() }}
+                {% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
 
-    <p class="excerpt">{{ post.data.excerpt }}</p>
-  </div>
-</article>
+        <p class="excerpt">{{ post.data.excerpt }}</p>
+      </div>
+    </article>
   {% endif %}
 
-{% if not loop.last %}
-  <div class="post-separator"></div>
-{% endif %}
+  {% if not loop.last %}
+    <div class="post-separator"></div>
+  {% endif %}
 {% endfor %}
-
 
 {# Pagination navigation #}
 {% if pagination.links.length > 0 %}
-<nav class="page-pagination" aria-label="page navigation">
-     <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
+  <nav class="page-pagination" aria-label="page navigation">
+    <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
       {% if pagination.href.previous %}
-        <span><a href="{{ pagination.href.previous }}" class="page-pagination-previous">
+        <span>
+          <a href="{{ pagination.href.previous }}" class="page-pagination-previous">
       Newer Posts &rarr;
-    </a></span>
+    </a>
+        </span>
       {% endif %}
-      
+
       {% if pagination.href.next %}
-   <span><a href="{{ pagination.href.next }}" class="page-pagination-next">
+        <span>
+          <a href="{{ pagination.href.next }}" class="page-pagination-next">
 
       &larr; Older Posts
-    </a></span>
+    </a>
+        </span>
       {% endif %}
     </div>
   </nav>
 {% endif %}
-
-    
