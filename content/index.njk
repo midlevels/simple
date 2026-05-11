@@ -14,6 +14,10 @@ eleventyNavigation:
 ---
 <h1 class="toph">&nbsp;</h1>
 
+{% if pagination.pageNumber == 0 %}
+<p class="post-count">There are currently {{ collections.posts.length }} posts here.</p>
+{% endif %}
+
 {% for post in posts %}
 
   {% if post
