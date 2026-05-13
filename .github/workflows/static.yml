@@ -3,7 +3,7 @@ name: Deploy GitHub Pages
 on:
   push:
     branches:
-      - claude/update-github-pages-setup
+      - main
   workflow_dispatch:
 
 permissions:
