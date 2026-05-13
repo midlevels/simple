@@ -4,7 +4,14 @@
  * Includes light mode defaults and dark mode overrides
  */
 
+
+
+
+
+
 :root {
+
+    --fluid-leading: clamp(1.4, 1.35 + 0.5vw, 1.6);
     --color-bg: #fefefe;
     --color-surface: #fafafa;
     --color-text: #666;
@@ -91,6 +98,7 @@
     --submenu-background-color: #e6f2f2;
     --color-link-background: #F0FBF6;
     --color-heading: #ff7f50; /* Coral */
+
 }
 
 ::selection {

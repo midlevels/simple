@@ -61,9 +61,11 @@ h2 a:hover {
 p {
     font-family: heliotrope_ot_4_medium;
     font-size: 1.25rem; /* Reduced from 1.5rem */
-    line-height: 1.8;   /* Improved ratio for Heliotrope */
+    /* line-height: 1.8;    Improved ratio for Heliotrope */
     color: var(--color-text);
     margin-bottom: 1.5rem;
+    line-height: var(--fluid-leading);
+
 }
 
 p:last-child {

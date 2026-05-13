@@ -1,20 +1,19 @@
 <!doctype html>
 <html>
   <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
       {{ siteName }}
       {% if title %}| {{ title }}
       {% endif %}
     </title>
 
-    <meta charset="utf-8">
-
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
     <link rel="icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--   <link rel="preload" href="/public/assets/fonts/heliotrope/heliotrope_ot_3_book.woff2" as="font" type="font/woff2" crossorigin="">
     <link rel="preload" href="/public/assets/fonts/heliotrope/heliotrope_ot_6_semibold.woff2" as="font" type="font/woff2" crossorigin=""> -->
     <link rel="preload" href="/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2" as="font" type="font/woff2" crossorigin="">
@@ -50,7 +49,6 @@
       })();
     </script>
 
-    <!-- Add a tiny "Critical CSS" block to set the background color immediately -->
     <style>
       html[data-theme='dark'] {
         background-color: #0f0f0f;
