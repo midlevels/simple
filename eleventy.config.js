@@ -502,6 +502,7 @@ eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 
     // Configuration Object
     return {
+        pathPrefix: "/simple/",
         templateFormats: ["md", "njk", "html", "liquid", "11ty.js"],
         markdownTemplateEngine: "njk",
         htmlTemplateEngine: "njk",
