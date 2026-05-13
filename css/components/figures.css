@@ -47,6 +47,12 @@ img {
     margin-top: 2rem;
 }
 
+.top-image {
+    margin: auto;
+    padding-top: 3.5rem;
+}
+
+
 /* Media Query for widths greater than 1600px */
 @media (min-width: 1601px) {
     .figure--full {
