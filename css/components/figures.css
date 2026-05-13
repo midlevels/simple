@@ -43,6 +43,17 @@ img {
     shape-margin: 1rem;
 }
 
+/* Featured image styles */
+.featured-image {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-md);
+    margin: 0 auto 2rem auto;
+}
+
 .first-img {
     margin-top: 2rem;
 }
