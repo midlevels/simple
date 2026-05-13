@@ -4,7 +4,6 @@
   "description": "Text-only Eleventy site derived from midlevels/startmeup.",
   "type": "module",
   "scripts": {
-    "build": "npx @11ty/eleventy",
     "build:all": "npx @11ty/eleventy && npm run build:index",
     "build:index": "npx -y pagefind --site _site",
     "og:image": "node scripts/generate-og-images.js",
