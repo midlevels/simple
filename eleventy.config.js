@@ -165,12 +165,13 @@ export default async function (eleventyConfig) {
         return content;
     });
 
-    eleventyConfig.addTransform("textOnlyMedia", (content, outputPath) => {
-        if (outputPath && outputPath.endsWith(".html")) {
-            return stripRenderedMedia(content);
-        }
-        return content;
-    });
+    // Commented out to allow images to display
+    // eleventyConfig.addTransform("textOnlyMedia", (content, outputPath) => {
+    //     if (outputPath && outputPath.endsWith(".html")) {
+    //         return stripRenderedMedia(content);
+    //     }
+    //     return content;
+    // });
 
     // Filter: Add .ffirst class to first <img> inside first <figure> – used in post.njk for 'reading'-tagged posts
     eleventyConfig.addFilter("addFfirstClass", function(content) {
