@@ -1,0 +1,28 @@
+<article {% if post.data.linky %}class="linkbackground"{% endif %} >
+    <div class="post-content">
+     {% if post.data.linky %}{% else %}   <span class="post-date">
+<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span> {% endif %}
+    {% if post.data.linky %}
+        <h4><a href="{{ post.data.linky }}">{{ post.data.title }}</a></h4>
+        <br><em>Via: {{ post.data.via }}</em>
+        {% else %}
+        <h2><a href="{{ post.url}}">{{ post.data.title }}</a></h2> {% endif %}
+    {% if post.data.writer %}
+        <p><em>
+            {% set writerList = post.data.writer.split(',') %}
+            {% for writerName in writerList %}
+                {{ writerName.trim() }}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+        </em></p>
+    {% endif %}
+    {% if post.data.artist %}
+        <p><em>
+            {% set artistList = post.data.artist.split(',') %}
+            {% for artistName in artistList %}
+                {{ artistName.trim() }}{% if not loop.last %}, {% endif %}
+            {% endfor %}
+        </em></p>
+    {% endif %}
+        <p class="excerpt">{{ post.data.excerpt }}</p>
+    </div>
+</article>

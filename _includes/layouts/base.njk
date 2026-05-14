@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      {{ siteName }}
+      {% if title %}| {{ title }}
+      {% endif %}
+    </title>
+
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+    <link rel="preload" href="/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url | url }}"/>
+    <meta name="description" content="{{ excerpt }} ">
+    <meta property="og:image" content="{{ site.url }}{{ page.url }}images/og-image.webp">
+    <link
+  rel="alternate"
+  type="application/rss+xml"
+  title="book club feed"
+  href="https://daveross.name/feed.xml"
+/>
+    <script>
+      (function () {
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window
+          .matchMedia('(prefers-color-scheme: dark)')
+          .matches;
+
+        const theme = savedTheme || (
+          prefersDark
+          ? 'dark'
+          : 'light');
+
+        if (theme === 'dark') {
+          document
+            .documentElement
+            .setAttribute('data-theme', 'dark');
+        }
+      })();
+    </script>
+
+    <style>
+      html[data-theme='dark'] {
+        background-color: #0f0f0f;
+      }
+      @media (prefers-color-scheme: dark) {
+        html:not([data-theme='light']) {
+          background-color: #0f0f0f;
+        }
+      }
+    </style>
+
+    <link rel="stylesheet" href="/css/index.css" >
+    <link rel="stylesheet" href="/css/prism.css" >
+
+    <script type="module" src="/public/js/heading-anchors.js"></script>
+
+  </head>
+  <body>
+    <a href="#main" id="skip-link" class="visually-hidden skip-link">Skip to main content</a>
+
+    <header class="site-header">
+      <div class="header-inner">
+        <a href="/" class="site-logo" aria-label="Home">
+reading / hkbc
+ </a>
+        <button class="nav-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-nav">☰</button>
+        <nav class="nav-links" id="mobile-nav" aria-label="Site navigation">
+          <ul class="nav">
+            {%- for entry in collections.all | eleventyNavigation -%}
+              <li class="nav-item{% if entry.children.length %} has-children{% endif %}">
+                <a href="{{ entry.url }}"
+         {% if entry.children.length %}
+           aria-haspopup="true"
+           aria-expanded="false"
+         {% endif %}
+      >
+                  {{ entry.title }}
+                </a>
+
+                {%- if entry.children.length -%}
+                  <ul class="submenu">
+                    {%- for child in entry.children -%}
+                      <li>
+                        <a href="{{ child.url }}">{{ child.title }}</a>
+                      </li>
+                    {%- endfor -%}
+                  </ul>
+                {%- endif -%}
+              </li>
+            {%- endfor -%}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="nav-overlay" aria-hidden="true"></div>
+
+    <main id="main">
+      {{ content | safe }}
+    </main>
+
+    <footer>
+      <p class="post-date">&copy; 2026 <a href="/me">HKBC/DR</a>
+
+        <span class="footer-divider">•</span>
+        <button id="theme-toggle" aria-label="Toggle dark mode" class="theme-toggle-btn">
+          <span class="icon">◑</span>
+        </button>
+      </p>
+      <button id="back-to-top" aria-label="Back to top">↑</button>
+    </footer>
+
+    <script src="/public/js/sidenotes.js" defer></script>
+    <script src="/public/js/ui.js" defer></script>
+    <script src="/public/js/code.js" defer></script>
+    <script src="/public/js/auth-nav.js" defer></script>
+
+    <script>
+      document
+        .querySelectorAll('.nav-item.has-children > a')
+        .forEach(link => {
+          link.addEventListener('click', event => {
+            const item = link.parentElement;
+            const isOpen = item
+              .classList
+              .contains('is-open');
+
+            // Close all open menus
+            document
+              .querySelectorAll('.nav-item.is-open')
+              .forEach(i => {
+                i
+                  .classList
+                  .remove('is-open');
+                const a = i.querySelector(':scope > a');
+                if (a) 
+                  a.setAttribute('aria-expanded', 'false');
+                }
+              );
+
+            // Toggle current
+            if (!isOpen) {
+              event.preventDefault(); // prevent navigation on first tap
+              item
+                .classList
+                .add('is-open');
+              link.setAttribute('aria-expanded', 'true');
+            }
+          });
+        });
+
+      // Close menu when tapping outside
+      document.addEventListener('click', event => {
+        if (!event.target.closest('.nav-links')) {
+          document
+            .querySelectorAll('.nav-item.is-open')
+            .forEach(item => {
+              item
+                .classList
+                .remove('is-open');
+              const a = item.querySelector(':scope > a');
+              if (a) 
+                a.setAttribute('aria-expanded', 'false');
+              }
+            );
+        }
+      });
+    </script>
+
+  </body>
+</html>

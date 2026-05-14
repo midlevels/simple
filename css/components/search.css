@@ -1,0 +1,26 @@
+/**
+ * Search Modal
+ * Site search modal and search functionality
+ */
+
+#search {
+    display: flex;
+    align-items:center
+}
+
+.search-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #000000bf;
+    backdrop-filter: blur(12px) saturate(120%);
+    z-index: var(--z-modal);
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 10vh 1.5rem 1.5rem;
+    animation: fadeIn var(--transition-slow);
+    will-change:opacity
+}

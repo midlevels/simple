@@ -1,0 +1,122 @@
+/**
+ * Link Styles
+ * Base link styling and page-specific link variations
+ */
+
+a {
+    color: var(--color-link);
+    text-decoration: underline;
+    text-decoration-color: var(--color-highlight-focus); /* Softer underline */
+    text-underline-offset: 4px;
+    text-decoration-thickness: 2px;
+    transition: all var(--transition-base);
+}
+
+a:hover {
+    color: var(--color-link-hover);
+    text-decoration-color: var(--color-highlight);
+    background-color: var(--color-highlight-subtle); /* Subtle highlight on hover */
+    border-radius: 2px;
+}
+
+a:focus-visible {
+    outline: 2px solid var(--color-highlight);
+    outline-offset: 3px;
+    border-radius: var(--border-radius-sm);
+    background:var(--color-highlight-focus)
+}
+
+/* External Links */
+a.ext-link:before {
+    display: inline-flex;
+    content: '🔗';
+    height: fit-content;
+    width: fit-content;
+    margin-right: 0.3em;
+    font-size: 16px;
+}
+
+.page-links {
+    display: inline;
+}
+
+.page-links a {
+    color: var(--color-accent);
+    position: relative;
+    transition: color var(--transition-base);
+}
+
+.page-links a::after {
+    background: var(--color-highlight);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform var(--transition-bounce);
+    border-radius:1px
+}
+
+.page-links a:hover {
+    color: var(--color-primary);
+    background:var(--color-highlight-subtle)
+}
+
+.noburn.pagelinks a:hover {
+    color: transparent;
+    background: transparent;
+}
+
+.page-links a[aria-current=page] {
+    color: var(--color-primary);
+    font-weight:700
+}
+
+.page-links a:hover::after, .page-links a[aria-current=page]::after {
+    transform:scaleX(1)
+}
+
+.page-links a:active {
+    transform:translateY(1px)
+}
+
+.page-links a:focus-visible {
+    outline: 2px solid var(--color-highlight);
+    outline-offset: 4px;
+    border-radius:2px
+}
+
+.page-links a {
+    text-decoration: none;
+    border-bottom: 1px dashed var(--color-highlight-hover);
+}
+
+.linkbackground {
+    background-color: var(--color-link-background);
+    padding: 30px;
+    border-radius: .5rem;
+}
+
+.links-nextprev {
+	display: flex;
+	justify-content: space-between;
+    list-style-type: none;
+	gap: .5em 1em;
+	list-style: "none";
+	border-top: 1px dashed var(--color-gray-20);
+	padding: 1em 0;
+}
+
+.links-nextprev > * {
+	flex-grow: 1;
+}
+
+.links-nextprev-next {
+	text-align: right;
+}
+
+.via {
+    background-color: var(--color-bg);
+    display:block;
+    text-align:center;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: var(--border-radius-sm);
+}
