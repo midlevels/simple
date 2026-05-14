@@ -59,7 +59,7 @@ h2 a:hover {
 
 
 p {
-    font-family: heliotrope_ot_4_medium;
+    font-family: heliotrope_ot_4_medium,georgia, serif;
     font-size: 1.25rem; /* Reduced from 1.5rem */
     /* line-height: 1.8;    Improved ratio for Heliotrope */
     color: var(--color-text);
