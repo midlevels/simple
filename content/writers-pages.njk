@@ -19,7 +19,9 @@ const eleventyComputed = {
 <h1 class="tag-head toph">{{ writer }}</h1>
 {% set bio = collections.all | getWriterBio(writer) %}
 {% if bio %}
-	<div class="writer-bio">{{ bio | renderMarkdown | safe }} (likely via Wikipedia)</div>
+	<div class="writer-bio">{{ bio | renderMarkdown | safe }}
+		<p style="text-align: right">(likely via Wikipedia)</p>
+	</div>
 {% endif %}
 {% set postslist = collections.all | getWriterPosts(writer) %}
 {% include "postslist.njk" %}
