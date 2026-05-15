@@ -2,7 +2,7 @@ node_modules
 push.sh
 .DS_Store
 package-lock.json
-.cache
+.cachez
 pagefind/
 _site/
 # CMS
