@@ -1,0 +1,54 @@
+/**
+ * Font-Face Declarations
+ * All @font-face rules for custom fonts used throughout the site
+ */
+
+@font-face {
+    font-family: ibm-plex-mono-bold;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono-bold-ital;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono-ital;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2') format('woff2');
+    font-weight: 400;
+    font-style: italic;
+    font-display:swap;
+}
+
+@font-face {
+    font-family: ibm-plex-mono;
+    src: url('/public/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display:swap;
+}
+
+@font-face {
+font-family: duospace;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/assets/fonts/duospace/duospace.woff2') format('woff2');
+}
+
+@font-face {
+font-family: duospace-ital;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+font-display: auto;
+src: url('/public/assets/fonts/duospace/duospace-ital.woff2') format('woff2');
+}

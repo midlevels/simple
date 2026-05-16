@@ -1,0 +1,63 @@
+/**
+ * Main Content Area Layout
+ * Main container, article layout, and content width constraints
+ */
+
+main {
+    max-width: 65ch; /* Focused reading experience */
+    margin-inline: auto;
+    padding-inline: var(--space-s);
+}
+
+main,
+footer {
+	padding: 1rem;
+}
+
+main :first-child {
+	margin-top: 0;
+}
+
+/* Use a wider width for "wide" content like images or code blocks */
+.wide-content {
+    width: 100vw;
+    max-width: var(--content-width);
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+
+article {
+    margin-block-end:var(--space-s);
+}
+
+article {
+    display: flex;
+    align-items: flex-start; /* Aligns the image and content to the start */
+}
+
+.post-content {
+    display: flex;
+    flex-direction: column; /* Stack the date, title, and text vertically */
+}
+
+.post-content a {
+    color: var(--color-highlight-hover);
+}
+
+.toph {
+    padding-top: 3rem;
+}
+
+.hr {
+    text-align: center;
+    color: val(--color-text);
+    padding: 1rem 0;
+}
+
+.container {
+    margin:auto;
+}
+
+.twocol {
+    column-count: 2;
+}

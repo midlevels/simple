@@ -1,0 +1,27 @@
+---js
+const pagination = {
+	data: "collections.writers",
+	size: 1,
+	alias: "writer",
+	layout: "layouts/base.njk"
+};
+
+const eleventyExcludeFromCollections = true;
+
+const eleventyComputed = {
+	title: data => data.writer,
+	permalink: function(data) {
+		return `/writers/${this.slugify(data.writer)}/`;
+	}
+};
+---
+
+<h1 class="tag-head toph">{{ writer }}</h1>
+{% set bio = collections.all | getWriterBio(writer) %}
+{% if bio %}
+	<div class="writer-bio">{{ bio | renderMarkdown | safe }}
+		<p style="text-align: right">(likely via Wikipedia)</p>
+	</div>
+{% endif %}
+{% set postslist = collections.all | getWriterPosts(writer) %}
+{% include "postslist.njk" %}
