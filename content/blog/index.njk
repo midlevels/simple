@@ -1,9 +1,5 @@
 ---
 layout: layouts/base.njk
-
-eleventyNavigation:
-  key: Blog
-  order: 4
 pagination:
   data: collections.blog
   size: 20
@@ -14,7 +10,7 @@ pagination:
 
 <h1 class="toph">Blog</h1>
 <br>
-{% for post in posts  %}
+{% for post in blog %}
   {% if post
     .data
     .tags and post
@@ -30,34 +26,55 @@ pagination:
     </article>
   {% else %}
     {# Regular post #}
-<article {% if post.data.linky %}class="linkbackground"{% endif %} >
-    <div class="post-content">
-     {% if post.data.linky %}{% else %}   <span class="post-date">
-<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></span> {% endif %}
-    {% if post.data.linky %}
-        <h2><a href="{{ post.data.linky }}" target="_new" >{{ post.data.title }}</a> &#128279;</h2>
-        <br><em>Via: {{ post.data.via }} &rarr;</em>
+    <article {% if post.data.linky %}class="linkbackground"{% endif %} >
+      <div class="post-content">
+        {% if post.data.linky %}
         {% else %}
-        <h2><a href="{{ post.url}}">{{ post.data.title }}</a></h2> {% endif %}
-    {% if post.data.writer %}
-      <p><em>
-        {% set writerList = post.data.writer.split(',') %}
-        {% for writerName in writerList %}
-          <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>{% if not loop.last %}, {% endif %}
-        {% endfor %}
-      </em></p>
-    {% endif %}
-    {% if post.data.artist %}
-      <p><em>
-        {% set artistList = post.data.artist.split(',') %}
-        {% for artistName in artistList %}
-          <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>{% if not loop.last %}, {% endif %}
-        {% endfor %}
-      </em></p>
-    {% endif %}
+          <span class="post-date">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          </span>
+        {% endif %}
+        {% if post.data.linky %}
+          <h2>
+            <a href="{{ post.data.linky }}" target="_new" >{{ post.data.title }}</a> &#128279;</h2>
+          <br>
+          <em>Via: {{ post.data.via }} &rarr;</em>
+        {% else %}
+          <h2>
+            <a href="{{ post.url}}">{{ post.data.title }}</a>
+          </h2>
+        {% endif %}
+        {% if post.data.writer %}
+          <p>
+            <em>
+              {% set writerList = post
+                .data
+                .writer
+                .split(',') %}
+              {% for writerName in writerList %}
+                <a href="/writers/{{ writerName.trim() | slugify }}/">{{ writerName.trim() }}</a>
+                {% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
+        {% if post.data.artist %}
+          <p>
+            <em>
+              {% set artistList = post
+                .data
+                .artist
+                .split(',') %}
+              {% for artistName in artistList %}
+                <a href="/artists/{{ artistName.trim() | slugify }}/">{{ artistName.trim() }}</a>
+                {% if not loop.last %}, {% endif %}
+              {% endfor %}
+            </em>
+          </p>
+        {% endif %}
         <p class="excerpt">{{ post.data.excerpt }}</p>
-    </div>
-</article>
+      </div>
+    </article>
   {% endif %}
   {% if not loop.last %}
     <div class="post-separator"></div>
@@ -67,19 +84,23 @@ pagination:
 {# Pagination navigation #}
 
 {% if pagination.href.previous or pagination.href.next %}
-<nav class="page-pagination" aria-label="page navigation">
-     <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
+  <nav class="page-pagination" aria-label="page navigation">
+    <div class="page-pagination-links" style="display: flex; justify-content: space-between; margin-top: 2rem;">
       {% if pagination.href.previous %}
-        <span><a href="{{ pagination.href.previous }}" class="page-pagination-previous">
+        <span>
+          <a href="{{ pagination.href.previous }}" class="page-pagination-previous">
       Newer Posts &rarr;
-    </a></span>
+    </a>
+        </span>
       {% endif %}
-      
+
       {% if pagination.href.next %}
-   <span><a href="{{ pagination.href.next }}" class="page-pagination-next">
+        <span>
+          <a href="{{ pagination.href.next }}" class="page-pagination-next">
 
       &larr; Older Posts
-    </a></span>
+    </a>
+        </span>
       {% endif %}
     </div>
   </nav>

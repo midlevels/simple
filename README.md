@@ -9,6 +9,7 @@ This repository is a text-only version of `startmeup`, preserving the same Eleve
 | Command | What it does |
 |---------|-------------|
 | `npm start` | Local dev server with live reload |
+| `npm set-up cms` | Installs CMS (works on my Macbook Air M2; cannot guarantee other systems) |
 | `npm start cms` | Launches cms on localhost:3000 |
 | `npm run build:all` | Build + generate Pagefind search index |
 
