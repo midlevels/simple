@@ -4,7 +4,7 @@
  */
 
 h1 {
-    font-family: heliotrope_ot_6_semibold, Georgia, serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size:  3rem;
     margin-top: 2rem;
     font-weight: 800;
@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-    font-family: heliotrope_ot_6_semibold;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-weight: 600;
     font-size: clamp(1.5rem, 1.25rem + 1vw, 1.75rem);
     line-height: 1.25;
@@ -59,9 +59,8 @@ h2 a:hover {
 
 
 p {
-    font-family: heliotrope_ot_4_medium,georgia, serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 1.25rem; /* Reduced from 1.5rem */
-    /* line-height: 1.8;    Improved ratio for Heliotrope */
     color: var(--color-text);
     margin-bottom: 1.5rem;
     line-height: var(--fluid-leading);
@@ -73,7 +72,7 @@ p:last-child {
 }
 
 ol, li {
-    font-family: heliotrope_ot_4_medium;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 1.25rem;
     line-height: 1.8;
 }

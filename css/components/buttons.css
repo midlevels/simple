@@ -139,7 +139,7 @@
 
 .page-pagination-previous,
 .page-pagination-next {
-    font-family: heliotrope_ot_6_semibold;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 1.3rem;
     padding: 1rem 1rem; /* Add padding for button aesthetics */
     text-decoration: none; /* Remove underline */

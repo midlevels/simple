@@ -31,7 +31,7 @@
 
 .tag-head:child {
     margin-bottom: 1.5rem;
-    font-family: heliotrope_ot_4_medium, sans-serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
 }
 
 .tag:hover {
@@ -68,7 +68,7 @@ ul.tags {
 /* Post Tags */
 .post-tag {
     color: var(--color-text-subtle);
-    font-family: heliotrope_ot_4_medium, georgia, serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 1.2rem;
     font-variant-numeric: tabular-nums;
 	align-items: center;
@@ -82,7 +82,7 @@ ul.tags {
 }
 
 .tag-page-item {
-    font-family: heliotrope_ot_4_medium;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 1.5rem;
     line-height: 2.25rem;
     color: var(--color-text);

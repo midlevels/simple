@@ -45,7 +45,7 @@
 
 .site-logo {
     display: flex;
-    font-family: heliotrope_ot_4_medium;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-weight: 400;
     align-items: center;
     text-align: center;

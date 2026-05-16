@@ -6,7 +6,7 @@
 .post-list {
     margin-bottom: var(--space-l);
     max-width: var(--content-width);
-    font-family: heliotrope_ot_6_semibold;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
 }
 
 .post-list h2 {
@@ -24,13 +24,13 @@
     letter-spacing: -.025em;
     margin-bottom: var(--space-m);
     color: var(--color-primary);
-    font-family: heliotrope_ot_6_semibold;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     width:var(--content-width)
 }
 
 .post-list ul {
     list-style: none;
-    font-family: heliotrope_ot_4_medium;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     padding: 0;
     margin:0
 }

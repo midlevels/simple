@@ -22,7 +22,7 @@
 
 /* Large quotation text with curly quotes */
 .quotation-post .quotation-text {
-    font-family: heliotrope-italic, serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     font-size: 4rem;
     font-style: italic;
     line-height: 1.2;
@@ -41,7 +41,7 @@
 
 /* Attribution styling */
 .quotation-post .attribution {
-    font-family: heliotrope_4_caps_bold, sans-serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
     color: #111111;
     margin: 0;
     text-align: right;

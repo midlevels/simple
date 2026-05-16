@@ -12,7 +12,8 @@ blockquote {
 
 blockquote p {
     margin: 1rem;
-    font-family: heliotrope_ot_4_medium_italic;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+    font-style: italic;
     font-size: 1.5rem;
     line-height: 2.25rem;
 }
@@ -46,7 +47,8 @@ blockquote p {
 
 .callout {
     display: block;
-    font-family: heliotrope-italic, serif;
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+    font-style: italic;
     width: 44%;
     font-size: 3rem;
     line-height: 2.8rem;
