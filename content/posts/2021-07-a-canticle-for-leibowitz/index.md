@@ -1,7 +1,7 @@
 ---
 title: A Canticle for Leibowitz
 date: 2021-07-10T00:00:00.000Z
-writer: 'Walter M. Miller, Jr.'
+writer: 'Walter M. Miller Jr.'
 bio: >-
   Walter Michael Miller Jr. (January 23, 1923 – January 9, 1996) was an American
   science fiction writer. He wrote short stories that became a celebrated fix-up
