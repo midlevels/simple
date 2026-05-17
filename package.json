@@ -5,9 +5,6 @@
   "type": "module",
   "scripts": {
     "build:all": "npx @11ty/eleventy && npm run build:index",
-    "build:index": "npx -y pagefind --site _site",
-    "og:image": "node scripts/generate-og-images.js",
-    "og:image:force": "node scripts/generate-og-images.js --force",
     "start": "npx @11ty/eleventy --serve --quiet",
     "debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
     "debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
@@ -31,7 +28,6 @@
   "bugs": {
     "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-img": "github:11ty/eleventy-img",
